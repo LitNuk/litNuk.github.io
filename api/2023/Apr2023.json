@@ -30146,6 +30146,433 @@
    "height": 192,
    "text": "",
    "text_entities": []
+  },
+  {
+   "id": 257936,
+   "type": "message",
+   "date": "2023-04-17T12:55:26",
+   "date_unixtime": "1681710926",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 257930,
+   "text": "Tell me which program hooked you and why",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tell me which program hooked you and why"
+    }
+   ]
+  },
+  {
+   "id": 257937,
+   "type": "message",
+   "date": "2023-04-17T12:55:49",
+   "date_unixtime": "1681710949",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "Too lazy to dyor",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Too lazy to dyor"
+    }
+   ]
+  },
+  {
+   "id": 257938,
+   "type": "message",
+   "date": "2023-04-17T12:55:51",
+   "date_unixtime": "1681710951",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "🙈",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙈"
+    }
+   ]
+  },
+  {
+   "id": 257939,
+   "type": "message",
+   "date": "2023-04-17T13:00:14",
+   "date_unixtime": "1681711214",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    }
+   ]
+  },
+  {
+   "id": 257942,
+   "type": "message",
+   "date": "2023-04-17T13:29:57",
+   "date_unixtime": "1681712997",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 257936,
+   "text": "I'm doing long in YA and short in trofi dc buy low, sell high",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm doing long in YA and short in trofi dc buy low, sell high"
+    }
+   ]
+  },
+  {
+   "id": 257943,
+   "type": "message",
+   "date": "2023-04-17T13:31:07",
+   "date_unixtime": "1681713067",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "text": "Why? i have no specific answer for that, but i felt thats strategy most suitable for me, wbu?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why? i have no specific answer for that, but i felt thats strategy most suitable for me, wbu?"
+    }
+   ]
+  },
+  {
+   "id": 257945,
+   "type": "message",
+   "date": "2023-04-17T13:34:25",
+   "date_unixtime": "1681713265",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 257943,
+   "text": "Tbh there are many things that I don't quiet understand yet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tbh there are many things that I don't quiet understand yet"
+    }
+   ]
+  },
+  {
+   "id": 257946,
+   "type": "message",
+   "date": "2023-04-17T13:34:32",
+   "date_unixtime": "1681713272",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "Some of them looks the same to me",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Some of them looks the same to me"
+    }
+   ]
+  },
+  {
+   "id": 257947,
+   "type": "message",
+   "date": "2023-04-17T13:38:23",
+   "date_unixtime": "1681713503",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 257945,
+   "text": "Thats why they released a demo version",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thats why they released a demo version"
+    }
+   ]
+  },
+  {
+   "id": 257948,
+   "type": "message",
+   "date": "2023-04-17T13:38:37",
+   "date_unixtime": "1681713517",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 257947,
+   "text": "Even then I'm stil confused",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Even then I'm stil confused"
+    }
+   ]
+  },
+  {
+   "id": 257949,
+   "type": "message",
+   "date": "2023-04-17T13:38:53",
+   "date_unixtime": "1681713533",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "I'm too dumb for the apps",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm too dumb for the apps"
+    }
+   ]
+  },
+  {
+   "id": 257950,
+   "type": "message",
+   "date": "2023-04-17T13:39:16",
+   "date_unixtime": "1681713556",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "I'll use it regardless of my iq",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'll use it regardless of my iq"
+    }
+   ]
+  },
+  {
+   "id": 257951,
+   "type": "message",
+   "date": "2023-04-17T13:44:05",
+   "date_unixtime": "1681713845",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "Not to mention the app runs smooth and I like the design",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Not to mention the app runs smooth and I like the design"
+    }
+   ]
+  },
+  {
+   "id": 257952,
+   "type": "message",
+   "date": "2023-04-17T13:46:46",
+   "date_unixtime": "1681714006",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 257948,
+   "text": "So am i when the very first time",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So am i when the very first time"
+    }
+   ]
+  },
+  {
+   "id": 257953,
+   "type": "message",
+   "date": "2023-04-17T13:47:20",
+   "date_unixtime": "1681714040",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 257951,
+   "text": "Agree, and the app is quite simple to use, imo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agree, and the app is quite simple to use, imo"
+    }
+   ]
+  },
+  {
+   "id": 257954,
+   "type": "message",
+   "date": "2023-04-17T13:51:19",
+   "date_unixtime": "1681714279",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 257937,
+   "text": "Get some coffee, Bruh! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Get some coffee, Bruh! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 257955,
+   "type": "message",
+   "date": "2023-04-17T13:52:42",
+   "date_unixtime": "1681714362",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 257953,
+   "text": "I hope the final version of the app will be the same",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I hope the final version of the app will be the same"
+    }
+   ]
   }
  ]
 }
