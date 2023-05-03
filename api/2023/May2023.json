@@ -4907,10 +4907,456 @@
    ]
   },
   {
-   "id": 260185,
+   "id": 260188,
    "type": "message",
-   "date": "2023-05-02T20:30:11",
-   "date_unixtime": "1683034211",
+   "date": "2023-05-02T22:13:35",
+   "date_unixtime": "1683040415",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": "Don’t forget to test app by yourself before AMA. 📱",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Don’t forget to test app by yourself before AMA. 📱"
+    }
+   ]
+  },
+  {
+   "id": 260189,
+   "type": "message",
+   "date": "2023-05-02T22:13:35",
+   "date_unixtime": "1683040415",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3438@02-05-2023_17-07-38.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": [
+    "🔔 Set a reminder for tomorrow’s ",
+    {
+     "type": "bold",
+     "text": "“All Things Yield Pro” "
+    },
+    "AMA at 12:00 UTC — an exclusive, information-packed session on Yield Pro Simulator. Don’t miss the opportunity to ask all your burning questions LIVE! 💬\n\n🔽 Download Yield Pro Simulator\nAndroid: ",
+    {
+     "type": "link",
+     "text": "https://bit.ly/3AIqv4T"
+    },
+    "\niOS: ",
+    {
+     "type": "link",
+     "text": "https://apple.co/3NJMznB"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🔔 Set a reminder for tomorrow’s "
+    },
+    {
+     "type": "bold",
+     "text": "“All Things Yield Pro” "
+    },
+    {
+     "type": "plain",
+     "text": "AMA at 12:00 UTC — an exclusive, information-packed session on Yield Pro Simulator. Don’t miss the opportunity to ask all your burning questions LIVE! 💬\n\n🔽 Download Yield Pro Simulator\nAndroid: "
+    },
+    {
+     "type": "link",
+     "text": "https://bit.ly/3AIqv4T"
+    },
+    {
+     "type": "plain",
+     "text": "\niOS: "
+    },
+    {
+     "type": "link",
+     "text": "https://apple.co/3NJMznB"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 260192,
+   "type": "message",
+   "date": "2023-05-02T23:43:52",
+   "date_unixtime": "1683045832",
+   "from": "Combot",
+   "from_id": "user210944655",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Join YIELD App Local Communities:"
+    },
+    "\n\n• ",
+    {
+     "type": "text_link",
+     "text": "Arabic",
+     "href": "https://t.me/YIELD_sa"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Balkans",
+     "href": "https://t.me/YIELD_balkans"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Danish",
+     "href": "https://t.me/YIELD_dk"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "French",
+     "href": "https://t.me/YIELD_fr"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "German",
+     "href": "https://t.me/YIELD_de"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "India",
+     "href": "https://t.me/YIELD_in"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Indonesia",
+     "href": "https://t.me/YIELD_id"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Italian",
+     "href": "https://t.me/YIELD_it"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Korean",
+     "href": "https://t.me/YIELD_kr"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Chinese Traditional",
+     "href": "https://t.me/yieldapptc"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "HK Cantonese",
+     "href": "https://t.me/yieldappHK"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Malaysia",
+     "href": "https://t.me/yieldappmy"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Netherlands",
+     "href": "https://t.me/YIELD_nl"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Nigeria",
+     "href": "https://t.me/YIELD_ng"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Philippines",
+     "href": "https://t.me/YIELD_ph"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Polish",
+     "href": "https://t.me/YIELD_pl"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Portuguese",
+     "href": "https://t.me/YIELD_pt"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Spanish",
+     "href": "https://t.me/YIELD_es"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Swedish",
+     "href": "https://t.me/YIELD_se"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Turkish",
+     "href": "https://t.me/YIELD_tr"
+    },
+    "\n• ",
+    {
+     "type": "text_link",
+     "text": "Sina Weibo",
+     "href": "https://weibo.com/u/7523511504"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Join YIELD App Local Communities:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Arabic",
+     "href": "https://t.me/YIELD_sa"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Balkans",
+     "href": "https://t.me/YIELD_balkans"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Danish",
+     "href": "https://t.me/YIELD_dk"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "French",
+     "href": "https://t.me/YIELD_fr"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "German",
+     "href": "https://t.me/YIELD_de"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "India",
+     "href": "https://t.me/YIELD_in"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Indonesia",
+     "href": "https://t.me/YIELD_id"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Italian",
+     "href": "https://t.me/YIELD_it"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Korean",
+     "href": "https://t.me/YIELD_kr"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Chinese Traditional",
+     "href": "https://t.me/yieldapptc"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "HK Cantonese",
+     "href": "https://t.me/yieldappHK"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Malaysia",
+     "href": "https://t.me/yieldappmy"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Netherlands",
+     "href": "https://t.me/YIELD_nl"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Nigeria",
+     "href": "https://t.me/YIELD_ng"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Philippines",
+     "href": "https://t.me/YIELD_ph"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Polish",
+     "href": "https://t.me/YIELD_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Portuguese",
+     "href": "https://t.me/YIELD_pt"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Spanish",
+     "href": "https://t.me/YIELD_es"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Swedish",
+     "href": "https://t.me/YIELD_se"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Turkish",
+     "href": "https://t.me/YIELD_tr"
+    },
+    {
+     "type": "plain",
+     "text": "\n• "
+    },
+    {
+     "type": "text_link",
+     "text": "Sina Weibo",
+     "href": "https://weibo.com/u/7523511504"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 260197,
+   "type": "message",
+   "date": "2023-05-03T02:34:46",
+   "date_unixtime": "1683056086",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "forwarded_from": "YIELD App — News channel",
+   "text": [
+    "📰 Keep up to speed with the latest crypto news: EU’s newly approved MiCA regulation takes center stage 🇪🇺 an in-depth analysis of Ethereum’s Shapella upgrade, and potential migration of crypto businesses out of the US 🇺🇸\n",
+    {
+     "type": "link",
+     "text": "https://bit.ly/3AU25FP"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "📰 Keep up to speed with the latest crypto news: EU’s newly approved MiCA regulation takes center stage 🇪🇺 an in-depth analysis of Ethereum’s Shapella upgrade, and potential migration of crypto businesses out of the US 🇺🇸\n"
+    },
+    {
+     "type": "link",
+     "text": "https://bit.ly/3AU25FP"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 260207,
+   "type": "message",
+   "date": "2023-05-03T08:30:08",
+   "date_unixtime": "1683077408",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
@@ -5081,6 +5527,401 @@
     {
      "type": "mention",
      "text": "@andreimko"
+    }
+   ]
+  },
+  {
+   "id": 260208,
+   "type": "message",
+   "date": "2023-05-03T09:01:04",
+   "date_unixtime": "1683079264",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": "Morning, folks.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, folks."
+    }
+   ]
+  },
+  {
+   "id": 260209,
+   "type": "message",
+   "date": "2023-05-03T09:21:16",
+   "date_unixtime": "1683080476",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "text": "Morning",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning"
+    }
+   ]
+  },
+  {
+   "id": 260210,
+   "type": "message",
+   "date": "2023-05-03T09:21:32",
+   "date_unixtime": "1683080492",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "text": "Is AMA today?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is AMA today?"
+    }
+   ]
+  },
+  {
+   "id": 260212,
+   "type": "message",
+   "date": "2023-05-03T09:34:33",
+   "date_unixtime": "1683081273",
+   "from": "Pete | Yield App.",
+   "from_id": "user1679436831",
+   "text": "Good morning Edward",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning Edward"
+    }
+   ]
+  },
+  {
+   "id": 260213,
+   "type": "message",
+   "date": "2023-05-03T09:34:36",
+   "date_unixtime": "1683081276",
+   "from": "Pete | Yield App.",
+   "from_id": "user1679436831",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/260164"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/260164"
+    }
+   ]
+  },
+  {
+   "id": 260214,
+   "type": "message",
+   "date": "2023-05-03T09:36:39",
+   "date_unixtime": "1683081399",
+   "from": "🔥J✈️🏹",
+   "from_id": "user1104273370",
+   "text": "Who can I contact here regarding writing a article for this bullish trend i offer low fees and i have 5000+ connection on linkdn posted a different articles from different cryptocurrencies company kindly dm me.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Who can I contact here regarding writing a article for this bullish trend i offer low fees and i have 5000+ connection on linkdn posted a different articles from different cryptocurrencies company kindly dm me."
+    }
+   ]
+  },
+  {
+   "id": 260215,
+   "type": "message",
+   "date": "2023-05-03T09:53:32",
+   "date_unixtime": "1683082412",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "There's an AMA today? Let's go!!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "There's an AMA today? Let's go!!"
+    }
+   ]
+  },
+  {
+   "id": 260216,
+   "type": "message",
+   "date": "2023-05-03T09:57:59",
+   "date_unixtime": "1683082679",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "reply_to_message_id": 260212,
+   "text": "Morning",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning"
+    }
+   ]
+  },
+  {
+   "id": 260217,
+   "type": "message",
+   "date": "2023-05-03T09:59:30",
+   "date_unixtime": "1683082770",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "text": "We will talk about all things Yield pro, what is Yield pro exactly?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We will talk about all things Yield pro, what is Yield pro exactly?"
+    }
+   ]
+  },
+  {
+   "id": 260218,
+   "type": "message",
+   "date": "2023-05-03T09:59:53",
+   "date_unixtime": "1683082793",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "text": "Sorry, Im new here",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, Im new here"
+    }
+   ]
+  },
+  {
+   "id": 260219,
+   "type": "message",
+   "date": "2023-05-03T10:00:10",
+   "date_unixtime": "1683082810",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    }
+   ]
+  },
+  {
+   "id": 260220,
+   "type": "message",
+   "date": "2023-05-03T10:01:23",
+   "date_unixtime": "1683082883",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "text": "Im not joking, I even need to confirm whether this group is legit on my first chat since I joined wrong group before",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Im not joking, I even need to confirm whether this group is legit on my first chat since I joined wrong group before"
+    }
+   ]
+  },
+  {
+   "id": 260222,
+   "type": "message",
+   "date": "2023-05-03T10:03:20",
+   "date_unixtime": "1683083000",
+   "from": "Edward",
+   "from_id": "user1926394465",
+   "reply_to_message_id": 255634,
+   "text": "Poor me",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Poor me"
+    }
+   ]
+  },
+  {
+   "id": 260223,
+   "type": "message",
+   "date": "2023-05-03T10:07:26",
+   "date_unixtime": "1683083246",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "text": "Is off ramp coming?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is off ramp coming?"
+    }
+   ]
+  },
+  {
+   "id": 260224,
+   "type": "message",
+   "date": "2023-05-03T10:07:44",
+   "date_unixtime": "1683083264",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "text": "Or is that further down the road after onramp for more fiat is done?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Or is that further down the road after onramp for more fiat is done?"
     }
    ]
   }
