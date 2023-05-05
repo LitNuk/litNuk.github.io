@@ -9920,10 +9920,10 @@
    ]
   },
   {
-   "id": 260382,
+   "id": 260383,
    "type": "message",
-   "date": "2023-05-05T08:30:08",
-   "date_unixtime": "1683250208",
+   "date": "2023-05-05T10:00:10",
+   "date_unixtime": "1683255610",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
@@ -10094,6 +10094,306 @@
     {
      "type": "mention",
      "text": "@andreimko"
+    }
+   ]
+  },
+  {
+   "id": 260384,
+   "type": "message",
+   "date": "2023-05-05T10:21:55",
+   "date_unixtime": "1683256915",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "text": "IMO there may be no chance for YLD to be added to trofi as an investment asset",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "IMO there may be no chance for YLD to be added to trofi as an investment asset"
+    }
+   ]
+  },
+  {
+   "id": 260385,
+   "type": "message",
+   "date": "2023-05-05T10:22:02",
+   "date_unixtime": "1683256922",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "text": "How about H1?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How about H1?"
+    }
+   ]
+  },
+  {
+   "id": 260386,
+   "type": "message",
+   "date": "2023-05-05T10:22:40",
+   "date_unixtime": "1683256960",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "text": "Is there any plan to make H1 be one of investment assets on trofi?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is there any plan to make H1 be one of investment assets on trofi?"
+    }
+   ]
+  },
+  {
+   "id": 260387,
+   "type": "message",
+   "date": "2023-05-05T10:23:13",
+   "date_unixtime": "1683256993",
+   "edited": "2023-05-05T10:28:23",
+   "edited_unixtime": "1683257303",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "text": "*Trofi/Yield pro",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "*Trofi/Yield pro"
+    }
+   ]
+  },
+  {
+   "id": 260389,
+   "type": "message",
+   "date": "2023-05-05T10:29:31",
+   "date_unixtime": "1683257371",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 260386,
+   "text": "I would say no to that.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I would say no to that."
+    }
+   ]
+  },
+  {
+   "id": 260390,
+   "type": "message",
+   "date": "2023-05-05T10:30:26",
+   "date_unixtime": "1683257426",
+   "edited": "2023-05-05T11:18:32",
+   "edited_unixtime": "1683260312",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": "These topics so early in the morning. Are you trying to increase my coffee intake?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "These topics so early in the morning. Are you trying to increase my coffee intake?"
+    }
+   ]
+  },
+  {
+   "id": 260391,
+   "type": "message",
+   "date": "2023-05-05T10:43:40",
+   "date_unixtime": "1683258220",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "text": "Chillax, i just ask",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Chillax, i just ask"
+    }
+   ]
+  },
+  {
+   "id": 260392,
+   "type": "message",
+   "date": "2023-05-05T10:43:54",
+   "date_unixtime": "1683258234",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "reply_to_message_id": 260390,
+   "text": "lol, get some coffee then",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lol, get some coffee then"
+    }
+   ]
+  },
+  {
+   "id": 260393,
+   "type": "message",
+   "date": "2023-05-05T10:56:51",
+   "date_unixtime": "1683259011",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 260392,
+   "text": "A fine solution",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A fine solution"
+    }
+   ]
+  },
+  {
+   "id": 260394,
+   "type": "message",
+   "date": "2023-05-05T10:57:19",
+   "date_unixtime": "1683259039",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 260391,
+   "text": "And I was just joking.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And I was just joking."
+    }
+   ]
+  },
+  {
+   "id": 260395,
+   "type": "message",
+   "date": "2023-05-05T10:57:21",
+   "date_unixtime": "1683259041",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "file": "video_files/giphy.mp4",
+   "thumbnail": "video_files/giphy.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 480,
+   "height": 360,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 260396,
+   "type": "message",
+   "date": "2023-05-05T10:59:52",
+   "date_unixtime": "1683259192",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "High tension in the morning, your typical day in crypto community.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "High tension in the morning, your typical day in crypto community."
+    }
+   ]
+  },
+  {
+   "id": 260397,
+   "type": "message",
+   "date": "2023-05-05T11:05:56",
+   "date_unixtime": "1683259556",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "reply_to_message_id": 260394,
+   "text": "So do i",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So do i"
+    }
+   ]
+  },
+  {
+   "id": 260398,
+   "type": "message",
+   "date": "2023-05-05T11:06:50",
+   "date_unixtime": "1683259610",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "text": "I might have a big expectation on haven1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I might have a big expectation on haven1"
+    }
+   ]
+  },
+  {
+   "id": 260399,
+   "type": "message",
+   "date": "2023-05-05T11:07:02",
+   "date_unixtime": "1683259622",
+   "from": "Hasan Berli",
+   "from_id": "user1966945628",
+   "reply_to_message_id": 260393,
+   "text": "Seems work well",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Seems work well"
+    }
+   ]
+  },
+  {
+   "id": 260400,
+   "type": "message",
+   "date": "2023-05-05T11:10:47",
+   "date_unixtime": "1683259847",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Coffee always works to tame Sapta! 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Coffee always works to tame Sapta! 😅"
+    }
+   ]
+  },
+  {
+   "id": 260401,
+   "type": "message",
+   "date": "2023-05-05T11:11:05",
+   "date_unixtime": "1683259865",
+   "edited": "2023-05-05T11:19:01",
+   "edited_unixtime": "1683260341",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Morning, folks! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, folks! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 260402,
+   "type": "message",
+   "date": "2023-05-05T11:11:17",
+   "date_unixtime": "1683259877",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "file": "video_files/mp4 (3).mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 320,
+   "height": 262,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 260403,
+   "type": "message",
+   "date": "2023-05-05T11:21:01",
+   "date_unixtime": "1683260461",
+   "from": "steve philips",
+   "from_id": "user593452418",
+   "text": "goodmorning fellow yielders",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "goodmorning fellow yielders"
     }
    ]
   }
