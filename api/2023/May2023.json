@@ -34329,6 +34329,8 @@
    "type": "message",
    "date": "2023-05-16T20:26:37",
    "date_unixtime": "1684243597",
+   "edited": "2023-05-16T23:30:18",
+   "edited_unixtime": "1684254618",
    "from": "Szymon [never DM first]",
    "from_id": "user1594002366",
    "reply_to_message_id": 261299,
@@ -34552,6 +34554,8 @@
    "type": "message",
    "date": "2023-05-16T20:31:19",
    "date_unixtime": "1684243879",
+   "edited": "2023-05-16T20:45:16",
+   "edited_unixtime": "1684244716",
    "from": "JohnnyDapp",
    "from_id": "user811764836",
    "text": "Still great news for Yield App with new features;)",
@@ -34559,6 +34563,4567 @@
     {
      "type": "plain",
      "text": "Still great news for Yield App with new features;)"
+    }
+   ]
+  },
+  {
+   "id": 261306,
+   "type": "message",
+   "date": "2023-05-16T21:36:01",
+   "date_unixtime": "1684247761",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "Isn’t it an idea to include incentives for above 20k yield in extra yld rewards? Like for every 100 extra yld you lock you get an extra 0.01% only on YLD. Otherwise people will sell everything above 20k",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Isn’t it an idea to include incentives for above 20k yield in extra yld rewards? Like for every 100 extra yld you lock you get an extra 0.01% only on YLD. Otherwise people will sell everything above 20k"
+    }
+   ]
+  },
+  {
+   "id": 261307,
+   "type": "message",
+   "date": "2023-05-16T21:38:55",
+   "date_unixtime": "1684247935",
+   "edited": "2023-05-16T23:38:40",
+   "edited_unixtime": "1684255120",
+   "from": "Roman Kraft",
+   "from_id": "user971879780",
+   "reply_to_message_id": 261306,
+   "text": "i don‘t. accumulate instead.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i don‘t. accumulate instead."
+    }
+   ]
+  },
+  {
+   "id": 261309,
+   "type": "message",
+   "date": "2023-05-16T22:19:37",
+   "date_unixtime": "1684250377",
+   "edited": "2023-05-16T22:24:15",
+   "edited_unixtime": "1684250655",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 261306,
+   "text": "Thank you for sharing your idea, nothing is out of the question but of course that’s for the whole team to decide. There is still a plenty of time until end of this year. We might consider also other incentives, potentially offer lock extension for users on same or modified rules. Who knows! We will adjust to the situation to find the best outcome. Let’s see what future brings. It’s in our best interest to ensure smooth transition from YLD token to H1 as many Yield App team members are also big YLD holders like some Users here. Most importantly: optimism around Haven1 is growing every week and we’ve received a lot of positive feedback recently. It’s much appreciated. 🤝",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank you for sharing your idea, nothing is out of the question but of course that’s for the whole team to decide. There is still a plenty of time until end of this year. We might consider also other incentives, potentially offer lock extension for users on same or modified rules. Who knows! We will adjust to the situation to find the best outcome. Let’s see what future brings. It’s in our best interest to ensure smooth transition from YLD token to H1 as many Yield App team members are also big YLD holders like some Users here. Most importantly: optimism around Haven1 is growing every week and we’ve received a lot of positive feedback recently. It’s much appreciated. 🤝"
+    }
+   ]
+  },
+  {
+   "id": 261313,
+   "type": "message",
+   "date": "2023-05-17T03:28:35",
+   "date_unixtime": "1684268915",
+   "edited": "2023-05-17T03:28:53",
+   "edited_unixtime": "1684268933",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "Yieldapp the bests. Just my 2 cents",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yieldapp the bests. Just my 2 cents"
+    }
+   ]
+  },
+  {
+   "id": 261314,
+   "type": "message",
+   "date": "2023-05-17T03:29:19",
+   "date_unixtime": "1684268959",
+   "edited": "2023-05-17T03:31:38",
+   "edited_unixtime": "1684269098",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "Btw another day of safe interests. Till tommorow again and again 😊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Btw another day of safe interests. Till tommorow again and again 😊"
+    }
+   ]
+  },
+  {
+   "id": 261315,
+   "type": "message",
+   "date": "2023-05-17T03:53:58",
+   "date_unixtime": "1684270438",
+   "edited": "2023-05-17T06:16:30",
+   "edited_unixtime": "1684278990",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 261313,
+   "text": [
+    "Don't brag about your holdings in ",
+    {
+     "type": "link",
+     "text": "Yield.app"
+    },
+    " pls."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Don't brag about your holdings in "
+    },
+    {
+     "type": "link",
+     "text": "Yield.app"
+    },
+    {
+     "type": "plain",
+     "text": " pls."
+    }
+   ]
+  },
+  {
+   "id": 261324,
+   "type": "message",
+   "date": "2023-05-17T11:30:11",
+   "date_unixtime": "1684297811",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261325,
+   "type": "message",
+   "date": "2023-05-17T11:45:07",
+   "date_unixtime": "1684298707",
+   "edited": "2023-05-17T12:13:25",
+   "edited_unixtime": "1684300405",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Good morning, guys! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning, guys! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 261326,
+   "type": "message",
+   "date": "2023-05-17T12:08:49",
+   "date_unixtime": "1684300129",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "text": "When the option for buying with volt will be available?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When the option for buying with volt will be available?"
+    }
+   ]
+  },
+  {
+   "id": 261327,
+   "type": "message",
+   "date": "2023-05-17T12:10:59",
+   "date_unixtime": "1684300259",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261326,
+   "text": "Oh it's not buying with Volt, Filippo. But Volt allows you to connect your bank account easier when you're about to transfer funds to Yield App.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oh it's not buying with Volt, Filippo. But Volt allows you to connect your bank account easier when you're about to transfer funds to Yield App."
+    }
+   ]
+  },
+  {
+   "id": 261328,
+   "type": "message",
+   "date": "2023-05-17T12:13:15",
+   "date_unixtime": "1684300395",
+   "edited": "2023-05-17T12:43:25",
+   "edited_unixtime": "1684302205",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "reply_to_message_id": 261315,
+   "text": "Ahahah thank you you made me laugh as i wake up, have a good days guys 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ahahah thank you you made me laugh as i wake up, have a good days guys 😁"
+    }
+   ]
+  },
+  {
+   "id": 261329,
+   "type": "message",
+   "date": "2023-05-17T12:21:57",
+   "date_unixtime": "1684300917",
+   "edited": "2023-05-17T12:23:40",
+   "edited_unixtime": "1684301020",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "text": "Amazing day Yielders❤️❤️ G.M😇",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazing day Yielders❤️❤️ G.M😇"
+    }
+   ]
+  },
+  {
+   "id": 261330,
+   "type": "message",
+   "date": "2023-05-17T12:22:00",
+   "date_unixtime": "1684300920",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "file": "video_files/mp4 (2).mp4",
+   "thumbnail": "video_files/mp4.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 288,
+   "height": 218,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261331,
+   "type": "message",
+   "date": "2023-05-17T12:23:26",
+   "date_unixtime": "1684301006",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261327,
+   "text": "Ok so I need to open an account with them and then transfer to yield?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok so I need to open an account with them and then transfer to yield?"
+    }
+   ]
+  },
+  {
+   "id": 261332,
+   "type": "message",
+   "date": "2023-05-17T12:26:57",
+   "date_unixtime": "1684301217",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261331,
+   "text": "You don't need to. But when you're about to deposit funds to Yield App, you can connect your bank account via Volt.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You don't need to. But when you're about to deposit funds to Yield App, you can connect your bank account via Volt."
+    }
+   ]
+  },
+  {
+   "id": 261334,
+   "type": "message",
+   "date": "2023-05-17T12:58:48",
+   "date_unixtime": "1684303128",
+   "from": "J T",
+   "from_id": "user1515799136",
+   "text": "Hi, my app won’t let me sign in. It recognises my face but then takes me back to login and won’t load. Is there an issue? Thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi, my app won’t let me sign in. It recognises my face but then takes me back to login and won’t load. Is there an issue? Thanks"
+    }
+   ]
+  },
+  {
+   "id": 261336,
+   "type": "message",
+   "date": "2023-05-17T13:19:46",
+   "date_unixtime": "1684304386",
+   "edited": "2023-05-17T14:01:53",
+   "edited_unixtime": "1684306913",
+   "from": "steve philips",
+   "from_id": "user593452418",
+   "text": "goodmorning yielders",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "goodmorning yielders"
+    }
+   ]
+  },
+  {
+   "id": 261337,
+   "type": "message",
+   "date": "2023-05-17T13:24:25",
+   "date_unixtime": "1684304665",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261334,
+   "text": "Hey Pak, let me check in on that.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey Pak, let me check in on that."
+    }
+   ]
+  },
+  {
+   "id": 261339,
+   "type": "message",
+   "date": "2023-05-17T14:49:47",
+   "date_unixtime": "1684309787",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "Are you guys redeeming your Earn365 right after locking?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Are you guys redeeming your Earn365 right after locking?"
+    }
+   ]
+  },
+  {
+   "id": 261340,
+   "type": "message",
+   "date": "2023-05-17T15:06:54",
+   "date_unixtime": "1684310814",
+   "edited": "2023-05-17T15:07:03",
+   "edited_unixtime": "1684310823",
+   "from": "JohnnyDapp",
+   "from_id": "user811764836",
+   "text": "I am. Guess I'll deposit it back in afterwards. But will rather have the option to withdraw than just wait 1 year when I want to withdraw.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I am. Guess I'll deposit it back in afterwards. But will rather have the option to withdraw than just wait 1 year when I want to withdraw."
+    }
+   ]
+  },
+  {
+   "id": 261341,
+   "type": "message",
+   "date": "2023-05-17T15:20:47",
+   "date_unixtime": "1684311647",
+   "from": "Nameless Hero",
+   "from_id": "user1740487037",
+   "text": "Exactly, the moment when you press redeem you have to one one year I guess, same for earn+, one month awaiting",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Exactly, the moment when you press redeem you have to one one year I guess, same for earn+, one month awaiting"
+    }
+   ]
+  },
+  {
+   "id": 261342,
+   "type": "message",
+   "date": "2023-05-17T15:35:16",
+   "date_unixtime": "1684312516",
+   "edited": "2023-05-17T16:10:47",
+   "edited_unixtime": "1684314647",
+   "from": "InflationHedge",
+   "from_id": "user5320697017",
+   "reply_to_message_id": 261339,
+   "text": "Nope, my Earn+ 365 stays locked, assets I do not plan to use anytime soon. While having rest in Earn+ and some small part in Flexible (just in case I need some of them) 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nope, my Earn+ 365 stays locked, assets I do not plan to use anytime soon. While having rest in Earn+ and some small part in Flexible (just in case I need some of them) 👍"
+    }
+   ]
+  },
+  {
+   "id": 261343,
+   "type": "message",
+   "date": "2023-05-17T16:00:15",
+   "date_unixtime": "1684314015",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261344,
+   "type": "message",
+   "date": "2023-05-17T16:09:50",
+   "date_unixtime": "1684314590",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261332,
+   "text": "I can't deposit EUR on the app right? Only crypto? Do I have to use the desktop website to deposit through bank transfer?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I can't deposit EUR on the app right? Only crypto? Do I have to use the desktop website to deposit through bank transfer?"
+    }
+   ]
+  },
+  {
+   "id": 261345,
+   "type": "message",
+   "date": "2023-05-17T16:10:21",
+   "date_unixtime": "1684314621",
+   "edited": "2023-05-17T16:10:44",
+   "edited_unixtime": "1684314644",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261344,
+   "text": "You can deposit EUR or GBP to Yield App. Mobile app will do just fine.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You can deposit EUR or GBP to Yield App. Mobile app will do just fine."
+    }
+   ]
+  },
+  {
+   "id": 261346,
+   "type": "message",
+   "date": "2023-05-17T16:11:01",
+   "date_unixtime": "1684314661",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261345,
+   "text": "I don't find the option...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I don't find the option..."
+    }
+   ]
+  },
+  {
+   "id": 261347,
+   "type": "message",
+   "date": "2023-05-17T16:13:32",
+   "date_unixtime": "1684314812",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261346,
+   "text": "Click on Deposit menu on your dashboard. Then choose Fiat.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Click on Deposit menu on your dashboard. Then choose Fiat."
+    }
+   ]
+  },
+  {
+   "id": 261348,
+   "type": "message",
+   "date": "2023-05-17T16:20:43",
+   "date_unixtime": "1684315243",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261347,
+   "text": "I click on EUR, deposit, and then only shows me crypto...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I click on EUR, deposit, and then only shows me crypto..."
+    }
+   ]
+  },
+  {
+   "id": 261349,
+   "type": "message",
+   "date": "2023-05-17T16:21:20",
+   "date_unixtime": "1684315280",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261348,
+   "text": "Would you screenshot me that?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Would you screenshot me that?"
+    }
+   ]
+  },
+  {
+   "id": 261350,
+   "type": "message",
+   "date": "2023-05-17T16:21:28",
+   "date_unixtime": "1684315288",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261349,
+   "text": "I can't... 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I can't... 😂"
+    }
+   ]
+  },
+  {
+   "id": 261351,
+   "type": "message",
+   "date": "2023-05-17T16:21:46",
+   "date_unixtime": "1684315306",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261350,
+   "text": "It's protected",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It's protected"
+    }
+   ]
+  },
+  {
+   "id": 261352,
+   "type": "message",
+   "date": "2023-05-17T16:23:18",
+   "date_unixtime": "1684315398",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "text": "Let me update the app...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Let me update the app..."
+    }
+   ]
+  },
+  {
+   "id": 261353,
+   "type": "message",
+   "date": "2023-05-17T16:23:25",
+   "date_unixtime": "1684315405",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "text": "Maybe is cause wasn't updated",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Maybe is cause wasn't updated"
+    }
+   ]
+  },
+  {
+   "id": 261354,
+   "type": "message",
+   "date": "2023-05-17T16:25:16",
+   "date_unixtime": "1684315516",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 261348,
+   "text": "Just making sure because not sure what you mean by „I click on EUR”. So are you actually able to see EUR?\n\n1. Dashboard\n2. Deposit button\n3. Two options should appear: cryptocurrencies and fiat (are you able to see that second button?)\n4. After clicking fiat you should be able too see EUR and GBP\n\nSure, please update your app.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Just making sure because not sure what you mean by „I click on EUR”. So are you actually able to see EUR?\n\n1. Dashboard\n2. Deposit button\n3. Two options should appear: cryptocurrencies and fiat (are you able to see that second button?)\n4. After clicking fiat you should be able too see EUR and GBP\n\nSure, please update your app."
+    }
+   ]
+  },
+  {
+   "id": 261355,
+   "type": "message",
+   "date": "2023-05-17T16:30:27",
+   "date_unixtime": "1684315827",
+   "edited": "2023-05-17T16:30:36",
+   "edited_unixtime": "1684315836",
+   "from": "Filippo",
+   "from_id": "user523514511",
+   "reply_to_message_id": 261354,
+   "text": "Now it's ok! I couldn't see cause the app wasn't updated. 😜",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Now it's ok! I couldn't see cause the app wasn't updated. 😜"
+    }
+   ]
+  },
+  {
+   "id": 261356,
+   "type": "message",
+   "date": "2023-05-17T16:31:47",
+   "date_unixtime": "1684315907",
+   "edited": "2023-05-17T16:32:22",
+   "edited_unixtime": "1684315942",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 261355,
+   "text": "Glad to hear that! Nowadays updating app to fix something is a solution like „please restart your computer” in the past - often works. 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Glad to hear that! Nowadays updating app to fix something is a solution like „please restart your computer” in the past - often works. 😁"
+    }
+   ]
+  },
+  {
+   "id": 261357,
+   "type": "message",
+   "date": "2023-05-17T16:32:06",
+   "date_unixtime": "1684315926",
+   "edited": "2023-05-17T16:32:15",
+   "edited_unixtime": "1684315935",
+   "from": "Pete | Yield App.",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 261355,
+   "text": "hehe, yep this solves 95% of problems",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hehe, yep this solves 95% of problems"
+    }
+   ]
+  },
+  {
+   "id": 261358,
+   "type": "message",
+   "date": "2023-05-17T16:48:17",
+   "date_unixtime": "1684316897",
+   "from": "Ooh BigOOF",
+   "from_id": "user1478159720",
+   "text": "Btw, does the app not update automatically? Or it depends on phone settings for that?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Btw, does the app not update automatically? Or it depends on phone settings for that?"
+    }
+   ]
+  },
+  {
+   "id": 261359,
+   "type": "message",
+   "date": "2023-05-17T16:49:58",
+   "date_unixtime": "1684316998",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 261358,
+   "text": "It depends on your Play/App Store Settings. Not sure if you use Android or iOS but on Android I can set auto-updates or simply manual and decide by myself what to update and what not if that’s what you like.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It depends on your Play/App Store Settings. Not sure if you use Android or iOS but on Android I can set auto-updates or simply manual and decide by myself what to update and what not if that’s what you like."
+    }
+   ]
+  },
+  {
+   "id": 261360,
+   "type": "message",
+   "date": "2023-05-17T16:50:50",
+   "date_unixtime": "1684317050",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://support.google.com/googleplay/answer/113412?hl=en"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://support.google.com/googleplay/answer/113412?hl=en"
+    }
+   ]
+  },
+  {
+   "id": 261361,
+   "type": "message",
+   "date": "2023-05-17T17:11:23",
+   "date_unixtime": "1684318283",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "photo": "photos/photo_3467@17-05-2023_17-11-23.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": [
+    {
+     "type": "italic",
+     "text": "“It’s time for the industry to embrace open banking solutions so that retail crypto investors aren’t left outside in the cold”"
+    },
+    " ❄️ Gero Piskov, our Card and Payments Manager advocates for a more inclusive and accessible crypto landscape.\n\nYield App is leading the way with hassle-free on-ramps 📖 Read more about the Volt partnership here: ",
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/YieldApp-partners-with-Volt"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "italic",
+     "text": "“It’s time for the industry to embrace open banking solutions so that retail crypto investors aren’t left outside in the cold”"
+    },
+    {
+     "type": "plain",
+     "text": " ❄️ Gero Piskov, our Card and Payments Manager advocates for a more inclusive and accessible crypto landscape.\n\nYield App is leading the way with hassle-free on-ramps 📖 Read more about the Volt partnership here: "
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/YieldApp-partners-with-Volt"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 261362,
+   "type": "message",
+   "date": "2023-05-17T17:30:10",
+   "date_unixtime": "1684319410",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261363,
+   "type": "message",
+   "date": "2023-05-17T17:41:17",
+   "date_unixtime": "1684320077",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 261361,
+   "text": "CARD 🤔👀 and Payments Manager",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "CARD 🤔👀 and Payments Manager"
+    }
+   ]
+  },
+  {
+   "id": 261364,
+   "type": "message",
+   "date": "2023-05-17T18:03:09",
+   "date_unixtime": "1684321389",
+   "from": "T.",
+   "from_id": "user653655699",
+   "text": "yeah, I suppose he is the guy from cryptocom that YA hired back then?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yeah, I suppose he is the guy from cryptocom that YA hired back then?"
+    }
+   ]
+  },
+  {
+   "id": 261365,
+   "type": "message",
+   "date": "2023-05-17T18:05:15",
+   "date_unixtime": "1684321515",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": "Correct. Gero was working for CDC for around 2 years. Great guy BTW!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Correct. Gero was working for CDC for around 2 years. Great guy BTW!"
+    }
+   ]
+  },
+  {
+   "id": 261366,
+   "type": "message",
+   "date": "2023-05-17T18:08:15",
+   "date_unixtime": "1684321695",
+   "from": "T.",
+   "from_id": "user653655699",
+   "text": "Get him in the group",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Get him in the group"
+    }
+   ]
+  },
+  {
+   "id": 261367,
+   "type": "message",
+   "date": "2023-05-17T18:09:23",
+   "date_unixtime": "1684321763",
+   "edited": "2023-05-17T18:09:53",
+   "edited_unixtime": "1684321793",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@geropiskov"
+    },
+    " He is here. Just very busy. Fiat rails are his child who needs a lot of attention. 😁"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@geropiskov"
+    },
+    {
+     "type": "plain",
+     "text": " He is here. Just very busy. Fiat rails are his child who needs a lot of attention. 😁"
+    }
+   ]
+  },
+  {
+   "id": 261368,
+   "type": "message",
+   "date": "2023-05-17T18:10:32",
+   "date_unixtime": "1684321832",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": "Not sure about his activity on Telegram but if he sees that I marked him, he might come here and say hello. 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Not sure about his activity on Telegram but if he sees that I marked him, he might come here and say hello. 😁"
+    }
+   ]
+  },
+  {
+   "id": 261370,
+   "type": "message",
+   "date": "2023-05-17T18:28:59",
+   "date_unixtime": "1684322939",
+   "edited": "2023-05-17T18:33:28",
+   "edited_unixtime": "1684323208",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": "Very busy for Card ? 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Very busy for Card ? 😅"
+    }
+   ]
+  },
+  {
+   "id": 261371,
+   "type": "message",
+   "date": "2023-05-17T18:31:01",
+   "date_unixtime": "1684323061",
+   "edited": "2023-05-17T18:31:32",
+   "edited_unixtime": "1684323092",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 261370,
+   "text": "Very busy for fiat rails. Launching them is definitely not an end game. For sure those partnerships took a lot of effort also from his side! Potentially new currencies in the future are coming… Let’s see. 🙂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Very busy for fiat rails. Launching them is definitely not an end game. For sure those partnerships took a lot of effort also from his side! Potentially new currencies in the future are coming… Let’s see. 🙂"
+    }
+   ]
+  },
+  {
+   "id": 261372,
+   "type": "message",
+   "date": "2023-05-17T18:51:38",
+   "date_unixtime": "1684324298",
+   "edited": "2023-05-17T18:58:46",
+   "edited_unixtime": "1684324726",
+   "from": "Gero Piskov",
+   "from_id": "user1642871543",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    " thanks for the intro! \n\nHey everyone 👋\nPleasure to connect! Looking forward to interacting further on any fiat related questions you may have so please do not hesitate to reach out!"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": " thanks for the intro! \n\nHey everyone 👋\nPleasure to connect! Looking forward to interacting further on any fiat related questions you may have so please do not hesitate to reach out!"
+    }
+   ]
+  },
+  {
+   "id": 261373,
+   "type": "message",
+   "date": "2023-05-17T18:57:59",
+   "date_unixtime": "1684324679",
+   "edited": "2023-05-17T18:59:01",
+   "edited_unixtime": "1684324741",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 261372,
+   "text": "Good to see you here, Gero. 🤝 :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good to see you here, Gero. 🤝 :)"
+    }
+   ]
+  },
+  {
+   "id": 261375,
+   "type": "message",
+   "date": "2023-05-17T20:30:09",
+   "date_unixtime": "1684330209",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261376,
+   "type": "message",
+   "date": "2023-05-17T20:33:08",
+   "date_unixtime": "1684330388",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": "Please don’t forget to check our April breakdown:\n\n1. 130m YLD locked!\n2. Fiat Republic partnership\n3. Earn+ 365 official launch\n4. Yield Pro Simulator also on iOS\n\nMore: 👇👇👇",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please don’t forget to check our April breakdown:\n\n1. 130m YLD locked!\n2. Fiat Republic partnership\n3. Earn+ 365 official launch\n4. Yield Pro Simulator also on iOS\n\nMore: 👇👇👇"
+    }
+   ]
+  },
+  {
+   "id": 261377,
+   "type": "message",
+   "date": "2023-05-17T20:33:08",
+   "date_unixtime": "1684330388",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3463@16-05-2023_17-20-11.jpg",
+   "width": 1119,
+   "height": 1280,
+   "text": "April’s been a blast 💥 Check out what we’ve been up to in our monthly report! 🟦",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "April’s been a blast 💥 Check out what we’ve been up to in our monthly report! 🟦"
+    }
+   ]
+  },
+  {
+   "id": 261378,
+   "type": "message",
+   "date": "2023-05-17T20:33:08",
+   "date_unixtime": "1684330388",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3464@16-05-2023_17-20-11.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261379,
+   "type": "message",
+   "date": "2023-05-17T20:33:09",
+   "date_unixtime": "1684330389",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3465@16-05-2023_17-20-11.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261381,
+   "type": "message",
+   "date": "2023-05-17T23:30:08",
+   "date_unixtime": "1684341008",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261383,
+   "type": "message",
+   "date": "2023-05-17T23:34:01",
+   "date_unixtime": "1684341241",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "How much is the Apr for stablecoins?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How much is the Apr for stablecoins?"
+    }
+   ]
+  },
+  {
+   "id": 261384,
+   "type": "message",
+   "date": "2023-05-17T23:35:42",
+   "date_unixtime": "1684341342",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261383,
+   "text": "You can earn up to 11% p.a. on your stablecoins depending on which portfolio you've chosen for your investment",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You can earn up to 11% p.a. on your stablecoins depending on which portfolio you've chosen for your investment"
+    }
+   ]
+  },
+  {
+   "id": 261385,
+   "type": "message",
+   "date": "2023-05-17T23:35:54",
+   "date_unixtime": "1684341354",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": [
+    "All rates can be found here:\n\n",
+    {
+     "type": "link",
+     "text": "https://yield.app/earn"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "All rates can be found here:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/earn"
+    }
+   ]
+  },
+  {
+   "id": 261386,
+   "type": "message",
+   "date": "2023-05-17T23:35:56",
+   "date_unixtime": "1684341356",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261384,
+   "text": "Meaning?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Meaning?"
+    }
+   ]
+  },
+  {
+   "id": 261387,
+   "type": "message",
+   "date": "2023-05-17T23:36:45",
+   "date_unixtime": "1684341405",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261386,
+   "text": "We currently offer 3 different portfolio types: Flexible, Earn+ and Earn+ 365",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We currently offer 3 different portfolio types: Flexible, Earn+ and Earn+ 365"
+    }
+   ]
+  },
+  {
+   "id": 261388,
+   "type": "message",
+   "date": "2023-05-17T23:37:11",
+   "date_unixtime": "1684341431",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "And they have different rates and different redemption plans",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And they have different rates and different redemption plans"
+    }
+   ]
+  },
+  {
+   "id": 261389,
+   "type": "message",
+   "date": "2023-05-17T23:38:27",
+   "date_unixtime": "1684341507",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261387,
+   "text": "I just had a look at the website...why would anybody want to choose yealdapp over nexo considering it has higher apr and its bigger and more reliable?...I remember the Apr was much higher back in the days",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I just had a look at the website...why would anybody want to choose yealdapp over nexo considering it has higher apr and its bigger and more reliable?...I remember the Apr was much higher back in the days"
+    }
+   ]
+  },
+  {
+   "id": 261390,
+   "type": "message",
+   "date": "2023-05-17T23:42:21",
+   "date_unixtime": "1684341741",
+   "edited": "2023-05-18T15:07:33",
+   "edited_unixtime": "1684397253",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 261389,
+   "text": "Wait. For real? Maybe cause Nexo are shady. Even if apr is a little higher, but is it? You think people in celcius cared in the end how much they made, after losing it all 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Wait. For real? Maybe cause Nexo are shady. Even if apr is a little higher, but is it? You think people in celcius cared in the end how much they made, after losing it all 😂"
+    }
+   ]
+  },
+  {
+   "id": 261391,
+   "type": "message",
+   "date": "2023-05-17T23:43:25",
+   "date_unixtime": "1684341805",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "More reliable. Pls...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "More reliable. Pls..."
+    }
+   ]
+  },
+  {
+   "id": 261392,
+   "type": "message",
+   "date": "2023-05-17T23:43:29",
+   "date_unixtime": "1684341809",
+   "edited": "2023-05-18T01:41:52",
+   "edited_unixtime": "1684348912",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261390,
+   "text": "Shady?why?...as far as we know they have proof of reserve,licenses and so on",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Shady?why?...as far as we know they have proof of reserve,licenses and so on"
+    }
+   ]
+  },
+  {
+   "id": 261393,
+   "type": "message",
+   "date": "2023-05-17T23:43:46",
+   "date_unixtime": "1684341826",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Didn't Celsius have that also?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Didn't Celsius have that also?"
+    }
+   ]
+  },
+  {
+   "id": 261394,
+   "type": "message",
+   "date": "2023-05-17T23:44:08",
+   "date_unixtime": "1684341848",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "So why yealdapp is safer?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So why yealdapp is safer?"
+    }
+   ]
+  },
+  {
+   "id": 261396,
+   "type": "message",
+   "date": "2023-05-17T23:46:01",
+   "date_unixtime": "1684341961",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Cause less shady rumors I guess. That's why I pulled my money off Nexo. But if you feel better with Nexo. That's great for you!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Cause less shady rumors I guess. That's why I pulled my money off Nexo. But if you feel better with Nexo. That's great for you!"
+    }
+   ]
+  },
+  {
+   "id": 261397,
+   "type": "message",
+   "date": "2023-05-17T23:46:49",
+   "date_unixtime": "1684342009",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": [
+    "I've never lost a minute of sleep with ",
+    {
+     "type": "link",
+     "text": "yield.app"
+    },
+    ", even in times of Celsius and ftx debacle."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I've never lost a minute of sleep with "
+    },
+    {
+     "type": "link",
+     "text": "yield.app"
+    },
+    {
+     "type": "plain",
+     "text": ", even in times of Celsius and ftx debacle."
+    }
+   ]
+  },
+  {
+   "id": 261398,
+   "type": "message",
+   "date": "2023-05-17T23:47:31",
+   "date_unixtime": "1684342051",
+   "from": "R",
+   "from_id": "user426407683",
+   "file": "video_files/pikachu-sleep-pikachu.mp4",
+   "thumbnail": "video_files/pikachu-sleep-pikachu.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 1,
+   "width": 320,
+   "height": 238,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261399,
+   "type": "message",
+   "date": "2023-05-17T23:49:54",
+   "date_unixtime": "1684342194",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "I also used yealdapp and never had a problem...very satisfied...but that was because the Apr was super high",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I also used yealdapp and never had a problem...very satisfied...but that was because the Apr was super high"
+    }
+   ]
+  },
+  {
+   "id": 261400,
+   "type": "message",
+   "date": "2023-05-17T23:51:03",
+   "date_unixtime": "1684342263",
+   "edited": "2023-05-18T01:42:11",
+   "edited_unixtime": "1684348931",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261387,
+   "text": "Don't understand the difference between earn+ and earn+365...if I lock my yld for 12 months will I get 12% for both plans?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Don't understand the difference between earn+ and earn+365...if I lock my yld for 12 months will I get 12% for both plans?"
+    }
+   ]
+  },
+  {
+   "id": 261401,
+   "type": "message",
+   "date": "2023-05-17T23:53:33",
+   "date_unixtime": "1684342413",
+   "edited": "2023-05-18T01:42:10",
+   "edited_unixtime": "1684348930",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261400,
+   "text": "Earn+ has a 30days redemption period, which means when you redeem your funds, they will need 30days to get to your wallet(with compounded interest)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Earn+ has a 30days redemption period, which means when you redeem your funds, they will need 30days to get to your wallet(with compounded interest)"
+    }
+   ]
+  },
+  {
+   "id": 261402,
+   "type": "message",
+   "date": "2023-05-17T23:53:52",
+   "date_unixtime": "1684342432",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "And Earn+365 has a 365 days redemption period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And Earn+365 has a 365 days redemption period"
+    }
+   ]
+  },
+  {
+   "id": 261403,
+   "type": "message",
+   "date": "2023-05-17T23:54:03",
+   "date_unixtime": "1684342443",
+   "edited": "2023-05-17T23:54:17",
+   "edited_unixtime": "1684342457",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "I got that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I got that"
+    }
+   ]
+  },
+  {
+   "id": 261404,
+   "type": "message",
+   "date": "2023-05-17T23:54:41",
+   "date_unixtime": "1684342481",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "If you stake or lock your YLD your membership tier will increase and your YLD will also generate interest paid in YLD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If you stake or lock your YLD your membership tier will increase and your YLD will also generate interest paid in YLD"
+    }
+   ]
+  },
+  {
+   "id": 261405,
+   "type": "message",
+   "date": "2023-05-17T23:55:47",
+   "date_unixtime": "1684342547",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "It says that I get 9% on earn+ and 11% on earn+365...but below it says that if I lock up my yld I ll get 12% for both plans",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It says that I get 9% on earn+ and 11% on earn+365...but below it says that if I lock up my yld I ll get 12% for both plans"
+    }
+   ]
+  },
+  {
+   "id": 261406,
+   "type": "message",
+   "date": "2023-05-17T23:58:42",
+   "date_unixtime": "1684342722",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261405,
+   "photo": "photos/photo_3471@17-05-2023_23-58-42.jpg",
+   "width": 1280,
+   "height": 579,
+   "text": "you're reffering to this picture right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "you're reffering to this picture right?"
+    }
+   ]
+  },
+  {
+   "id": 261407,
+   "type": "message",
+   "date": "2023-05-17T23:58:58",
+   "date_unixtime": "1684342738",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261406,
+   "text": "No",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No"
+    }
+   ]
+  },
+  {
+   "id": 261408,
+   "type": "message",
+   "date": "2023-05-17T23:59:31",
+   "date_unixtime": "1684342771",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "photo": "photos/photo_3472@17-05-2023_23-59-31.jpg",
+   "width": 576,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261409,
+   "type": "message",
+   "date": "2023-05-17T23:59:59",
+   "date_unixtime": "1684342799",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "photo": "photos/photo_3473@17-05-2023_23-59-59.jpg",
+   "width": 576,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261410,
+   "type": "message",
+   "date": "2023-05-18T00:00:16",
+   "date_unixtime": "1684342816",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": [
+    "You can lock your YLD tokens for 12% on your YLD tokens. It's locked till 31-12. Because ",
+    {
+     "type": "link",
+     "text": "yield.app"
+    },
+    " is developing a L1 called Haven1. 11% on earn365 is for stable coins. If you hold enough YLD tokens. You need to be diamond member with 20.000 yld tokens. Not a percentage of your portfolio like at Nexo."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You can lock your YLD tokens for 12% on your YLD tokens. It's locked till 31-12. Because "
+    },
+    {
+     "type": "link",
+     "text": "yield.app"
+    },
+    {
+     "type": "plain",
+     "text": " is developing a L1 called Haven1. 11% on earn365 is for stable coins. If you hold enough YLD tokens. You need to be diamond member with 20.000 yld tokens. Not a percentage of your portfolio like at Nexo."
+    }
+   ]
+  },
+  {
+   "id": 261411,
+   "type": "message",
+   "date": "2023-05-18T00:00:55",
+   "date_unixtime": "1684342855",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261410,
+   "text": "Ok I get it now",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok I get it now"
+    }
+   ]
+  },
+  {
+   "id": 261412,
+   "type": "message",
+   "date": "2023-05-18T00:01:02",
+   "date_unixtime": "1684342862",
+   "edited": "2023-05-18T00:01:21",
+   "edited_unixtime": "1684342881",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261408,
+   "text": [
+    "Okay I suppose we could change it to \"receive 12% ",
+    {
+     "type": "bold",
+     "text": "YLD"
+    },
+    " p.a.\" for more clarity"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okay I suppose we could change it to \"receive 12% "
+    },
+    {
+     "type": "bold",
+     "text": "YLD"
+    },
+    {
+     "type": "plain",
+     "text": " p.a.\" for more clarity"
+    }
+   ]
+  },
+  {
+   "id": 261413,
+   "type": "message",
+   "date": "2023-05-18T00:01:22",
+   "date_unixtime": "1684342882",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261412,
+   "text": "Better I guess",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Better I guess"
+    }
+   ]
+  },
+  {
+   "id": 261414,
+   "type": "message",
+   "date": "2023-05-18T00:01:45",
+   "date_unixtime": "1684342905",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "What misleaded me is that there s not that option on the flexible plan",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What misleaded me is that there s not that option on the flexible plan"
+    }
+   ]
+  },
+  {
+   "id": 261415,
+   "type": "message",
+   "date": "2023-05-18T00:02:11",
+   "date_unixtime": "1684342931",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "Is the whole interest paid in stablecoin?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is the whole interest paid in stablecoin?"
+    }
+   ]
+  },
+  {
+   "id": 261416,
+   "type": "message",
+   "date": "2023-05-18T00:02:37",
+   "date_unixtime": "1684342957",
+   "edited": "2023-05-18T00:02:56",
+   "edited_unixtime": "1684342976",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Yes. The 11% is paid in the asset you deploy.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes. The 11% is paid in the asset you deploy."
+    }
+   ]
+  },
+  {
+   "id": 261417,
+   "type": "message",
+   "date": "2023-05-18T00:02:49",
+   "date_unixtime": "1684342969",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261416,
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 261418,
+   "type": "message",
+   "date": "2023-05-18T00:06:51",
+   "date_unixtime": "1684343211",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "text": "Last question...if I decide to deploy my funds for only one month can I just deploy them and undeploy them straight after?...in this way the 30 days count starts immediately and I ll get the interest for 30 days???",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Last question...if I decide to deploy my funds for only one month can I just deploy them and undeploy them straight after?...in this way the 30 days count starts immediately and I ll get the interest for 30 days???"
+    }
+   ]
+  },
+  {
+   "id": 261419,
+   "type": "message",
+   "date": "2023-05-18T00:08:28",
+   "date_unixtime": "1684343308",
+   "edited": "2023-05-18T00:09:38",
+   "edited_unixtime": "1684343378",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261418,
+   "text": "If you deploy your funds today, you can request a redemption tomorrow and the funds(with compounded interest) will be in your wallet 30days after that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If you deploy your funds today, you can request a redemption tomorrow and the funds(with compounded interest) will be in your wallet 30days after that"
+    }
+   ]
+  },
+  {
+   "id": 261420,
+   "type": "message",
+   "date": "2023-05-18T00:09:45",
+   "date_unixtime": "1684343385",
+   "edited": "2023-05-18T00:10:13",
+   "edited_unixtime": "1684343413",
+   "from": "Ravi",
+   "from_id": "user342509013",
+   "reply_to_message_id": 261419,
+   "text": "Perfect...I just wanted to know if this was the only way or if there was a possibility to select \"one month\" after which my funds were unlocked",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Perfect...I just wanted to know if this was the only way or if there was a possibility to select \"one month\" after which my funds were unlocked"
+    }
+   ]
+  },
+  {
+   "id": 261421,
+   "type": "message",
+   "date": "2023-05-18T01:00:07",
+   "date_unixtime": "1684346407",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261422,
+   "type": "message",
+   "date": "2023-05-18T01:07:13",
+   "date_unixtime": "1684346833",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3463@16-05-2023_17-20-11.jpg",
+   "width": 1119,
+   "height": 1280,
+   "text": "April’s been a blast 💥 Check out what we’ve been up to in our monthly report! 🟦",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "April’s been a blast 💥 Check out what we’ve been up to in our monthly report! 🟦"
+    }
+   ]
+  },
+  {
+   "id": 261423,
+   "type": "message",
+   "date": "2023-05-18T01:07:14",
+   "date_unixtime": "1684346834",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3464@16-05-2023_17-20-11.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261424,
+   "type": "message",
+   "date": "2023-05-18T01:07:14",
+   "date_unixtime": "1684346834",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "forwarded_from": "YIELD App — News channel",
+   "photo": "photos/photo_3465@16-05-2023_17-20-11.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261425,
+   "type": "message",
+   "date": "2023-05-18T01:41:45",
+   "date_unixtime": "1684348905",
+   "from": "T.",
+   "from_id": "user653655699",
+   "reply_to_message_id": 261390,
+   "text": "I use both. Nexo isn't shady, but whatever. Both companies are legit imo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I use both. Nexo isn't shady, but whatever. Both companies are legit imo"
+    }
+   ]
+  },
+  {
+   "id": 261426,
+   "type": "message",
+   "date": "2023-05-18T01:58:25",
+   "date_unixtime": "1684349905",
+   "edited": "2023-05-18T02:28:12",
+   "edited_unixtime": "1684351692",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "The problem with Nexo is that it's from Bulgaria. Basically everything in this country is related to local mafia which is very powerful. No fud but i dont trust Nexo for that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The problem with Nexo is that it's from Bulgaria. Basically everything in this country is related to local mafia which is very powerful. No fud but i dont trust Nexo for that"
+    }
+   ]
+  },
+  {
+   "id": 261427,
+   "type": "message",
+   "date": "2023-05-18T02:26:06",
+   "date_unixtime": "1684351566",
+   "from": "T.",
+   "from_id": "user653655699",
+   "reply_to_message_id": 261426,
+   "text": "This makes no sense at all.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This makes no sense at all."
+    }
+   ]
+  },
+  {
+   "id": 261428,
+   "type": "message",
+   "date": "2023-05-18T02:30:07",
+   "date_unixtime": "1684351807",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261429,
+   "type": "message",
+   "date": "2023-05-18T03:06:39",
+   "date_unixtime": "1684353999",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "forwarded_from": "YIELD App — News channel",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 86,
+   "width": 1080,
+   "height": 1080,
+   "text": [
+    "Get valuable insights from our expert panel Rhys, Lucas, and Ajit, as they weigh in on the ever-evolving cryptocurrency landscape 🏞\n\n🎧 Catch the full episode 👉 ",
+    {
+     "type": "link",
+     "text": "https://provoke.fm/episode-1-meet-breaking-chains-crypto/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Get valuable insights from our expert panel Rhys, Lucas, and Ajit, as they weigh in on the ever-evolving cryptocurrency landscape 🏞\n\n🎧 Catch the full episode 👉 "
+    },
+    {
+     "type": "link",
+     "text": "https://provoke.fm/episode-1-meet-breaking-chains-crypto/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 261430,
+   "type": "message",
+   "date": "2023-05-18T03:15:47",
+   "date_unixtime": "1684354547",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "reply_to_message_id": 261427,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.euronews.com/next/2023/01/13/nexo-probe-four-charged-after-raid-at-crypto-lenders-offices-in-bulgaria"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.euronews.com/next/2023/01/13/nexo-probe-four-charged-after-raid-at-crypto-lenders-offices-in-bulgaria"
+    }
+   ]
+  },
+  {
+   "id": 261431,
+   "type": "message",
+   "date": "2023-05-18T03:16:12",
+   "date_unixtime": "1684354572",
+   "edited": "2023-05-18T03:23:15",
+   "edited_unixtime": "1684354995",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "Nothing is totally clean in this country especially for a company this big",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nothing is totally clean in this country especially for a company this big"
+    }
+   ]
+  },
+  {
+   "id": 261432,
+   "type": "message",
+   "date": "2023-05-18T03:16:46",
+   "date_unixtime": "1684354606",
+   "from": "T.",
+   "from_id": "user653655699",
+   "reply_to_message_id": 261430,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😂",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261434,
+   "type": "message",
+   "date": "2023-05-18T03:23:03",
+   "date_unixtime": "1684354983",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 261432,
+   "text": "This is exactly how Celsius users reacted to the fud which became Reality.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is exactly how Celsius users reacted to the fud which became Reality."
+    }
+   ]
+  },
+  {
+   "id": 261435,
+   "type": "message",
+   "date": "2023-05-18T03:23:43",
+   "date_unixtime": "1684355023",
+   "from": "T.",
+   "from_id": "user653655699",
+   "reply_to_message_id": 261434,
+   "text": "So if someone says fud about YA and you laugh, this means that YA will go under? You make no sense.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So if someone says fud about YA and you laugh, this means that YA will go under? You make no sense."
+    }
+   ]
+  },
+  {
+   "id": 261436,
+   "type": "message",
+   "date": "2023-05-18T03:24:05",
+   "date_unixtime": "1684355045",
+   "edited": "2023-05-18T03:26:35",
+   "edited_unixtime": "1684355195",
+   "from": "T.",
+   "from_id": "user653655699",
+   "text": "Again, I'm not comparing companies or anything. If nexo survived the storm , they are fine in my eyes, same with YA",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Again, I'm not comparing companies or anything. If nexo survived the storm , they are fine in my eyes, same with YA"
+    }
+   ]
+  },
+  {
+   "id": 261437,
+   "type": "message",
+   "date": "2023-05-18T03:24:51",
+   "date_unixtime": "1684355091",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 261435,
+   "text": "Someone says fud? It's all over the internet. How is the internet someone?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Someone says fud? It's all over the internet. How is the internet someone?"
+    }
+   ]
+  },
+  {
+   "id": 261438,
+   "type": "message",
+   "date": "2023-05-18T03:25:42",
+   "date_unixtime": "1684355142",
+   "edited": "2023-05-18T03:25:56",
+   "edited_unixtime": "1684355156",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": [
+    "Haven't found any fud about ",
+    {
+     "type": "link",
+     "text": "yield.app"
+    },
+    " on the internet. So..."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Haven't found any fud about "
+    },
+    {
+     "type": "link",
+     "text": "yield.app"
+    },
+    {
+     "type": "plain",
+     "text": " on the internet. So..."
+    }
+   ]
+  },
+  {
+   "id": 261439,
+   "type": "message",
+   "date": "2023-05-18T03:26:09",
+   "date_unixtime": "1684355169",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "That's why I feel more safe here.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "That's why I feel more safe here."
+    }
+   ]
+  },
+  {
+   "id": 261440,
+   "type": "message",
+   "date": "2023-05-18T03:26:19",
+   "date_unixtime": "1684355179",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "But if you believe in them, great. Hope it works out.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But if you believe in them, great. Hope it works out."
+    }
+   ]
+  },
+  {
+   "id": 261446,
+   "type": "message",
+   "date": "2023-05-18T08:30:08",
+   "date_unixtime": "1684373408",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261447,
+   "type": "message",
+   "date": "2023-05-18T08:31:56",
+   "date_unixtime": "1684373516",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 261426,
+   "text": "I really want to hear more about this, but no other project discussion here",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I really want to hear more about this, but no other project discussion here"
+    }
+   ]
+  },
+  {
+   "id": 261448,
+   "type": "message",
+   "date": "2023-05-18T08:37:24",
+   "date_unixtime": "1684373844",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261447,
+   "text": "True, please avoid discussion about other platform here. The internet is big after all.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "True, please avoid discussion about other platform here. The internet is big after all."
+    }
+   ]
+  },
+  {
+   "id": 261449,
+   "type": "message",
+   "date": "2023-05-18T08:38:07",
+   "date_unixtime": "1684373887",
+   "edited": "2023-05-18T15:10:52",
+   "edited_unixtime": "1684397452",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": "So, that's my good morning really. Hope you guys have a great day ahead. I'm here to help.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So, that's my good morning really. Hope you guys have a great day ahead. I'm here to help."
+    }
+   ]
+  },
+  {
+   "id": 261450,
+   "type": "message",
+   "date": "2023-05-18T08:43:27",
+   "date_unixtime": "1684374207",
+   "from": "jonnyseagull",
+   "from_id": "user6008184226",
+   "text": "Yeah, enough of this Nexo talk.  Nexo can't hold a candle to YA, imo.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah, enough of this Nexo talk.  Nexo can't hold a candle to YA, imo."
+    }
+   ]
+  },
+  {
+   "id": 261451,
+   "type": "message",
+   "date": "2023-05-18T08:59:24",
+   "date_unixtime": "1684375164",
+   "edited": "2023-05-18T15:11:00",
+   "edited_unixtime": "1684397460",
+   "from": "Bradian",
+   "from_id": "user5735509712",
+   "reply_to_message_id": 261449,
+   "text": "Good morning",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning"
+    }
+   ]
+  },
+  {
+   "id": 261452,
+   "type": "message",
+   "date": "2023-05-18T09:01:25",
+   "date_unixtime": "1684375285",
+   "from": "Bradian",
+   "from_id": "user5735509712",
+   "reply_to_message_id": 261449,
+   "text": "I have a question in your dm\nPlease check",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I have a question in your dm\nPlease check"
+    }
+   ]
+  },
+  {
+   "id": 261453,
+   "type": "message",
+   "date": "2023-05-18T09:19:40",
+   "date_unixtime": "1684376380",
+   "edited": "2023-05-18T10:32:55",
+   "edited_unixtime": "1684380775",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "text": "Morning everyone",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning everyone"
+    }
+   ]
+  },
+  {
+   "id": 261455,
+   "type": "message",
+   "date": "2023-05-18T10:00:09",
+   "date_unixtime": "1684378809",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261456,
+   "type": "message",
+   "date": "2023-05-18T10:16:49",
+   "date_unixtime": "1684379809",
+   "edited": "2023-05-18T10:32:51",
+   "edited_unixtime": "1684380771",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "text": "G.morning friends😇",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "G.morning friends😇"
+    }
+   ]
+  },
+  {
+   "id": 261457,
+   "type": "message",
+   "date": "2023-05-18T10:32:32",
+   "date_unixtime": "1684380752",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 261438,
+   "text": "Hmm,\nI found tons of Fud here and there about Yield App, and it's normal, right? The only thing that makes me feel safe here is how Yield App's team reacts to any situation. Dozen times, they've been proven it!\n\nEarly this year, do you guys remember how Lucas spent the weekend with us on weekend panic? 😅 Not to mention LUNA UST ( how come is Yield App not exposed to LUNA or UST?) What else?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hmm,\nI found tons of Fud here and there about Yield App, and it's normal, right? The only thing that makes me feel safe here is how Yield App's team reacts to any situation. Dozen times, they've been proven it!\n\nEarly this year, do you guys remember how Lucas spent the weekend with us on weekend panic? 😅 Not to mention LUNA UST ( how come is Yield App not exposed to LUNA or UST?) What else?"
+    }
+   ]
+  },
+  {
+   "id": 261458,
+   "type": "message",
+   "date": "2023-05-18T10:32:48",
+   "date_unixtime": "1684380768",
+   "edited": "2023-05-18T15:11:15",
+   "edited_unixtime": "1684397475",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Morning, guys! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, guys! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 261459,
+   "type": "message",
+   "date": "2023-05-18T10:33:56",
+   "date_unixtime": "1684380836",
+   "edited": "2023-05-18T10:34:17",
+   "edited_unixtime": "1684380857",
+   "from": "Bruh",
+   "from_id": "user5077095364",
+   "reply_to_message_id": 261457,
+   "text": "FUD in general is normal I think. Just ignore them.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "FUD in general is normal I think. Just ignore them."
+    }
+   ]
+  },
+  {
+   "id": 261464,
+   "type": "message",
+   "date": "2023-05-18T14:30:12",
+   "date_unixtime": "1684395012",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 261465,
+   "type": "message",
+   "date": "2023-05-18T15:07:03",
+   "date_unixtime": "1684397223",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "text": "I got an email code for a withdrawel but didnt recieve any prompt screen to place the code into it in the app. Any advice on this?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I got an email code for a withdrawel but didnt recieve any prompt screen to place the code into it in the app. Any advice on this?"
+    }
+   ]
+  },
+  {
+   "id": 261466,
+   "type": "message",
+   "date": "2023-05-18T15:11:34",
+   "date_unixtime": "1684397494",
+   "edited": "2023-05-18T15:21:19",
+   "edited_unixtime": "1684398079",
+   "from": "steve philips",
+   "from_id": "user593452418",
+   "text": "goodmorning fellow yielders",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "goodmorning fellow yielders"
+    }
+   ]
+  },
+  {
+   "id": 261467,
+   "type": "message",
+   "date": "2023-05-18T15:21:43",
+   "date_unixtime": "1684398103",
+   "edited": "2023-05-18T15:44:12",
+   "edited_unixtime": "1684399452",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 261466,
+   "text": "Morning, Steve!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, Steve!"
+    }
+   ]
+  },
+  {
+   "id": 261468,
+   "type": "message",
+   "date": "2023-05-18T15:21:57",
+   "date_unixtime": "1684398117",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261465,
+   "text": "Go to your Dashboard and see recent activity, then click on your withdrawal.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Go to your Dashboard and see recent activity, then click on your withdrawal."
+    }
+   ]
+  },
+  {
+   "id": 261469,
+   "type": "message",
+   "date": "2023-05-18T15:22:16",
+   "date_unixtime": "1684398136",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": [
+    "Please let me know if you still have issues , ",
+    {
+     "type": "mention",
+     "text": "@mcquillanben"
+    },
+    "!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please let me know if you still have issues , "
+    },
+    {
+     "type": "mention",
+     "text": "@mcquillanben"
+    },
+    {
+     "type": "plain",
+     "text": "!"
+    }
+   ]
+  },
+  {
+   "id": 261470,
+   "type": "message",
+   "date": "2023-05-18T15:23:54",
+   "date_unixtime": "1684398234",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "reply_to_message_id": 261469,
+   "text": "It says \"email confirmation required\" in the recent activity part of the dashboard. When i click on the transaction it just gives me info about it. Nowhere to input the code",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It says \"email confirmation required\" in the recent activity part of the dashboard. When i click on the transaction it just gives me info about it. Nowhere to input the code"
+    }
+   ]
+  },
+  {
+   "id": 261471,
+   "type": "message",
+   "date": "2023-05-18T15:24:02",
+   "date_unixtime": "1684398242",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "text": "Im on android mobile by the way",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Im on android mobile by the way"
+    }
+   ]
+  },
+  {
+   "id": 261473,
+   "type": "message",
+   "date": "2023-05-18T15:35:18",
+   "date_unixtime": "1684398918",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261470,
+   "text": "Go to your Dashboard, touch on Withdraw > Cryptocurrency. On the next menu, touch on 'Already have a verification code'.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Go to your Dashboard, touch on Withdraw > Cryptocurrency. On the next menu, touch on 'Already have a verification code'."
+    }
+   ]
+  },
+  {
+   "id": 261474,
+   "type": "message",
+   "date": "2023-05-18T15:39:28",
+   "date_unixtime": "1684399168",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    " Lets say I collect YLD to get H1 on swap later, but I dont want to put my YLD on Yield app or open market. I just want to hold my entire YLD in my wallet"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": " Lets say I collect YLD to get H1 on swap later, but I dont want to put my YLD on Yield app or open market. I just want to hold my entire YLD in my wallet"
+    }
+   ]
+  },
+  {
+   "id": 261475,
+   "type": "message",
+   "date": "2023-05-18T15:39:47",
+   "date_unixtime": "1684399187",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "text": "How will the swap process be?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How will the swap process be?"
+    }
+   ]
+  },
+  {
+   "id": 261476,
+   "type": "message",
+   "date": "2023-05-18T15:41:00",
+   "date_unixtime": "1684399260",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261475,
+   "text": "I imagine that you either deposit your YLD to your Yield App account just before the swap, or an exchange. That's just my assumption on how the migration works. Information regarding this will be coming later in details.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I imagine that you either deposit your YLD to your Yield App account just before the swap, or an exchange. That's just my assumption on how the migration works. Information regarding this will be coming later in details."
+    }
+   ]
+  },
+  {
+   "id": 261477,
+   "type": "message",
+   "date": "2023-05-18T15:44:06",
+   "date_unixtime": "1684399446",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "reply_to_message_id": 261473,
+   "text": "Getting this notifcation when i do this",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Getting this notifcation when i do this"
+    }
+   ]
+  },
+  {
+   "id": 261478,
+   "type": "message",
+   "date": "2023-05-18T15:44:09",
+   "date_unixtime": "1684399449",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "photo": "photos/photo_3477@18-05-2023_15-44-09.jpg",
+   "width": 1280,
+   "height": 374,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 261479,
+   "type": "message",
+   "date": "2023-05-18T15:44:19",
+   "date_unixtime": "1684399459",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "text": "Thanks for the help and sorry for the hassle",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks for the help and sorry for the hassle"
+    }
+   ]
+  },
+  {
+   "id": 261480,
+   "type": "message",
+   "date": "2023-05-18T15:44:33",
+   "date_unixtime": "1684399473",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261478,
+   "text": "Are you using the latest version of the app?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Are you using the latest version of the app?"
+    }
+   ]
+  },
+  {
+   "id": 261481,
+   "type": "message",
+   "date": "2023-05-18T15:47:07",
+   "date_unixtime": "1684399627",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "text": "Yep its the latest version of the app. No updates required in the google play store",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yep its the latest version of the app. No updates required in the google play store"
+    }
+   ]
+  },
+  {
+   "id": 261482,
+   "type": "message",
+   "date": "2023-05-18T15:47:30",
+   "date_unixtime": "1684399650",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "Can you send me a PM please",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can you send me a PM please"
+    }
+   ]
+  },
+  {
+   "id": 261483,
+   "type": "message",
+   "date": "2023-05-18T15:51:51",
+   "date_unixtime": "1684399911",
+   "from": "Ben",
+   "from_id": "user575129416",
+   "reply_to_message_id": 261482,
+   "text": "Sent",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sent"
+    }
+   ]
+  },
+  {
+   "id": 261484,
+   "type": "message",
+   "date": "2023-05-18T15:52:43",
+   "date_unixtime": "1684399963",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "reply_to_message_id": 261476,
+   "text": "As I thought",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "As I thought"
+    }
+   ]
+  },
+  {
+   "id": 261485,
+   "type": "message",
+   "date": "2023-05-18T15:52:52",
+   "date_unixtime": "1684399972",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 261483,
+   "text": "On it 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "On it 👍"
+    }
+   ]
+  },
+  {
+   "id": 261486,
+   "type": "message",
+   "date": "2023-05-18T15:53:16",
+   "date_unixtime": "1684399996",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "text": "When will the new Have1 related doc be published?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When will the new Have1 related doc be published?"
+    }
+   ]
+  },
+  {
+   "id": 261487,
+   "type": "message",
+   "date": "2023-05-18T15:56:02",
+   "date_unixtime": "1684400162",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 261486,
+   "text": "New a few bits here and there, but I can assure you that our DeFi team is always full on throttle. So much stuff being done in the background, not just Haven1, but Yield App in general.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "New a few bits here and there, but I can assure you that our DeFi team is always full on throttle. So much stuff being done in the background, not just Haven1, but Yield App in general."
+    }
+   ]
+  },
+  {
+   "id": 261488,
+   "type": "message",
+   "date": "2023-05-18T15:58:23",
+   "date_unixtime": "1684400303",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "reply_to_message_id": 261487,
+   "text": "Ok great, keep it up",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok great, keep it up"
+    }
+   ]
+  },
+  {
+   "id": 261489,
+   "type": "message",
+   "date": "2023-05-18T16:01:06",
+   "date_unixtime": "1684400466",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- ",
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFinally, other Yield App staff are listed below. Always verify usernames (not display names):\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@timfrost5"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@lalexk"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@justinYIELD"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YLD_Peter"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Grigoryprl"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@hcli_ya"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
     }
    ]
   }
