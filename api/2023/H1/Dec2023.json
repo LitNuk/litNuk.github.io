@@ -5885,21 +5885,6 @@
    ]
   },
   {
-   "id": 1990,
-   "type": "message",
-   "date": "2023-12-17T11:54:39",
-   "date_unixtime": "1702788879",
-   "from": "Josh |",
-   "from_id": "user5171452120",
-   "text": "USE MY REFFERAL CODE GUYS WE'RE BOTH CAN GET EXTRA REWARD\n\n➖121fnwsj9c➖",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "USE MY REFFERAL CODE GUYS WE'RE BOTH CAN GET EXTRA REWARD\n\n➖121fnwsj9c➖"
-    }
-   ]
-  },
-  {
    "id": 1996,
    "type": "message",
    "date": "2023-12-17T12:25:49",
@@ -6002,6 +5987,8 @@
    "type": "message",
    "date": "2023-12-17T13:49:14",
    "date_unixtime": "1702795754",
+   "edited": "2023-12-17T21:29:26",
+   "edited_unixtime": "1702823366",
    "from": "T",
    "from_id": "user5915190736",
    "reply_to_message_id": 1964,
@@ -6328,38 +6315,6 @@
    ]
   },
   {
-   "id": 2072,
-   "type": "message",
-   "date": "2023-12-17T16:16:38",
-   "date_unixtime": "1702804598",
-   "from": "Rose",
-   "from_id": "user609517172",
-   "reply_to_message_id": 2071,
-   "text": "Heya :) PM me if you have any questions on how to use me!",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Heya :) PM me if you have any questions on how to use me!"
-    }
-   ]
-  },
-  {
-   "id": 2074,
-   "type": "message",
-   "date": "2023-12-17T16:16:43",
-   "date_unixtime": "1702804603",
-   "from": "Rose",
-   "from_id": "user609517172",
-   "reply_to_message_id": 2073,
-   "text": "Heya :) PM me if you have any questions on how to use me!",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Heya :) PM me if you have any questions on how to use me!"
-    }
-   ]
-  },
-  {
    "id": 2075,
    "type": "message",
    "date": "2023-12-17T16:24:03",
@@ -6486,36 +6441,6 @@
    ]
   },
   {
-   "id": 2087,
-   "type": "message",
-   "date": "2023-12-17T16:47:51",
-   "date_unixtime": "1702806471",
-   "from": "Alexandre Guillaume",
-   "from_id": "user6175403811",
-   "text": "If anyone still needs a referral code, feel free to use mine 👇🏼",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "If anyone still needs a referral code, feel free to use mine 👇🏼"
-    }
-   ]
-  },
-  {
-   "id": 2088,
-   "type": "message",
-   "date": "2023-12-17T16:47:54",
-   "date_unixtime": "1702806474",
-   "from": "Alexandre Guillaume",
-   "from_id": "user6175403811",
-   "text": "akqq4ekrce",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "akqq4ekrce"
-    }
-   ]
-  },
-  {
    "id": 2090,
    "type": "message",
    "date": "2023-12-17T16:54:14",
@@ -6531,32 +6456,1082 @@
    ]
   },
   {
-   "id": 2092,
+   "id": 2094,
    "type": "message",
-   "date": "2023-12-17T16:56:41",
-   "date_unixtime": "1702807001",
-   "from": "Rose",
-   "from_id": "user609517172",
+   "date": "2023-12-17T16:59:01",
+   "date_unixtime": "1702807141",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "photo": "photos/photo_28@17-12-2023_16-59-01.jpg",
+   "width": 576,
+   "height": 1280,
+   "text": "How to fix?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How to fix?"
+    }
+   ]
+  },
+  {
+   "id": 2096,
+   "type": "message",
+   "date": "2023-12-17T16:59:39",
+   "date_unixtime": "1702807179",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "reply_to_message_id": 2094,
+   "text": "How can I fix this?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How can I fix this?"
+    }
+   ]
+  },
+  {
+   "id": 2098,
+   "type": "message",
+   "date": "2023-12-17T17:02:49",
+   "date_unixtime": "1702807369",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 2096,
+   "text": "I'm facing the same! Let's just chill and wait for the admin!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm facing the same! Let's just chill and wait for the admin!"
+    }
+   ]
+  },
+  {
+   "id": 2099,
+   "type": "message",
+   "date": "2023-12-17T17:02:51",
+   "date_unixtime": "1702807371",
+   "edited": "2023-12-17T17:03:08",
+   "edited_unixtime": "1702807388",
+   "from": "Dinastyle",
+   "from_id": "user1710730952",
+   "reply_to_message_id": 2096,
+   "text": "You don't have access to the testnet yet, your address isn't active, that's why the faucet isn't working. You need to wait; no one here is in the testnet yet.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You don't have access to the testnet yet, your address isn't active, that's why the faucet isn't working. You need to wait; no one here is in the testnet yet."
+    }
+   ]
+  },
+  {
+   "id": 2100,
+   "type": "message",
+   "date": "2023-12-17T17:03:12",
+   "date_unixtime": "1702807392",
+   "edited": "2023-12-17T17:10:54",
+   "edited_unixtime": "1702807854",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "reply_to_message_id": 2099,
+   "text": "Ok sir Ty for info",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok sir Ty for info"
+    }
+   ]
+  },
+  {
+   "id": 2126,
+   "type": "message",
+   "date": "2023-12-17T17:42:58",
+   "date_unixtime": "1702809778",
+   "edited": "2023-12-17T17:47:40",
+   "edited_unixtime": "1702810060",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 2085,
+   "text": "Be careful about possible phishing attempts \n\nI was still in the top 100 of the waitlist yesterday and haven’t received any such notification \n\nAs Dina says, the testnet is not yet active so I would wait for an announcement here also confirming that it’s up and running",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Be careful about possible phishing attempts \n\nI was still in the top 100 of the waitlist yesterday and haven’t received any such notification \n\nAs Dina says, the testnet is not yet active so I would wait for an announcement here also confirming that it’s up and running"
+    }
+   ]
+  },
+  {
+   "id": 2130,
+   "type": "message",
+   "date": "2023-12-17T17:47:35",
+   "date_unixtime": "1702810055",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 2126,
+   "text": "Grabbed that from the Haven1 waitlist page! - Have you checked yours?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Grabbed that from the Haven1 waitlist page! - Have you checked yours?"
+    }
+   ]
+  },
+  {
+   "id": 2131,
+   "type": "message",
+   "date": "2023-12-17T17:48:35",
+   "date_unixtime": "1702810115",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Oh I haven’t checked it yet. It’s Sunday morning and I’m still drinking my coffee ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oh I haven’t checked it yet. It’s Sunday morning and I’m still drinking my coffee ☕️"
+    }
+   ]
+  },
+  {
+   "id": 2133,
+   "type": "message",
+   "date": "2023-12-17T17:51:47",
+   "date_unixtime": "1702810307",
+   "edited": "2023-12-17T17:52:41",
+   "edited_unixtime": "1702810361",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 2131,
+   "text": "Kick back with your coffee, and let nothing mess with your vibe! ☕️\n\nGood morning, Ci!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kick back with your coffee, and let nothing mess with your vibe! ☕️\n\nGood morning, Ci!"
+    }
+   ]
+  },
+  {
+   "id": 2158,
+   "type": "message",
+   "date": "2023-12-17T19:03:56",
+   "date_unixtime": "1702814636",
+   "from": "G",
+   "from_id": "user1355618303",
+   "reply_to_message_id": 1903,
+   "text": "Oi I’m back up to 500 on the waitlist again, nice",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oi I’m back up to 500 on the waitlist again, nice"
+    }
+   ]
+  },
+  {
+   "id": 2165,
+   "type": "message",
+   "date": "2023-12-17T19:48:14",
+   "date_unixtime": "1702817294",
+   "edited": "2023-12-17T19:56:21",
+   "edited_unixtime": "1702817781",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 2131,
+   "text": "Best time of the day. Good morning to all you Euros!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Best time of the day. Good morning to all you Euros!"
+    }
+   ]
+  },
+  {
+   "id": 2166,
+   "type": "message",
+   "date": "2023-12-17T19:59:20",
+   "date_unixtime": "1702817960",
+   "edited": "2023-12-17T20:02:01",
+   "edited_unixtime": "1702818121",
+   "from": "Akash | Haven1",
+   "from_id": "user5954831979",
+   "reply_to_message_id": 2075,
+   "text": "The devs have implemented a fix for the waitlist queue issue today. Your position in the queue should now be accurately adjusted",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The devs have implemented a fix for the waitlist queue issue today. Your position in the queue should now be accurately adjusted"
+    }
+   ]
+  },
+  {
+   "id": 2167,
+   "type": "message",
+   "date": "2023-12-17T20:05:34",
+   "date_unixtime": "1702818334",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "No worries guys",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No worries guys"
+    }
+   ]
+  },
+  {
+   "id": 2175,
+   "type": "message",
+   "date": "2023-12-17T20:56:48",
+   "date_unixtime": "1702821408",
+   "from": "Airdrop Lavar",
+   "from_id": "user6104860920",
+   "text": "Good afternoon",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good afternoon"
+    }
+   ]
+  },
+  {
+   "id": 2178,
+   "type": "message",
+   "date": "2023-12-17T21:05:16",
+   "date_unixtime": "1702821916",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "photo": "photos/photo_29@17-12-2023_21-05-16.jpg",
+   "width": 574,
+   "height": 1280,
+   "text": "Why testnet faucet limit reach",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why testnet faucet limit reach"
+    }
+   ]
+  },
+  {
+   "id": 2179,
+   "type": "message",
+   "date": "2023-12-17T21:06:19",
+   "date_unixtime": "1702821979",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "text": "Why?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why?"
+    }
+   ]
+  },
+  {
+   "id": 2181,
+   "type": "message",
+   "date": "2023-12-17T21:07:35",
+   "date_unixtime": "1702822055",
+   "from": "Dinastyle",
+   "from_id": "user1710730952",
+   "reply_to_message_id": 2179,
+   "text": "You don't have access to the testnet yet, your address isn't active, that's why the faucet isn't working.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You don't have access to the testnet yet, your address isn't active, that's why the faucet isn't working."
+    }
+   ]
+  },
+  {
+   "id": 2182,
+   "type": "message",
+   "date": "2023-12-17T21:08:59",
+   "date_unixtime": "1702822139",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "reply_to_message_id": 2181,
+   "text": "How to active my wallet?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How to active my wallet?"
+    }
+   ]
+  },
+  {
+   "id": 2183,
+   "type": "message",
+   "date": "2023-12-17T21:09:52",
+   "date_unixtime": "1702822192",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
    "text": [
-    "Welcome ",
     {
      "type": "mention",
-     "text": "@uzi000"
+     "text": "@Dinastyle92"
     },
-    " to the official Haven1 Telegram group! 🥳 \n\nHaven1 is an EVM-compatible blockchain using Proof-of-Authority and novel identity frameworks to create an environment that is safe, secure, and compliant for all network participants: individuals, institutions, developers, and validators. ✅ \n\nHaven1’s Proof of Authority consensus mechanism aligns reputation and identity with on-chain validation, while also ensuring scalability and an ESG-friendly architecture. ✅ \n\nAs an EVM-compatible blockchain, Haven1 is a part of the widely-adopted broader Ethereum ecosystem, meaning developers, users, and institutions will find it easier to get started on Haven1 compared to a brand new layer 1 architecture. ✅"
+    " how to active my wallet"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Dinastyle92"
+    },
+    {
+     "type": "plain",
+     "text": " how to active my wallet"
+    }
+   ]
+  },
+  {
+   "id": 2187,
+   "type": "message",
+   "date": "2023-12-17T21:15:07",
+   "date_unixtime": "1702822507",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Dinastyle92"
+    },
+    " how to active my wallet?"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Dinastyle92"
+    },
+    {
+     "type": "plain",
+     "text": " how to active my wallet?"
+    }
+   ]
+  },
+  {
+   "id": 2188,
+   "type": "message",
+   "date": "2023-12-17T21:15:26",
+   "date_unixtime": "1702822526",
+   "from": "M F34",
+   "from_id": "user5612144998",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    " check DM"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": " check DM"
+    }
+   ]
+  },
+  {
+   "id": 2189,
+   "type": "message",
+   "date": "2023-12-17T21:17:30",
+   "date_unixtime": "1702822650",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "text": "Anyone here know how to active wallet?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone here know how to active wallet?"
+    }
+   ]
+  },
+  {
+   "id": 2190,
+   "type": "message",
+   "date": "2023-12-17T21:21:48",
+   "date_unixtime": "1702822908",
+   "edited": "2023-12-17T21:25:33",
+   "edited_unixtime": "1702823133",
+   "from": "Dinastyle",
+   "from_id": "user1710730952",
+   "reply_to_message_id": 2189,
+   "text": "You can't activate your address, you signed up for the waitlist to join the testnet. For now, nobody has access to the testnet. You're all very early. As soon as the testnet is open to the public, the information will be posted here.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You can't activate your address, you signed up for the waitlist to join the testnet. For now, nobody has access to the testnet. You're all very early. As soon as the testnet is open to the public, the information will be posted here."
+    }
+   ]
+  },
+  {
+   "id": 2191,
+   "type": "message",
+   "date": "2023-12-17T21:24:53",
+   "date_unixtime": "1702823093",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "reply_to_message_id": 2190,
+   "text": "Aww okay hehehehe sorry❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Aww okay hehehehe sorry❤️"
+    }
+   ]
+  },
+  {
+   "id": 2192,
+   "type": "message",
+   "date": "2023-12-17T21:25:08",
+   "date_unixtime": "1702823108",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "text": "We have a zealy campaign?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We have a zealy campaign?"
+    }
+   ]
+  },
+  {
+   "id": 2193,
+   "type": "message",
+   "date": "2023-12-17T21:29:15",
+   "date_unixtime": "1702823355",
+   "edited": "2023-12-18T01:49:26",
+   "edited_unixtime": "1702838966",
+   "from": "Dinastyle",
+   "from_id": "user1710730952",
+   "reply_to_message_id": 2192,
+   "text": [
+    "Sure, here the link ⬇️\n ",
+    {
+     "type": "link",
+     "text": "https://zealy.io/c/haven1/invite/eKYMKZcBF6mIwm6UW_HaU"
+    },
+    ""
    ],
    "text_entities": [
     {
      "type": "plain",
-     "text": "Welcome "
+     "text": "Sure, here the link ⬇️\n "
     },
     {
-     "type": "mention",
-     "text": "@uzi000"
+     "type": "link",
+     "text": "https://zealy.io/c/haven1/invite/eKYMKZcBF6mIwm6UW_HaU"
     },
     {
      "type": "plain",
-     "text": " to the official Haven1 Telegram group! 🥳 \n\nHaven1 is an EVM-compatible blockchain using Proof-of-Authority and novel identity frameworks to create an environment that is safe, secure, and compliant for all network participants: individuals, institutions, developers, and validators. ✅ \n\nHaven1’s Proof of Authority consensus mechanism aligns reputation and identity with on-chain validation, while also ensuring scalability and an ESG-friendly architecture. ✅ \n\nAs an EVM-compatible blockchain, Haven1 is a part of the widely-adopted broader Ethereum ecosystem, meaning developers, users, and institutions will find it easier to get started on Haven1 compared to a brand new layer 1 architecture. ✅"
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 2194,
+   "type": "message",
+   "date": "2023-12-17T21:30:03",
+   "date_unixtime": "1702823403",
+   "edited": "2023-12-17T21:33:36",
+   "edited_unixtime": "1702823616",
+   "from": "Rafaelpi Core",
+   "from_id": "user2132504914",
+   "reply_to_message_id": 2193,
+   "text": "Thank you",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank you"
+    }
+   ]
+  },
+  {
+   "id": 2197,
+   "type": "message",
+   "date": "2023-12-17T22:12:40",
+   "date_unixtime": "1702825960",
+   "edited": "2023-12-17T22:13:10",
+   "edited_unixtime": "1702825990",
+   "from": "ASH",
+   "from_id": "user5675646029",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Dinastyle92"
+    },
+    " Sir How Many Users Will Be Win in zealy event?"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Dinastyle92"
+    },
+    {
+     "type": "plain",
+     "text": " Sir How Many Users Will Be Win in zealy event?"
+    }
+   ]
+  },
+  {
+   "id": 2198,
+   "type": "message",
+   "date": "2023-12-17T22:14:32",
+   "date_unixtime": "1702826072",
+   "edited": "2023-12-17T23:08:47",
+   "edited_unixtime": "1702829327",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 2197,
+   "text": "Hello there ASH, thank you for asking, more information will be available in the future.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello there ASH, thank you for asking, more information will be available in the future."
+    }
+   ]
+  },
+  {
+   "id": 2200,
+   "type": "message",
+   "date": "2023-12-17T22:26:20",
+   "date_unixtime": "1702826780",
+   "from": "Nirzon AHMED",
+   "from_id": "user5372370683",
+   "text": "Hi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi"
+    }
+   ]
+  },
+  {
+   "id": 2201,
+   "type": "message",
+   "date": "2023-12-17T22:29:58",
+   "date_unixtime": "1702826998",
+   "from": "TC",
+   "from_id": "user526531073",
+   "text": [
+    "Hi queue got push back again but my screen is showing \"",
+    {
+     "type": "bold",
+     "text": "You're verified - enjoy the testnet!"
+    },
+    "\""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi queue got push back again but my screen is showing \""
+    },
+    {
+     "type": "bold",
+     "text": "You're verified - enjoy the testnet!"
+    },
+    {
+     "type": "plain",
+     "text": "\""
+    }
+   ]
+  },
+  {
+   "id": 2202,
+   "type": "message",
+   "date": "2023-12-17T22:30:11",
+   "date_unixtime": "1702827011",
+   "from": "TC",
+   "from_id": "user526531073",
+   "text": "But also shoeing the wait list 😭",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But also shoeing the wait list 😭"
+    }
+   ]
+  },
+  {
+   "id": 2203,
+   "type": "message",
+   "date": "2023-12-17T22:30:50",
+   "date_unixtime": "1702827050",
+   "edited": "2023-12-17T22:33:22",
+   "edited_unixtime": "1702827202",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 2201,
+   "text": "Would you be so kind as to send me these screenshots via DM?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Would you be so kind as to send me these screenshots via DM?"
+    }
+   ]
+  },
+  {
+   "id": 2206,
+   "type": "message",
+   "date": "2023-12-17T22:33:29",
+   "date_unixtime": "1702827209",
+   "from": "TC",
+   "from_id": "user526531073",
+   "reply_to_message_id": 2203,
+   "text": "Done",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Done"
+    }
+   ]
+  },
+  {
+   "id": 2207,
+   "type": "message",
+   "date": "2023-12-17T22:33:55",
+   "date_unixtime": "1702827235",
+   "from": "&hmet",
+   "from_id": "user5556537307",
+   "text": "Helloo 🫡",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Helloo 🫡"
+    }
+   ]
+  },
+  {
+   "id": 2219,
+   "type": "message",
+   "date": "2023-12-17T23:12:18",
+   "date_unixtime": "1702829538",
+   "edited": "2023-12-17T23:12:32",
+   "edited_unixtime": "1702829552",
+   "from": "ASH",
+   "from_id": "user5675646029",
+   "reply_to_message_id": 2198,
+   "text": [
+    "Welcome Sir, \nSir, ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    " Check My DM."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Welcome Sir, \nSir, "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": " Check My DM."
+    }
+   ]
+  },
+  {
+   "id": 2223,
+   "type": "message",
+   "date": "2023-12-17T23:28:50",
+   "date_unixtime": "1702830530",
+   "from": "bappi Saha",
+   "from_id": "user1805831565",
+   "text": "Good project",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good project"
+    }
+   ]
+  },
+  {
+   "id": 2227,
+   "type": "message",
+   "date": "2023-12-17T23:49:12",
+   "date_unixtime": "1702831752",
+   "edited": "2023-12-17T23:51:21",
+   "edited_unixtime": "1702831881",
+   "from": "Salih YOLDAŞ",
+   "from_id": "user1184354913",
+   "text": "Hi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi"
+    }
+   ]
+  },
+  {
+   "id": 2231,
+   "type": "message",
+   "date": "2023-12-18T01:04:33",
+   "date_unixtime": "1702836273",
+   "from": "Anabelys Betancourt",
+   "from_id": "user6556584165",
+   "text": "Thank You For This Excellent Opportunity 💪",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank You For This Excellent Opportunity 💪"
+    }
+   ]
+  },
+  {
+   "id": 2237,
+   "type": "message",
+   "date": "2023-12-18T01:11:58",
+   "date_unixtime": "1702836718",
+   "from": "Md.Sumon Sarder",
+   "from_id": "user6039043523",
+   "text": "Good Campaign 🥳",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good Campaign 🥳"
+    }
+   ]
+  },
+  {
+   "id": 2239,
+   "type": "message",
+   "date": "2023-12-18T01:13:18",
+   "date_unixtime": "1702836798",
+   "from": "Bo Ba Saw | Areon",
+   "from_id": "user6053391192",
+   "text": "Thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks"
+    }
+   ]
+  },
+  {
+   "id": 2242,
+   "type": "message",
+   "date": "2023-12-18T01:25:38",
+   "date_unixtime": "1702837538",
+   "from": "Firoz Ahmed",
+   "from_id": "user5736387284",
+   "text": "Thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks"
+    }
+   ]
+  },
+  {
+   "id": 2251,
+   "type": "message",
+   "date": "2023-12-18T03:30:31",
+   "date_unixtime": "1702845031",
+   "edited": "2023-12-18T03:30:53",
+   "edited_unixtime": "1702845053",
+   "from": "Rnp",
+   "from_id": "user6367233657",
+   "text": "hi haven",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hi haven"
+    }
+   ]
+  },
+  {
+   "id": 2253,
+   "type": "message",
+   "date": "2023-12-18T04:01:20",
+   "date_unixtime": "1702846880",
+   "edited": "2023-12-18T04:03:49",
+   "edited_unixtime": "1702847029",
+   "from": "Jon Bond",
+   "from_id": "user1146828571",
+   "text": "hi there",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hi there"
+    }
+   ]
+  },
+  {
+   "id": 2258,
+   "type": "message",
+   "date": "2023-12-18T05:10:02",
+   "date_unixtime": "1702851002",
+   "from": "Z1C0",
+   "from_id": "user1107357985",
+   "text": "Greetings everyone",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Greetings everyone"
+    }
+   ]
+  },
+  {
+   "id": 2261,
+   "type": "message",
+   "date": "2023-12-18T05:25:03",
+   "date_unixtime": "1702851903",
+   "from": "x0RA",
+   "from_id": "user1508129475",
+   "text": "GM guys",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "GM guys"
+    }
+   ]
+  },
+  {
+   "id": 2263,
+   "type": "message",
+   "date": "2023-12-18T05:25:35",
+   "date_unixtime": "1702851935",
+   "from": "0xKadaL | Kanan Dari Lahir | Never KIDAL",
+   "from_id": "user5226785686",
+   "text": "Hello",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello"
+    }
+   ]
+  },
+  {
+   "id": 2266,
+   "type": "message",
+   "date": "2023-12-18T06:12:46",
+   "date_unixtime": "1702854766",
+   "from": "Emmanueljr",
+   "from_id": "user906701542",
+   "reply_to_message_id": 2203,
+   "text": "Where can I find the  project roadmap?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Where can I find the  project roadmap?"
+    }
+   ]
+  },
+  {
+   "id": 2267,
+   "type": "message",
+   "date": "2023-12-18T06:23:42",
+   "date_unixtime": "1702855422",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 2266,
+   "text": [
+    "Hey there emanueljr, you'll be able to learn more about Haven1 here:\n\n",
+    {
+     "type": "link",
+     "text": "https://www.haven1.org/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey there emanueljr, you'll be able to learn more about Haven1 here:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.haven1.org/"
+    }
+   ]
+  },
+  {
+   "id": 2268,
+   "type": "message",
+   "date": "2023-12-18T06:28:58",
+   "date_unixtime": "1702855738",
+   "from": "Emmanueljr",
+   "from_id": "user906701542",
+   "reply_to_message_id": 2267,
+   "text": "Where can I see the tokenomics?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Where can I see the tokenomics?"
+    }
+   ]
+  },
+  {
+   "id": 2269,
+   "type": "message",
+   "date": "2023-12-18T06:31:46",
+   "date_unixtime": "1702855906",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 2268,
+   "text": [
+    "More information will be available in the future currently you can read our litepaper here:\n\n",
+    {
+     "type": "link",
+     "text": "https://docs.haven1.org/get-started/litepaper"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "More information will be available in the future currently you can read our litepaper here:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://docs.haven1.org/get-started/litepaper"
+    }
+   ]
+  },
+  {
+   "id": 2270,
+   "type": "message",
+   "date": "2023-12-18T06:41:28",
+   "date_unixtime": "1702856488",
+   "from": "Joker Stash",
+   "from_id": "user1661090980",
+   "text": "600🥳",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "600🥳"
+    }
+   ]
+  },
+  {
+   "id": 2276,
+   "type": "message",
+   "date": "2023-12-18T08:28:37",
+   "date_unixtime": "1702862917",
+   "from": "dohan 1980",
+   "from_id": "user1246069587",
+   "text": "603",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "603"
+    }
+   ]
+  },
+  {
+   "id": 2277,
+   "type": "message",
+   "date": "2023-12-18T08:55:46",
+   "date_unixtime": "1702864546",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "If you're looking for refferal code you can use mine we both can get extra reward\n➖121fnwsj9c➖",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If you're looking for refferal code you can use mine we both can get extra reward\n➖121fnwsj9c➖"
+    }
+   ]
+  },
+  {
+   "id": 2287,
+   "type": "message",
+   "date": "2023-12-18T12:41:06",
+   "date_unixtime": "1702878066",
+   "from": "Alan ETH",
+   "from_id": "user5918908625",
+   "text": "When launch on coin",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When launch on coin"
+    }
+   ]
+  },
+  {
+   "id": 2289,
+   "type": "message",
+   "date": "2023-12-18T12:48:32",
+   "date_unixtime": "1702878512",
+   "from": "Dip ₿",
+   "from_id": "user2021084270",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\nPls cgeck DM"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\nPls cgeck DM"
+    }
+   ]
+  },
+  {
+   "id": 2290,
+   "type": "message",
+   "date": "2023-12-18T12:49:19",
+   "date_unixtime": "1702878559",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 2287,
+   "text": "More information will be available in the future at the moment please feel free to sign up to thre whitelisting of the testnet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "More information will be available in the future at the moment please feel free to sign up to thre whitelisting of the testnet"
+    }
+   ]
+  },
+  {
+   "id": 2291,
+   "type": "message",
+   "date": "2023-12-18T12:49:33",
+   "date_unixtime": "1702878573",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 2289,
+   "text": "Please feel free to send me a DM as well",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please feel free to send me a DM as well"
+    }
+   ]
+  },
+  {
+   "id": 2292,
+   "type": "message",
+   "date": "2023-12-18T12:55:18",
+   "date_unixtime": "1702878918",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Morning, Havenouts! Happy Monday, let's kick off the week with some good vibes! 🌞",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, Havenouts! Happy Monday, let's kick off the week with some good vibes! 🌞"
+    }
+   ]
+  },
+  {
+   "id": 2293,
+   "type": "message",
+   "date": "2023-12-18T13:03:36",
+   "date_unixtime": "1702879416",
+   "from": "Alan ETH",
+   "from_id": "user5918908625",
+   "reply_to_message_id": 2290,
+   "text": "Link",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Link"
     }
    ]
   }

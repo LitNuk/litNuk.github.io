@@ -6660,6 +6660,2396 @@
      "text": " (I am number 359 in line)."
     }
    ]
+  },
+  {
+   "id": 118447,
+   "type": "message",
+   "date": "2023-12-15T01:17:47",
+   "date_unixtime": "1702577867",
+   "edited": "2023-12-15T01:51:03",
+   "edited_unixtime": "1702579863",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 118442,
+   "text": [
+    "Lukas will panic buy when YLD hits 10 cents ",
+    {
+     "type": "custom_emoji",
+     "text": "😄",
+     "document_id": "stickers/AnimatedSticker (2).tgs"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas will panic buy when YLD hits 10 cents "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "😄",
+     "document_id": "stickers/AnimatedSticker (2).tgs"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 118448,
+   "type": "message",
+   "date": "2023-12-15T02:03:20",
+   "date_unixtime": "1702580600",
+   "from": "MC_trainer [ ADA | NINI ]",
+   "from_id": "user1318259497",
+   "text": "Do we know when - and where - the haven1 token can be bought?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Do we know when - and where - the haven1 token can be bought?"
+    }
+   ]
+  },
+  {
+   "id": 118449,
+   "type": "message",
+   "date": "2023-12-15T02:11:29",
+   "date_unixtime": "1702581089",
+   "edited": "2023-12-15T04:12:49",
+   "edited_unixtime": "1702588369",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "We're still waiting for testnet to go live. Then by doing certain activities on the testnet you'll presumably generate rewards for a possible future <censored-word-here-so-work-it-out-for-yourself>\n\nYou'll be earning esH1 on YLD from 1/1/24, but it could be a while later before the H1 ecosystem is up and running",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We're still waiting for testnet to go live. Then by doing certain activities on the testnet you'll presumably generate rewards for a possible future <censored-word-here-so-work-it-out-for-yourself>\n\nYou'll be earning esH1 on YLD from 1/1/24, but it could be a while later before the H1 ecosystem is up and running"
+    }
+   ]
+  },
+  {
+   "id": 118450,
+   "type": "message",
+   "date": "2023-12-15T04:13:09",
+   "date_unixtime": "1702588389",
+   "from": "Quentin",
+   "from_id": "user2046789116",
+   "reply_to_message_id": 118449,
+   "text": "Erdrop !",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Erdrop !"
+    }
+   ]
+  },
+  {
+   "id": 118451,
+   "type": "message",
+   "date": "2023-12-15T04:24:32",
+   "date_unixtime": "1702589072",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 118450,
+   "file": "stickers/AnimatedSticker (3).tgs",
+   "thumbnail": "stickers/AnimatedSticker (1).tgs_thumb.jpg",
+   "media_type": "sticker",
+   "sticker_emoji": "🤫",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118452,
+   "type": "message",
+   "date": "2023-12-15T05:08:41",
+   "date_unixtime": "1702591721",
+   "edited": "2023-12-15T16:53:21",
+   "edited_unixtime": "1702634001",
+   "from": "MC_trainer [ ADA | NINI ]",
+   "from_id": "user1318259497",
+   "text": "I think it is so crazy how halvings, history and bull runs repeat themselves. The next approx 18 months seems like happy times. Take care. Keep cool!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think it is so crazy how halvings, history and bull runs repeat themselves. The next approx 18 months seems like happy times. Take care. Keep cool!"
+    }
+   ]
+  },
+  {
+   "id": 118453,
+   "type": "message",
+   "date": "2023-12-15T05:15:36",
+   "date_unixtime": "1702592136",
+   "edited": "2023-12-15T05:22:32",
+   "edited_unixtime": "1702592552",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Finally...., the bull has come back to Yld token",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Finally...., the bull has come back to Yld token"
+    }
+   ]
+  },
+  {
+   "id": 118454,
+   "type": "message",
+   "date": "2023-12-15T05:15:51",
+   "date_unixtime": "1702592151",
+   "from": "R",
+   "from_id": "user426407683",
+   "file": "video_files/the-rock-sus-the-rock-meme.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 186,
+   "height": 186,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118455,
+   "type": "message",
+   "date": "2023-12-15T05:16:48",
+   "date_unixtime": "1702592208",
+   "from": "R",
+   "from_id": "user426407683",
+   "file": "video_files/dwayne-the-rock.mp4",
+   "thumbnail": "video_files/dwayne-the-rock.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 320,
+   "height": 240,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118456,
+   "type": "message",
+   "date": "2023-12-15T09:10:03",
+   "date_unixtime": "1702606203",
+   "from": "oOze",
+   "from_id": "user1717933350",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    }
+   ]
+  },
+  {
+   "id": 118457,
+   "type": "message",
+   "date": "2023-12-15T09:10:05",
+   "date_unixtime": "1702606205",
+   "from": "GeckoBot",
+   "from_id": "user523615603",
+   "text": [
+    "Oops, something went wrong... Try another command like ",
+    {
+     "type": "bot_command",
+     "text": "/start"
+    },
+    "?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oops, something went wrong... Try another command like "
+    },
+    {
+     "type": "bot_command",
+     "text": "/start"
+    },
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 118458,
+   "type": "service",
+   "date": "2023-12-15T10:30:39",
+   "date_unixtime": "1702611039",
+   "actor": "Jana Cole",
+   "actor_id": "user6916521664",
+   "action": "invite_members",
+   "members": [
+    "Jana Cole"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118459,
+   "type": "message",
+   "date": "2023-12-15T11:49:36",
+   "date_unixtime": "1702615776",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "i am in the green on YLD...holy crap",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i am in the green on YLD...holy crap"
+    }
+   ]
+  },
+  {
+   "id": 118460,
+   "type": "message",
+   "date": "2023-12-15T11:52:00",
+   "date_unixtime": "1702615920",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "and we are trending on coin gecko",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "and we are trending on coin gecko"
+    }
+   ]
+  },
+  {
+   "id": 118461,
+   "type": "message",
+   "date": "2023-12-15T11:52:07",
+   "date_unixtime": "1702615927",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "is this real life?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "is this real life?"
+    }
+   ]
+  },
+  {
+   "id": 118462,
+   "type": "message",
+   "date": "2023-12-15T11:53:02",
+   "date_unixtime": "1702615982",
+   "edited": "2023-12-15T17:30:43",
+   "edited_unixtime": "1702636243",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 118461,
+   "text": "Is this a fantasy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this a fantasy"
+    }
+   ]
+  },
+  {
+   "id": 118463,
+   "type": "message",
+   "date": "2023-12-15T12:09:53",
+   "date_unixtime": "1702616993",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 118462,
+   "text": "Caught in a landslide, no escape from reality...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Caught in a landslide, no escape from reality..."
+    }
+   ]
+  },
+  {
+   "id": 118464,
+   "type": "message",
+   "date": "2023-12-15T12:10:09",
+   "date_unixtime": "1702617009",
+   "edited": "2023-12-15T13:42:03",
+   "edited_unixtime": "1702622523",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Good morning, folks! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning, folks! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 118465,
+   "type": "message",
+   "date": "2023-12-15T12:10:22",
+   "date_unixtime": "1702617022",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 118463,
+   "text": "Open your eyes...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Open your eyes..."
+    }
+   ]
+  },
+  {
+   "id": 118466,
+   "type": "message",
+   "date": "2023-12-15T12:40:40",
+   "date_unixtime": "1702618840",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "reply_to_message_id": 118465,
+   "text": "look up to the sky and see (the big green candle)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "look up to the sky and see (the big green candle)"
+    }
+   ]
+  },
+  {
+   "id": 118467,
+   "type": "message",
+   "date": "2023-12-15T13:14:37",
+   "date_unixtime": "1702620877",
+   "from": "Kar Sten",
+   "from_id": "user1040556338",
+   "text": "We are just poor boys, but this looked quite bottom-y",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We are just poor boys, but this looked quite bottom-y"
+    }
+   ]
+  },
+  {
+   "id": 118469,
+   "type": "message",
+   "date": "2023-12-15T13:42:20",
+   "date_unixtime": "1702622540",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "file": "video_files/stickergiant-have-a-good-weekend.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 180,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118470,
+   "type": "message",
+   "date": "2023-12-15T14:31:50",
+   "date_unixtime": "1702625510",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "easy come easy go little high little low... looks like freddie was really into YLD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "easy come easy go little high little low... looks like freddie was really into YLD"
+    }
+   ]
+  },
+  {
+   "id": 118471,
+   "type": "message",
+   "date": "2023-12-15T15:20:07",
+   "date_unixtime": "1702628407",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "reply_to_message_id": 118470,
+   "text": "I am",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I am"
+    }
+   ]
+  },
+  {
+   "id": 118472,
+   "type": "message",
+   "date": "2023-12-15T17:07:30",
+   "date_unixtime": "1702634850",
+   "edited": "2023-12-15T17:28:12",
+   "edited_unixtime": "1702636092",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 118439,
+   "photo": "photos/photo_1970@15-12-2023_17-07-30.jpg",
+   "width": 692,
+   "height": 1280,
+   "text": "So we broke the resistance at 0.075 - next stop 0.080\n\nNotice how the volume gives conviction to this move up. It’s the first trend change in volume we’ve seen for a very long time!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So we broke the resistance at 0.075 - next stop 0.080\n\nNotice how the volume gives conviction to this move up. It’s the first trend change in volume we’ve seen for a very long time!"
+    }
+   ]
+  },
+  {
+   "id": 118473,
+   "type": "message",
+   "date": "2023-12-15T17:09:03",
+   "date_unixtime": "1702634943",
+   "edited": "2023-12-15T20:08:45",
+   "edited_unixtime": "1702645725",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "Lukas liquidated?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas liquidated?"
+    }
+   ]
+  },
+  {
+   "id": 118474,
+   "type": "message",
+   "date": "2023-12-15T17:28:40",
+   "date_unixtime": "1702636120",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "file": "video_files/07k8Sbi.mp4",
+   "thumbnail": "video_files/07k8Sbi.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 24,
+   "width": 960,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118475,
+   "type": "message",
+   "date": "2023-12-15T17:33:26",
+   "date_unixtime": "1702636406",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 118476,
+   "type": "message",
+   "date": "2023-12-15T17:33:46",
+   "date_unixtime": "1702636426",
+   "edited": "2023-12-15T17:37:01",
+   "edited_unixtime": "1702636621",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "One year i didnt see your train",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "One year i didnt see your train"
+    }
+   ]
+  },
+  {
+   "id": 118477,
+   "type": "message",
+   "date": "2023-12-15T19:54:45",
+   "date_unixtime": "1702644885",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Why we go up? Did devs do something?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why we go up? Did devs do something?"
+    }
+   ]
+  },
+  {
+   "id": 118478,
+   "type": "message",
+   "date": "2023-12-15T20:02:31",
+   "date_unixtime": "1702645351",
+   "edited": "2023-12-15T22:19:11",
+   "edited_unixtime": "1702653551",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "YLD is in the top trending coins on Gecko",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "YLD is in the top trending coins on Gecko"
+    }
+   ]
+  },
+  {
+   "id": 118479,
+   "type": "message",
+   "date": "2023-12-15T20:16:46",
+   "date_unixtime": "1702646206",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "Maybe people looking for safe place to store their coins",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Maybe people looking for safe place to store their coins"
+    }
+   ]
+  },
+  {
+   "id": 118480,
+   "type": "message",
+   "date": "2023-12-15T20:19:57",
+   "date_unixtime": "1702646397",
+   "from": "Hugo",
+   "from_id": "user1049476821",
+   "text": "0,08$",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "0,08$"
+    }
+   ]
+  },
+  {
+   "id": 118481,
+   "type": "message",
+   "date": "2023-12-15T20:26:08",
+   "date_unixtime": "1702646768",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 118479,
+   "text": "Could be! \nRemember when a few of us were like, \"wen UST?\"  😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Could be! \nRemember when a few of us were like, \"wen UST?\"  😅"
+    }
+   ]
+  },
+  {
+   "id": 118482,
+   "type": "service",
+   "date": "2023-12-15T20:31:42",
+   "date_unixtime": "1702647102",
+   "actor": "iDGeek",
+   "actor_id": "user1304595199",
+   "action": "invite_members",
+   "members": [
+    "iDGeek"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118484,
+   "type": "message",
+   "date": "2023-12-15T20:34:49",
+   "date_unixtime": "1702647289",
+   "edited": "2023-12-15T20:39:21",
+   "edited_unixtime": "1702647561",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "file": "video_files/rocket-lift-off.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 258,
+   "height": 236,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118485,
+   "type": "message",
+   "date": "2023-12-15T20:53:06",
+   "date_unixtime": "1702648386",
+   "edited": "2023-12-15T20:57:57",
+   "edited_unixtime": "1702648677",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 118472,
+   "photo": "photos/photo_1971@15-12-2023_20-53-06.jpg",
+   "width": 648,
+   "height": 1280,
+   "text": "Didn’t take long!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Didn’t take long!"
+    }
+   ]
+  },
+  {
+   "id": 118486,
+   "type": "message",
+   "date": "2023-12-15T20:59:32",
+   "date_unixtime": "1702648772",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 118485,
+   "text": "You reckon this has something to do with Haven1?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You reckon this has something to do with Haven1?"
+    }
+   ]
+  },
+  {
+   "id": 118487,
+   "type": "message",
+   "date": "2023-12-15T21:16:26",
+   "date_unixtime": "1702649786",
+   "from": "Kar Sten",
+   "from_id": "user1040556338",
+   "text": "I would say it is because there are more buyers than sellers",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I would say it is because there are more buyers than sellers"
+    }
+   ]
+  },
+  {
+   "id": 118488,
+   "type": "message",
+   "date": "2023-12-15T21:17:02",
+   "date_unixtime": "1702649822",
+   "edited": "2023-12-15T22:39:23",
+   "edited_unixtime": "1702654763",
+   "from": "Kar Sten",
+   "from_id": "user1040556338",
+   "text": "And soon sellers will run out of their daily rewards",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And soon sellers will run out of their daily rewards"
+    }
+   ]
+  },
+  {
+   "id": 118489,
+   "type": "message",
+   "date": "2023-12-15T21:31:20",
+   "date_unixtime": "1702650680",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "reply_to_message_id": 118485,
+   "text": "I think we will come test the .16 soon🚀❤️ happy weekend yielders!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think we will come test the .16 soon🚀❤️ happy weekend yielders!"
+    }
+   ]
+  },
+  {
+   "id": 118490,
+   "type": "message",
+   "date": "2023-12-15T21:31:48",
+   "date_unixtime": "1702650708",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "file": "video_files/yield_x264.mp4",
+   "thumbnail": "video_files/yield_x264.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 8,
+   "width": 800,
+   "height": 800,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118491,
+   "type": "message",
+   "date": "2023-12-15T21:32:04",
+   "date_unixtime": "1702650724",
+   "edited": "2023-12-15T21:33:49",
+   "edited_unixtime": "1702650829",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": "Is this real life..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this real life.."
+    }
+   ]
+  },
+  {
+   "id": 118492,
+   "type": "message",
+   "date": "2023-12-15T21:42:06",
+   "date_unixtime": "1702651326",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 118489,
+   "file": "video_files/apmtv3-elchiringuitodejugones.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 288,
+   "height": 162,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118493,
+   "type": "message",
+   "date": "2023-12-15T21:45:48",
+   "date_unixtime": "1702651548",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 118491,
+   "text": "Not again, Sapta! We've been down this road, and it feels like this song is ancient - Just goes to show how old we both are!  😢",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Not again, Sapta! We've been down this road, and it feels like this song is ancient - Just goes to show how old we both are!  😢"
+    }
+   ]
+  },
+  {
+   "id": 118494,
+   "type": "message",
+   "date": "2023-12-15T21:46:35",
+   "date_unixtime": "1702651595",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Oh, Kar Sten and Andy, too! 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oh, Kar Sten and Andy, too! 😅"
+    }
+   ]
+  },
+  {
+   "id": 118495,
+   "type": "message",
+   "date": "2023-12-15T21:48:12",
+   "date_unixtime": "1702651692",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 118493,
+   "text": "Ah shit alright",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ah shit alright"
+    }
+   ]
+  },
+  {
+   "id": 118496,
+   "type": "message",
+   "date": "2023-12-15T22:04:46",
+   "date_unixtime": "1702652686",
+   "from": "Kar Sten",
+   "from_id": "user1040556338",
+   "file": "video_files/culpable-soy-culpable.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 180,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118497,
+   "type": "message",
+   "date": "2023-12-15T22:50:25",
+   "date_unixtime": "1702655425",
+   "from": "HJM",
+   "from_id": "user314363240",
+   "text": "Yield Team, these random unannounced changes of minimum amounts are annoying…",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yield Team, these random unannounced changes of minimum amounts are annoying…"
+    }
+   ]
+  },
+  {
+   "id": 118498,
+   "type": "message",
+   "date": "2023-12-15T23:26:20",
+   "date_unixtime": "1702657580",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "Are you referring to swap minimums?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Are you referring to swap minimums?"
+    }
+   ]
+  },
+  {
+   "id": 118499,
+   "type": "message",
+   "date": "2023-12-15T23:27:08",
+   "date_unixtime": "1702657628",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "I'm sure you understand that gas prices are also dynamic.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm sure you understand that gas prices are also dynamic."
+    }
+   ]
+  },
+  {
+   "id": 118500,
+   "type": "message",
+   "date": "2023-12-15T23:28:11",
+   "date_unixtime": "1702657691",
+   "edited": "2023-12-16T01:17:20",
+   "edited_unixtime": "1702664240",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "Is there a particular swap you would like to execute that you now can not due to the current minimums? Happy to help if I can.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is there a particular swap you would like to execute that you now can not due to the current minimums? Happy to help if I can."
+    }
+   ]
+  },
+  {
+   "id": 118501,
+   "type": "message",
+   "date": "2023-12-16T00:25:44",
+   "date_unixtime": "1702661144",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "reply_to_message_id": 118494,
+   "text": "Encore",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Encore"
+    }
+   ]
+  },
+  {
+   "id": 118502,
+   "type": "message",
+   "date": "2023-12-16T00:57:08",
+   "date_unixtime": "1702663028",
+   "from": "R",
+   "from_id": "user426407683",
+   "file": "video_files/linkin-park-chester-bennigton.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 320,
+   "height": 180,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118503,
+   "type": "message",
+   "date": "2023-12-16T01:16:55",
+   "date_unixtime": "1702664215",
+   "from": "Bubbles",
+   "from_id": "user2014150066",
+   "reply_to_message_id": 118479,
+   "text": "I figured its quite the opposite, people taking their coins out of wallet hibernation to shady exchanges to start trading 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I figured its quite the opposite, people taking their coins out of wallet hibernation to shady exchanges to start trading 😂"
+    }
+   ]
+  },
+  {
+   "id": 118504,
+   "type": "message",
+   "date": "2023-12-16T02:58:39",
+   "date_unixtime": "1702670319",
+   "edited": "2023-12-16T03:17:05",
+   "edited_unixtime": "1702671425",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "reply_to_message_id": 118485,
+   "text": "I just realized that today my yld is worth more than the last time I bought it a few months back 🤝",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I just realized that today my yld is worth more than the last time I bought it a few months back 🤝"
+    }
+   ]
+  },
+  {
+   "id": 118505,
+   "type": "message",
+   "date": "2023-12-16T03:17:33",
+   "date_unixtime": "1702671453",
+   "edited": "2023-12-16T17:24:37",
+   "edited_unixtime": "1702722277",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 118504,
+   "text": "My last buy was 6 or 7 cents beginning of the year. So, same.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "My last buy was 6 or 7 cents beginning of the year. So, same."
+    }
+   ]
+  },
+  {
+   "id": 118506,
+   "type": "message",
+   "date": "2023-12-16T03:18:27",
+   "date_unixtime": "1702671507",
+   "edited": "2023-12-16T04:17:35",
+   "edited_unixtime": "1702675055",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 118505,
+   "text": "You have what like a million YLD by now? 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You have what like a million YLD by now? 😂"
+    }
+   ]
+  },
+  {
+   "id": 118507,
+   "type": "message",
+   "date": "2023-12-16T06:27:27",
+   "date_unixtime": "1702682847",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 118506,
+   "text": "No mate. I wish. I bought my diamond tier high, 0,64 cents or so. I needed to dca. Now I'm at almost the same dollar amount. But a factor X of tokens more.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No mate. I wish. I bought my diamond tier high, 0,64 cents or so. I needed to dca. Now I'm at almost the same dollar amount. But a factor X of tokens more."
+    }
+   ]
+  },
+  {
+   "id": 118508,
+   "type": "message",
+   "date": "2023-12-16T06:29:16",
+   "date_unixtime": "1702682956",
+   "edited": "2023-12-16T06:33:36",
+   "edited_unixtime": "1702683216",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": [
+    "I buy more if we really reach 3 or 2 cents. Otherwise, I'm good. I'm invested in more alts. It's nice when some coins lags, you make bank on other ones. Eventually you can drip profits to the lagging ones and once they fly. You'll cash out and put in ",
+    {
+     "type": "link",
+     "text": "Yield.app"
+    },
+    " 😎. And repeat."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I buy more if we really reach 3 or 2 cents. Otherwise, I'm good. I'm invested in more alts. It's nice when some coins lags, you make bank on other ones. Eventually you can drip profits to the lagging ones and once they fly. You'll cash out and put in "
+    },
+    {
+     "type": "link",
+     "text": "Yield.app"
+    },
+    {
+     "type": "plain",
+     "text": " 😎. And repeat."
+    }
+   ]
+  },
+  {
+   "id": 118509,
+   "type": "message",
+   "date": "2023-12-16T06:29:56",
+   "date_unixtime": "1702682996",
+   "edited": "2023-12-16T07:34:48",
+   "edited_unixtime": "1702686888",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Next year is gonna be wild in crypto. All signals on green.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Next year is gonna be wild in crypto. All signals on green."
+    }
+   ]
+  },
+  {
+   "id": 118510,
+   "type": "message",
+   "date": "2023-12-16T13:56:10",
+   "date_unixtime": "1702709770",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 118507,
+   "text": "I bought my first diamond tier at 87c and it paid itself off in 3 months. Prices were higher in 2021 but so were the yields 😀.\n\nLast year my godson bought his Diamond tier at 8c, which also paid for itself in a few months.\n\nIt's always been a great deal for those who used it for it's intended purpose.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I bought my first diamond tier at 87c and it paid itself off in 3 months. Prices were higher in 2021 but so were the yields 😀.\n\nLast year my godson bought his Diamond tier at 8c, which also paid for itself in a few months.\n\nIt's always been a great deal for those who used it for it's intended purpose."
+    }
+   ]
+  },
+  {
+   "id": 118511,
+   "type": "message",
+   "date": "2023-12-16T13:56:40",
+   "date_unixtime": "1702709800",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": [
+    "Also just to be clear, ",
+    {
+     "type": "mention",
+     "text": "@Rrrrrcb"
+    },
+    " I know you get this haha. My point evolved as I typed that."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Also just to be clear, "
+    },
+    {
+     "type": "mention",
+     "text": "@Rrrrrcb"
+    },
+    {
+     "type": "plain",
+     "text": " I know you get this haha. My point evolved as I typed that."
+    }
+   ]
+  },
+  {
+   "id": 118512,
+   "type": "message",
+   "date": "2023-12-16T14:04:09",
+   "date_unixtime": "1702710249",
+   "from": "Bubbles",
+   "from_id": "user2014150066",
+   "reply_to_message_id": 118510,
+   "text": "I agree with what you're saying but it should be noted that this only applies to those with high value investments from the get-go.\nAnyone who bought in at 87c and didnt have 10-15k+ minimum are bleeding even now",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I agree with what you're saying but it should be noted that this only applies to those with high value investments from the get-go.\nAnyone who bought in at 87c and didnt have 10-15k+ minimum are bleeding even now"
+    }
+   ]
+  },
+  {
+   "id": 118513,
+   "type": "message",
+   "date": "2023-12-16T14:13:45",
+   "date_unixtime": "1702710825",
+   "edited": "2023-12-16T17:50:22",
+   "edited_unixtime": "1702723822",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 118512,
+   "text": "Yep. Anyone who bought at 87c and didn't have any assets to earn on put the cart before the horse.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yep. Anyone who bought at 87c and didn't have any assets to earn on put the cart before the horse."
+    }
+   ]
+  },
+  {
+   "id": 118514,
+   "type": "message",
+   "date": "2023-12-16T18:22:39",
+   "date_unixtime": "1702725759",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "🔜",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🔜"
+    }
+   ]
+  },
+  {
+   "id": 118515,
+   "type": "message",
+   "date": "2023-12-16T18:22:43",
+   "date_unixtime": "1702725763",
+   "edited": "2023-12-16T18:23:58",
+   "edited_unixtime": "1702725838",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "photo": "photos/photo_1972@16-12-2023_18-22-43.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118516,
+   "type": "message",
+   "date": "2023-12-16T18:24:33",
+   "date_unixtime": "1702725873",
+   "edited": "2023-12-16T18:29:17",
+   "edited_unixtime": "1702726157",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": "As we say in France, \"where there's smoke there's fire\".",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "As we say in France, \"where there's smoke there's fire\"."
+    }
+   ]
+  },
+  {
+   "id": 118517,
+   "type": "message",
+   "date": "2023-12-16T18:35:53",
+   "date_unixtime": "1702726553",
+   "from": "Dan",
+   "from_id": "user1312216379",
+   "text": "Yld pumpin",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yld pumpin"
+    }
+   ]
+  },
+  {
+   "id": 118519,
+   "type": "message",
+   "date": "2023-12-16T18:36:39",
+   "date_unixtime": "1702726599",
+   "from": "GeckoBot",
+   "from_id": "user523615603",
+   "text": [
+    "Oops, something went wrong... Try another command like ",
+    {
+     "type": "bot_command",
+     "text": "/start"
+    },
+    "?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oops, something went wrong... Try another command like "
+    },
+    {
+     "type": "bot_command",
+     "text": "/start"
+    },
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 118520,
+   "type": "message",
+   "date": "2023-12-16T18:36:52",
+   "date_unixtime": "1702726612",
+   "from": "Dan",
+   "from_id": "user1312216379",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    },
+    " YLD"
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    },
+    {
+     "type": "plain",
+     "text": " YLD"
+    }
+   ]
+  },
+  {
+   "id": 118521,
+   "type": "message",
+   "date": "2023-12-16T18:36:54",
+   "date_unixtime": "1702726614",
+   "edited": "2023-12-16T20:34:49",
+   "edited_unixtime": "1702733689",
+   "from": "GeckoBot",
+   "from_id": "user523615603",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Yield App"
+    },
+    " | YLD\n",
+    {
+     "type": "code",
+     "text": "\nUSD    : $0.09314500 \nBTC    : ฿0.0000022000 \nETH    : ♢0.0000414200 \n\nMkt Cap: $23,656,978\nVolume : $1,701,645\n1hr %  : 16.96%\n24hr % : 21.05%\n7d %   : 35.29%\n30d %  : 27.81%\n1y %   : 20.32%\n"
+    },
+    "\nGet Price, Chart, and Info: ",
+    {
+     "type": "text_link",
+     "text": "coingecko.com/en/coins/yield-app",
+     "href": "https://coingecko.com/en/coins/yield-app?utm_source=telegram&utm_medium=geckobot&utm_campaign=yield-app"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Yield App"
+    },
+    {
+     "type": "plain",
+     "text": " | YLD\n"
+    },
+    {
+     "type": "code",
+     "text": "\nUSD    : $0.09314500 \nBTC    : ฿0.0000022000 \nETH    : ♢0.0000414200 \n\nMkt Cap: $23,656,978\nVolume : $1,701,645\n1hr %  : 16.96%\n24hr % : 21.05%\n7d %   : 35.29%\n30d %  : 27.81%\n1y %   : 20.32%\n"
+    },
+    {
+     "type": "plain",
+     "text": "\nGet Price, Chart, and Info: "
+    },
+    {
+     "type": "text_link",
+     "text": "coingecko.com/en/coins/yield-app",
+     "href": "https://coingecko.com/en/coins/yield-app?utm_source=telegram&utm_medium=geckobot&utm_campaign=yield-app"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 118522,
+   "type": "service",
+   "date": "2023-12-16T18:37:36",
+   "date_unixtime": "1702726656",
+   "actor": "Kenneth Kumor",
+   "actor_id": "user1138222760",
+   "action": "invite_members",
+   "members": [
+    "Kenneth Kumor"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118523,
+   "type": "message",
+   "date": "2023-12-16T18:40:38",
+   "date_unixtime": "1702726838",
+   "edited": "2023-12-16T18:49:00",
+   "edited_unixtime": "1702727340",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "Lukas stop buying please",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas stop buying please"
+    }
+   ]
+  },
+  {
+   "id": 118524,
+   "type": "message",
+   "date": "2023-12-16T18:43:20",
+   "date_unixtime": "1702727000",
+   "from": "JohnnyDapp",
+   "from_id": "user811764836",
+   "text": "Buying before apy ends on yield makes sense",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Buying before apy ends on yield makes sense"
+    }
+   ]
+  },
+  {
+   "id": 118525,
+   "type": "message",
+   "date": "2023-12-16T18:43:25",
+   "date_unixtime": "1702727005",
+   "from": "JohnnyDapp",
+   "from_id": "user811764836",
+   "text": "Nfa.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nfa."
+    }
+   ]
+  },
+  {
+   "id": 118526,
+   "type": "service",
+   "date": "2023-12-16T18:43:49",
+   "date_unixtime": "1702727029",
+   "actor": "Boran",
+   "actor_id": "user1831157739",
+   "action": "invite_members",
+   "members": [
+    "Boran"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118527,
+   "type": "message",
+   "date": "2023-12-16T18:49:49",
+   "date_unixtime": "1702727389",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "photo": "photos/photo_1973@16-12-2023_18-49-49.jpg",
+   "width": 694,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118528,
+   "type": "message",
+   "date": "2023-12-16T18:51:59",
+   "date_unixtime": "1702727519",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "photo": "photos/photo_1974@16-12-2023_18-51-59.jpg",
+   "width": 751,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118529,
+   "type": "message",
+   "date": "2023-12-16T18:53:07",
+   "date_unixtime": "1702727587",
+   "edited": "2023-12-16T19:17:25",
+   "edited_unixtime": "1702729045",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Back up to 817 in rankings",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Back up to 817 in rankings"
+    }
+   ]
+  },
+  {
+   "id": 118530,
+   "type": "message",
+   "date": "2023-12-16T19:13:59",
+   "date_unixtime": "1702728839",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "Still only 24 mil marketcap",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Still only 24 mil marketcap"
+    }
+   ]
+  },
+  {
+   "id": 118531,
+   "type": "message",
+   "date": "2023-12-16T19:14:02",
+   "date_unixtime": "1702728842",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "So early",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So early"
+    }
+   ]
+  },
+  {
+   "id": 118532,
+   "type": "message",
+   "date": "2023-12-16T19:27:12",
+   "date_unixtime": "1702729632",
+   "edited": "2023-12-16T19:29:11",
+   "edited_unixtime": "1702729751",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": "let's goooooo 0.1 tonight !!!!!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "let's goooooo 0.1 tonight !!!!!"
+    }
+   ]
+  },
+  {
+   "id": 118533,
+   "type": "message",
+   "date": "2023-12-16T19:27:20",
+   "date_unixtime": "1702729640",
+   "edited": "2023-12-16T19:29:17",
+   "edited_unixtime": "1702729757",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": [
+    {
+     "type": "hashtag",
+     "text": "#YIELDARMY"
+    },
+    " ",
+    {
+     "type": "custom_emoji",
+     "text": "🈯️",
+     "document_id": "video_files/sticker.webm"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "hashtag",
+     "text": "#YIELDARMY"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🈯️",
+     "document_id": "video_files/sticker.webm"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 118534,
+   "type": "message",
+   "date": "2023-12-16T19:31:22",
+   "date_unixtime": "1702729882",
+   "edited": "2023-12-16T19:38:10",
+   "edited_unixtime": "1702730290",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "Never sold a single YLD... Lfg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Never sold a single YLD... Lfg"
+    }
+   ]
+  },
+  {
+   "id": 118535,
+   "type": "message",
+   "date": "2023-12-16T19:39:19",
+   "date_unixtime": "1702730359",
+   "edited": "2023-12-16T19:40:15",
+   "edited_unixtime": "1702730415",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": [
+    "I will create the ",
+    {
+     "type": "hashtag",
+     "text": "#YIELDARMY"
+    },
+    " soon soon like yieldapp 😁🤣"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I will create the "
+    },
+    {
+     "type": "hashtag",
+     "text": "#YIELDARMY"
+    },
+    {
+     "type": "plain",
+     "text": " soon soon like yieldapp 😁🤣"
+    }
+   ]
+  },
+  {
+   "id": 118536,
+   "type": "message",
+   "date": "2023-12-16T19:39:50",
+   "date_unixtime": "1702730390",
+   "from": "Hugo",
+   "from_id": "user1049476821",
+   "text": "Fomo is real😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fomo is real😂"
+    }
+   ]
+  },
+  {
+   "id": 118537,
+   "type": "message",
+   "date": "2023-12-16T19:41:54",
+   "date_unixtime": "1702730514",
+   "edited": "2023-12-17T13:23:24",
+   "edited_unixtime": "1702794204",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Lukas phones his crypto broker: “You’re telling me the YLD price keeps going up? Get me in now before it’s too late.. no I don’t care what the price is just get me in!!!”",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas phones his crypto broker: “You’re telling me the YLD price keeps going up? Get me in now before it’s too late.. no I don’t care what the price is just get me in!!!”"
+    }
+   ]
+  },
+  {
+   "id": 118538,
+   "type": "message",
+   "date": "2023-12-16T19:43:33",
+   "date_unixtime": "1702730613",
+   "edited": "2023-12-16T19:44:43",
+   "edited_unixtime": "1702730683",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "text": "Lukas = capo waiting for 12k",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas = capo waiting for 12k"
+    }
+   ]
+  },
+  {
+   "id": 118539,
+   "type": "message",
+   "date": "2023-12-16T19:45:04",
+   "date_unixtime": "1702730704",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 118537,
+   "text": "The thing is....",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The thing is...."
+    }
+   ]
+  },
+  {
+   "id": 118540,
+   "type": "message",
+   "date": "2023-12-16T19:46:32",
+   "date_unixtime": "1702730792",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "The 300K dump by the arb bot on Uni marked the cycle bottom",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The 300K dump by the arb bot on Uni marked the cycle bottom"
+    }
+   ]
+  },
+  {
+   "id": 118541,
+   "type": "message",
+   "date": "2023-12-16T21:14:44",
+   "date_unixtime": "1702736084",
+   "from": "MC_trainer [ ADA | NINI ]",
+   "from_id": "user1318259497",
+   "text": "The Public wants YLD 👊🏻🕺",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The Public wants YLD 👊🏻🕺"
+    }
+   ]
+  },
+  {
+   "id": 118542,
+   "type": "message",
+   "date": "2023-12-16T21:17:37",
+   "date_unixtime": "1702736257",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 118532,
+   "text": "No. I was promised 0.01",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No. I was promised 0.01"
+    }
+   ]
+  },
+  {
+   "id": 118543,
+   "type": "message",
+   "date": "2023-12-16T21:18:31",
+   "date_unixtime": "1702736311",
+   "edited": "2023-12-16T22:39:32",
+   "edited_unixtime": "1702741172",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Lukas in disbelief, he will just as capo tell us his bearish view is not invalid until 50 cents or so.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas in disbelief, he will just as capo tell us his bearish view is not invalid until 50 cents or so."
+    }
+   ]
+  },
+  {
+   "id": 118544,
+   "type": "message",
+   "date": "2023-12-16T21:20:59",
+   "date_unixtime": "1702736459",
+   "edited": "2023-12-16T21:21:46",
+   "edited_unixtime": "1702736506",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 118543,
+   "text": "The volume confirmation I pointed to and the move over 0.080 resistance has already invalidated it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The volume confirmation I pointed to and the move over 0.080 resistance has already invalidated it"
+    }
+   ]
+  },
+  {
+   "id": 118545,
+   "type": "service",
+   "date": "2023-12-16T21:31:08",
+   "date_unixtime": "1702737068",
+   "actor": "Duke",
+   "actor_id": "user1426497816",
+   "action": "invite_members",
+   "members": [
+    "Duke"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118546,
+   "type": "message",
+   "date": "2023-12-16T22:39:45",
+   "date_unixtime": "1702741185",
+   "from": "J T",
+   "from_id": "user1515799136",
+   "text": "Anyone know why it’s going crazy?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone know why it’s going crazy?"
+    }
+   ]
+  },
+  {
+   "id": 118547,
+   "type": "message",
+   "date": "2023-12-16T22:39:59",
+   "date_unixtime": "1702741199",
+   "from": "J T",
+   "from_id": "user1515799136",
+   "text": "I mean, I’m glad! Just not sure why",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I mean, I’m glad! Just not sure why"
+    }
+   ]
+  },
+  {
+   "id": 118548,
+   "type": "message",
+   "date": "2023-12-16T22:40:45",
+   "date_unixtime": "1702741245",
+   "edited": "2023-12-16T22:41:51",
+   "edited_unixtime": "1702741311",
+   "from": "JohnnyDapp",
+   "from_id": "user811764836",
+   "text": "No more apy, so inflation down.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No more apy, so inflation down."
+    }
+   ]
+  },
+  {
+   "id": 118549,
+   "type": "message",
+   "date": "2023-12-16T22:40:56",
+   "date_unixtime": "1702741256",
+   "edited": "2023-12-16T22:41:49",
+   "edited_unixtime": "1702741309",
+   "from": "JohnnyDapp",
+   "from_id": "user811764836",
+   "text": "Free h1 tokens",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Free h1 tokens"
+    }
+   ]
+  },
+  {
+   "id": 118550,
+   "type": "service",
+   "date": "2023-12-16T23:01:12",
+   "date_unixtime": "1702742472",
+   "actor": "Thomas L",
+   "actor_id": "user1217399335",
+   "action": "invite_members",
+   "members": [
+    "Thomas L"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118551,
+   "type": "message",
+   "date": "2023-12-16T23:08:36",
+   "date_unixtime": "1702742916",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 118532,
+   "text": "Comeeeee Onn",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Comeeeee Onn"
+    }
+   ]
+  },
+  {
+   "id": 118552,
+   "type": "message",
+   "date": "2023-12-16T23:11:17",
+   "date_unixtime": "1702743077",
+   "from": "Jens Jensen",
+   "from_id": "user5740880683",
+   "reply_to_message_id": 118549,
+   "text": "Definetly gonna be a driving gactor",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Definetly gonna be a driving gactor"
+    }
+   ]
+  },
+  {
+   "id": 118553,
+   "type": "message",
+   "date": "2023-12-16T23:32:27",
+   "date_unixtime": "1702744347",
+   "from": "J T",
+   "from_id": "user1515799136",
+   "text": "Why so much volume?!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why so much volume?!"
+    }
+   ]
+  },
+  {
+   "id": 118554,
+   "type": "message",
+   "date": "2023-12-16T23:35:45",
+   "date_unixtime": "1702744545",
+   "from": "Jann - I WILL NEVER DM FIRST",
+   "from_id": "user342627578",
+   "text": "New MM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "New MM"
+    }
+   ]
+  },
+  {
+   "id": 118555,
+   "type": "message",
+   "date": "2023-12-16T23:35:59",
+   "date_unixtime": "1702744559",
+   "from": "Jann - I WILL NEVER DM FIRST",
+   "from_id": "user342627578",
+   "text": "Perhaps",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Perhaps"
+    }
+   ]
+  },
+  {
+   "id": 118556,
+   "type": "message",
+   "date": "2023-12-16T23:43:01",
+   "date_unixtime": "1702744981",
+   "from": "Hadry",
+   "from_id": "user1621635540",
+   "reply_to_message_id": 118554,
+   "text": "Thinks so too",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thinks so too"
+    }
+   ]
+  },
+  {
+   "id": 118557,
+   "type": "message",
+   "date": "2023-12-17T00:19:51",
+   "date_unixtime": "1702747191",
+   "edited": "2023-12-17T00:27:21",
+   "edited_unixtime": "1702747641",
+   "from": "MC_trainer [ ADA | NINI ]",
+   "from_id": "user1318259497",
+   "text": "A know dark secret about the admins here. The facts were found in a dark corner of the internet. I know that the admins here are…\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n😍😃🥰😃🕺🏼😍🤣😇😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A know dark secret about the admins here. The facts were found in a dark corner of the internet. I know that the admins here are…\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n😍😃🥰😃🕺🏼😍🤣😇😘"
+    }
+   ]
+  },
+  {
+   "id": 118558,
+   "type": "message",
+   "date": "2023-12-17T01:50:00",
+   "date_unixtime": "1702752600",
+   "edited": "2023-12-17T01:50:26",
+   "edited_unixtime": "1702752626",
+   "from": "Jens Jensen",
+   "from_id": "user5740880683",
+   "text": "Mm = marketmaker??",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mm = marketmaker??"
+    }
+   ]
+  },
+  {
+   "id": 118559,
+   "type": "message",
+   "date": "2023-12-17T09:43:34",
+   "date_unixtime": "1702781014",
+   "from": "Hehe",
+   "from_id": "user916726413",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    },
+    " yld"
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    },
+    {
+     "type": "plain",
+     "text": " yld"
+    }
+   ]
+  },
+  {
+   "id": 118560,
+   "type": "message",
+   "date": "2023-12-17T09:43:36",
+   "date_unixtime": "1702781016",
+   "from": "GeckoBot",
+   "from_id": "user523615603",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Yield App"
+    },
+    " | YLD\n",
+    {
+     "type": "code",
+     "text": "\nUSD    : $0.09218100 \nBTC    : ฿0.0000022000 \nETH    : ♢0.0000415100 \n\nMkt Cap: $23,685,450\nVolume : $1,279,061\n1hr %  : 0.39%\n24hr % : 14.76%\n7d %   : 35.34%\n30d %  : 26.98%\n1y %   : 21.13%\n"
+    },
+    "\nGet Price, Chart, and Info: ",
+    {
+     "type": "text_link",
+     "text": "coingecko.com/en/coins/yield-app",
+     "href": "https://coingecko.com/en/coins/yield-app?utm_source=telegram&utm_medium=geckobot&utm_campaign=yield-app"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Yield App"
+    },
+    {
+     "type": "plain",
+     "text": " | YLD\n"
+    },
+    {
+     "type": "code",
+     "text": "\nUSD    : $0.09218100 \nBTC    : ฿0.0000022000 \nETH    : ♢0.0000415100 \n\nMkt Cap: $23,685,450\nVolume : $1,279,061\n1hr %  : 0.39%\n24hr % : 14.76%\n7d %   : 35.34%\n30d %  : 26.98%\n1y %   : 21.13%\n"
+    },
+    {
+     "type": "plain",
+     "text": "\nGet Price, Chart, and Info: "
+    },
+    {
+     "type": "text_link",
+     "text": "coingecko.com/en/coins/yield-app",
+     "href": "https://coingecko.com/en/coins/yield-app?utm_source=telegram&utm_medium=geckobot&utm_campaign=yield-app"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 118561,
+   "type": "message",
+   "date": "2023-12-17T13:07:34",
+   "date_unixtime": "1702793254",
+   "edited": "2023-12-17T13:07:47",
+   "edited_unixtime": "1702793267",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "file": "video_files/good-morning-dog.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 282,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118562,
+   "type": "message",
+   "date": "2023-12-17T13:09:03",
+   "date_unixtime": "1702793343",
+   "edited": "2023-12-17T13:09:11",
+   "edited_unixtime": "1702793351",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 118561,
+   "text": "Morning, Stav! ☕️ \nGood morning, folks!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, Stav! ☕️ \nGood morning, folks!"
+    }
+   ]
+  },
+  {
+   "id": 118563,
+   "type": "message",
+   "date": "2023-12-17T17:46:51",
+   "date_unixtime": "1702810011",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "photo": "photos/photo_1975@17-12-2023_17-46-51.jpg",
+   "width": 699,
+   "height": 1280,
+   "text": "7 green candles in a row \n\nYLD up today while most alts are in the red \n\nVolume still above trend",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "7 green candles in a row \n\nYLD up today while most alts are in the red \n\nVolume still above trend"
+    }
+   ]
+  },
+  {
+   "id": 118564,
+   "type": "message",
+   "date": "2023-12-17T17:47:04",
+   "date_unixtime": "1702810024",
+   "edited": "2023-12-17T20:25:11",
+   "edited_unixtime": "1702819511",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "Lukas in disbelief",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lukas in disbelief"
+    }
+   ]
+  },
+  {
+   "id": 118565,
+   "type": "message",
+   "date": "2023-12-17T17:48:27",
+   "date_unixtime": "1702810107",
+   "edited": "2023-12-17T17:57:05",
+   "edited_unixtime": "1702810625",
+   "from": "Dan",
+   "from_id": "user1312216379",
+   "photo": "photos/photo_1976@17-12-2023_17-48-27.jpg",
+   "width": 732,
+   "height": 1280,
+   "text": "Here we go 0.10",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Here we go 0.10"
+    }
+   ]
+  },
+  {
+   "id": 118566,
+   "type": "message",
+   "date": "2023-12-17T17:50:52",
+   "date_unixtime": "1702810252",
+   "edited": "2023-12-17T17:51:40",
+   "edited_unixtime": "1702810300",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": [
+    "0.11 tonight 🚀 Explosive volume, explosive token price ",
+    {
+     "type": "custom_emoji",
+     "text": "🈯️",
+     "document_id": "video_files/sticker.webm"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "0.11 tonight 🚀 Explosive volume, explosive token price "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🈯️",
+     "document_id": "video_files/sticker.webm"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 118567,
+   "type": "message",
+   "date": "2023-12-17T17:57:01",
+   "date_unixtime": "1702810621",
+   "edited": "2023-12-17T18:23:39",
+   "edited_unixtime": "1702812219",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 118565,
+   "text": "I'm cool with the price, but a bit bummed about your phone battery! 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm cool with the price, but a bit bummed about your phone battery! 😅"
+    }
+   ]
+  },
+  {
+   "id": 118568,
+   "type": "message",
+   "date": "2023-12-17T17:57:44",
+   "date_unixtime": "1702810664",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@Rrrrrcb"
+    },
+    " has the Aventador on order already 🤩🤣"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@Rrrrrcb"
+    },
+    {
+     "type": "plain",
+     "text": " has the Aventador on order already 🤩🤣"
+    }
+   ]
+  },
+  {
+   "id": 118569,
+   "type": "message",
+   "date": "2023-12-17T18:22:05",
+   "date_unixtime": "1702812125",
+   "edited": "2023-12-17T19:41:53",
+   "edited_unixtime": "1702816913",
+   "from": "Frederic",
+   "from_id": "user495092779",
+   "reply_to_message_id": 118563,
+   "text": "On se blinde les couilles as we say in french",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "On se blinde les couilles as we say in french"
+    }
+   ]
+  },
+  {
+   "id": 118570,
+   "type": "message",
+   "date": "2023-12-17T20:26:28",
+   "date_unixtime": "1702819588",
+   "edited": "2023-12-17T20:26:49",
+   "edited_unixtime": "1702819609",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 118564,
+   "text": "I'm allowed to laugh because every time we get a big red candle I have to listen to people say how we're not doing anything 🤣",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm allowed to laugh because every time we get a big red candle I have to listen to people say how we're not doing anything 🤣"
+    }
+   ]
+  },
+  {
+   "id": 118571,
+   "type": "message",
+   "date": "2023-12-17T20:28:10",
+   "date_unixtime": "1702819690",
+   "edited": "2023-12-17T20:28:51",
+   "edited_unixtime": "1702819731",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "Three things can be true at the same time, prediction for the future:\n1. Price go up and or down\n2. Price go down and or up\n3. We keep working harder than ever, regardless.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Three things can be true at the same time, prediction for the future:\n1. Price go up and or down\n2. Price go down and or up\n3. We keep working harder than ever, regardless."
+    }
+   ]
+  },
+  {
+   "id": 118572,
+   "type": "message",
+   "date": "2023-12-17T20:35:49",
+   "date_unixtime": "1702820149",
+   "edited": "2023-12-17T20:41:19",
+   "edited_unixtime": "1702820479",
+   "from": "Zyga",
+   "from_id": "user1740487037",
+   "reply_to_message_id": 118571,
+   "text": "4. YLD go to 1c or YLD 10$ dollar <stavso train> 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "4. YLD go to 1c or YLD 10$ dollar <stavso train> 😁"
+    }
+   ]
+  },
+  {
+   "id": 118573,
+   "type": "service",
+   "date": "2023-12-17T20:37:42",
+   "date_unixtime": "1702820262",
+   "actor": "dojttouaxca yrtc",
+   "actor_id": "user6902847760",
+   "action": "invite_members",
+   "members": [
+    "dojttouaxca yrtc"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 118574,
+   "type": "message",
+   "date": "2023-12-18T02:48:04",
+   "date_unixtime": "1702842484",
+   "edited": "2023-12-18T13:14:21",
+   "edited_unixtime": "1702880061",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "YLD has a higher volume than CRV or XLM on kucoin, really impressive",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "YLD has a higher volume than CRV or XLM on kucoin, really impressive"
+    }
+   ]
+  },
+  {
+   "id": 118575,
+   "type": "message",
+   "date": "2023-12-18T12:41:58",
+   "date_unixtime": "1702878118",
+   "from": "Hehe",
+   "from_id": "user916726413",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    },
+    " yld"
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/p"
+    },
+    {
+     "type": "plain",
+     "text": " yld"
+    }
+   ]
+  },
+  {
+   "id": 118576,
+   "type": "message",
+   "date": "2023-12-18T12:42:00",
+   "date_unixtime": "1702878120",
+   "from": "GeckoBot",
+   "from_id": "user523615603",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Yield App"
+    },
+    " | YLD\n",
+    {
+     "type": "code",
+     "text": "\nUSD    : $0.09448800 \nBTC    : ฿0.0000023000 \nETH    : ♢0.0000436000 \n\nMkt Cap: $24,290,915\nVolume : $1,490,107\n1hr %  : -0.07%\n24hr % : 2.76%\n7d %   : 40.19%\n30d %  : 32.32%\n1y %   : 25.05%\n"
+    },
+    "\nGet Price, Chart, and Info: ",
+    {
+     "type": "text_link",
+     "text": "coingecko.com/en/coins/yield-app",
+     "href": "https://coingecko.com/en/coins/yield-app?utm_source=telegram&utm_medium=geckobot&utm_campaign=yield-app"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Yield App"
+    },
+    {
+     "type": "plain",
+     "text": " | YLD\n"
+    },
+    {
+     "type": "code",
+     "text": "\nUSD    : $0.09448800 \nBTC    : ฿0.0000023000 \nETH    : ♢0.0000436000 \n\nMkt Cap: $24,290,915\nVolume : $1,490,107\n1hr %  : -0.07%\n24hr % : 2.76%\n7d %   : 40.19%\n30d %  : 32.32%\n1y %   : 25.05%\n"
+    },
+    {
+     "type": "plain",
+     "text": "\nGet Price, Chart, and Info: "
+    },
+    {
+     "type": "text_link",
+     "text": "coingecko.com/en/coins/yield-app",
+     "href": "https://coingecko.com/en/coins/yield-app?utm_source=telegram&utm_medium=geckobot&utm_campaign=yield-app"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 118577,
+   "type": "message",
+   "date": "2023-12-18T13:13:28",
+   "date_unixtime": "1702880008",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Morning, guys! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, guys! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 118578,
+   "type": "message",
+   "date": "2023-12-18T13:14:06",
+   "date_unixtime": "1702880046",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": [
+    "I just stumbled upon this! 🕵️‍♂️😄\n",
+    {
+     "type": "link",
+     "text": "https://ovenadd.com/yield-app-yld-price-prediction/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I just stumbled upon this! 🕵️‍♂️😄\n"
+    },
+    {
+     "type": "link",
+     "text": "https://ovenadd.com/yield-app-yld-price-prediction/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
   }
  ]
 }

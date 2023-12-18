@@ -23309,7 +23309,7 @@
    "poll": {
     "question": "What's your crypto resolution for 2024?",
     "closed": false,
-    "total_voters": 45,
+    "total_voters": 50,
     "answers": [
      {
       "text": "Diversify my portfolio",
@@ -25544,6 +25544,1232 @@
     {
      "type": "plain",
      "text": "thx for the info"
+    }
+   ]
+  },
+  {
+   "id": 274965,
+   "type": "message",
+   "date": "2023-12-17T04:44:18",
+   "date_unixtime": "1702763058",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 274964,
+   "text": "Anytime, please don't hesitate to resch out in case you'll need any further assistance",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anytime, please don't hesitate to resch out in case you'll need any further assistance"
+    }
+   ]
+  },
+  {
+   "id": 274967,
+   "type": "message",
+   "date": "2023-12-17T05:02:01",
+   "date_unixtime": "1702764121",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Am i late to join the testnet ser?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Am i late to join the testnet ser?"
+    }
+   ]
+  },
+  {
+   "id": 274968,
+   "type": "message",
+   "date": "2023-12-17T05:14:18",
+   "date_unixtime": "1702764858",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 274967,
+   "text": "nope, you're actually pretty early",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nope, you're actually pretty early"
+    }
+   ]
+  },
+  {
+   "id": 274969,
+   "type": "message",
+   "date": "2023-12-17T05:14:54",
+   "date_unixtime": "1702764894",
+   "edited": "2023-12-17T05:15:09",
+   "edited_unixtime": "1702764909",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "text": [
+    "Please follow this link and information to participate:\n\nHow to participate?\n\n1) Click this link: ",
+    {
+     "type": "link",
+     "text": "https://testnet.haven1.org/join-waitlist"
+    },
+    "\n2) Select \"Join Testnet\" and \"Register\"\n3) Connect your Metamask or Wallet Connect\n4) Fill in your details!\n5) Refer your friends for higher priority!\n\nWhat's next?\n\nOnce you're whitelisted, you'll receive an email with instructions on how to participate in the testnet. You'll also get a guide and a way to provide feedback.\n\n🚨 Remember!\n\nDaily participation is crucial. The more active you are, the more rewards you'll receive. The most active users will get even bigger rewards. If you haven't already, join the Haven1 Telegram channel to stay updated! ",
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please follow this link and information to participate:\n\nHow to participate?\n\n1) Click this link: "
+    },
+    {
+     "type": "link",
+     "text": "https://testnet.haven1.org/join-waitlist"
+    },
+    {
+     "type": "plain",
+     "text": "\n2) Select \"Join Testnet\" and \"Register\"\n3) Connect your Metamask or Wallet Connect\n4) Fill in your details!\n5) Refer your friends for higher priority!\n\nWhat's next?\n\nOnce you're whitelisted, you'll receive an email with instructions on how to participate in the testnet. You'll also get a guide and a way to provide feedback.\n\n🚨 Remember!\n\nDaily participation is crucial. The more active you are, the more rewards you'll receive. The most active users will get even bigger rewards. If you haven't already, join the Haven1 Telegram channel to stay updated! "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 274974,
+   "type": "message",
+   "date": "2023-12-17T12:49:32",
+   "date_unixtime": "1702792172",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 274975,
+   "type": "message",
+   "date": "2023-12-17T13:05:02",
+   "date_unixtime": "1702793102",
+   "edited": "2023-12-17T13:07:56",
+   "edited_unixtime": "1702793276",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Morning, Yielders! Have a chill Sunday! ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, Yielders! Have a chill Sunday! ☀️"
+    }
+   ]
+  },
+  {
+   "id": 274976,
+   "type": "message",
+   "date": "2023-12-17T13:08:02",
+   "date_unixtime": "1702793282",
+   "edited": "2023-12-17T13:09:09",
+   "edited_unixtime": "1702793349",
+   "from": "Stavso",
+   "from_id": "user251488993",
+   "file": "video_files/what-a-sunny-day.mp4",
+   "thumbnail": "video_files/what-a-sunny-day.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 1,
+   "width": 320,
+   "height": 320,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 274977,
+   "type": "message",
+   "date": "2023-12-17T13:20:28",
+   "date_unixtime": "1702794028",
+   "edited": "2023-12-17T14:18:18",
+   "edited_unixtime": "1702797498",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": "Good morning, Yielders!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning, Yielders!"
+    }
+   ]
+  },
+  {
+   "id": 274978,
+   "type": "message",
+   "date": "2023-12-17T14:25:43",
+   "date_unixtime": "1702797943",
+   "from": "Evan",
+   "from_id": "user1905569553",
+   "reply_to_message_id": 274969,
+   "text": "Is this an ongoing event?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this an ongoing event?"
+    }
+   ]
+  },
+  {
+   "id": 274979,
+   "type": "message",
+   "date": "2023-12-17T14:26:30",
+   "date_unixtime": "1702797990",
+   "from": "Akash | Haven1",
+   "from_id": "user5954831979",
+   "reply_to_message_id": 274978,
+   "text": "Yeah, testnet will run for a few months at least.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah, testnet will run for a few months at least."
+    }
+   ]
+  },
+  {
+   "id": 274980,
+   "type": "message",
+   "date": "2023-12-17T14:33:08",
+   "date_unixtime": "1702798388",
+   "from": "Evan",
+   "from_id": "user1905569553",
+   "text": "I'm already on the waitlist, the testnet hasn't started yet, right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm already on the waitlist, the testnet hasn't started yet, right?"
+    }
+   ]
+  },
+  {
+   "id": 274982,
+   "type": "message",
+   "date": "2023-12-17T16:49:31",
+   "date_unixtime": "1702806571",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 274983,
+   "type": "message",
+   "date": "2023-12-17T17:30:33",
+   "date_unixtime": "1702809033",
+   "edited": "2023-12-17T17:59:38",
+   "edited_unixtime": "1702810778",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 9,
+   "width": 1920,
+   "height": 1080,
+   "text": [
+    "🎁🪙 Day 4 - Four stablecoins\n\n",
+    {
+     "type": "link",
+     "text": "https://x.com/yieldapp/status/1736325418389500237?s=46&t=dWubIEqTaQSiYUkKTg1UkA"
+    },
+    "\n\nFor your chance to win today’s unique 1-of-1 NFT, plus Yield App swag: \n- Retweet this post, tag ",
+    {
+     "type": "mention",
+     "text": "@YieldApp"
+    },
+    " and ",
+    {
+     "type": "hashtag",
+     "text": "#Yieldmas"
+    },
+    "\n- Reply and tag 2 friends\n- Winner announced on 26 Dec!\n\n",
+    {
+     "type": "hashtag",
+     "text": "#YieldApp"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#Yieldmas"
+    },
+    " \n",
+    {
+     "type": "hashtag",
+     "text": "#crypto"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#adventcalendar"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🎁🪙 Day 4 - Four stablecoins\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://x.com/yieldapp/status/1736325418389500237?s=46&t=dWubIEqTaQSiYUkKTg1UkA"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor your chance to win today’s unique 1-of-1 NFT, plus Yield App swag: \n- Retweet this post, tag "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldApp"
+    },
+    {
+     "type": "plain",
+     "text": " and "
+    },
+    {
+     "type": "hashtag",
+     "text": "#Yieldmas"
+    },
+    {
+     "type": "plain",
+     "text": "\n- Reply and tag 2 friends\n- Winner announced on 26 Dec!\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#YieldApp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#Yieldmas"
+    },
+    {
+     "type": "plain",
+     "text": " \n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#crypto"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#adventcalendar"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 274984,
+   "type": "message",
+   "date": "2023-12-17T17:39:32",
+   "date_unixtime": "1702809572",
+   "from": "Evan",
+   "from_id": "user1905569553",
+   "reply_to_message_id": 274983,
+   "text": "Where's the link?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Where's the link?"
+    }
+   ]
+  },
+  {
+   "id": 274986,
+   "type": "message",
+   "date": "2023-12-17T18:00:40",
+   "date_unixtime": "1702810840",
+   "from": "Duke",
+   "from_id": "user1426497816",
+   "text": "GM! Any future plans to get YLD listed on other exchanges?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "GM! Any future plans to get YLD listed on other exchanges?"
+    }
+   ]
+  },
+  {
+   "id": 274987,
+   "type": "message",
+   "date": "2023-12-17T18:01:11",
+   "date_unixtime": "1702810871",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Hey, the minimum amount for putting SOL in Earn is 5 - this seems a tad high now that SOL is over $70\n\nAny chance of making it a bit smaller?\n\nI will probably send it to Kraken eventually but I don’t want to waste my remaining free withdrawal on sending a small amount of SOL there",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey, the minimum amount for putting SOL in Earn is 5 - this seems a tad high now that SOL is over $70\n\nAny chance of making it a bit smaller?\n\nI will probably send it to Kraken eventually but I don’t want to waste my remaining free withdrawal on sending a small amount of SOL there"
+    }
+   ]
+  },
+  {
+   "id": 274992,
+   "type": "message",
+   "date": "2023-12-17T18:21:48",
+   "date_unixtime": "1702812108",
+   "from": "Skilled Dev",
+   "from_id": "user6497635908",
+   "text": "anyone needs a dev?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "anyone needs a dev?"
+    }
+   ]
+  },
+  {
+   "id": 274997,
+   "type": "message",
+   "date": "2023-12-17T18:45:46",
+   "date_unixtime": "1702813546",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 274987,
+   "text": "If you have already minimum invested, there is no restriction on any further investment amount.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If you have already minimum invested, there is no restriction on any further investment amount."
+    }
+   ]
+  },
+  {
+   "id": 275001,
+   "type": "message",
+   "date": "2023-12-17T18:49:32",
+   "date_unixtime": "1702813772",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 275003,
+   "type": "message",
+   "date": "2023-12-17T18:50:03",
+   "date_unixtime": "1702813803",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 274997,
+   "text": "I don’t have any SOL invested in Earn yet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I don’t have any SOL invested in Earn yet"
+    }
+   ]
+  },
+  {
+   "id": 275005,
+   "type": "message",
+   "date": "2023-12-17T18:56:32",
+   "date_unixtime": "1702814192",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 275003,
+   "text": "Then need first investment as minimum req.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Then need first investment as minimum req."
+    }
+   ]
+  },
+  {
+   "id": 275012,
+   "type": "message",
+   "date": "2023-12-17T19:42:12",
+   "date_unixtime": "1702816932",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 275005,
+   "text": "So can we get a table showing minimum earn investment for each asset?\n\nBecause atm it looks like SOL minimum is significantly higher than for others in dollar terms",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So can we get a table showing minimum earn investment for each asset?\n\nBecause atm it looks like SOL minimum is significantly higher than for others in dollar terms"
+    }
+   ]
+  },
+  {
+   "id": 275013,
+   "type": "message",
+   "date": "2023-12-17T20:09:11",
+   "date_unixtime": "1702818551",
+   "edited": "2023-12-17T20:15:00",
+   "edited_unixtime": "1702818900",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 275012,
+   "text": "Thanks Cirrus for the feedback, it's actually really helpful.  I'll take a look today and get back to you.  I'm sure we all agree if the min for one has shot up, it would be worth reviewing.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks Cirrus for the feedback, it's actually really helpful.  I'll take a look today and get back to you.  I'm sure we all agree if the min for one has shot up, it would be worth reviewing."
+    }
+   ]
+  },
+  {
+   "id": 275014,
+   "type": "message",
+   "date": "2023-12-17T20:14:16",
+   "date_unixtime": "1702818856",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "Everyone gets stars in their eyes when Lucas pops in. I think people don't realise how big a deal Andrei is, no one knows every single inch of the technical side of this company better than him..  Actually, I'm pretty sure he's a robot.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Everyone gets stars in their eyes when Lucas pops in. I think people don't realise how big a deal Andrei is, no one knows every single inch of the technical side of this company better than him..  Actually, I'm pretty sure he's a robot."
+    }
+   ]
+  },
+  {
+   "id": 275015,
+   "type": "message",
+   "date": "2023-12-17T20:24:22",
+   "date_unixtime": "1702819462",
+   "edited": "2023-12-17T20:25:11",
+   "edited_unixtime": "1702819511",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 275012,
+   "text": [
+    "Table is here ",
+    {
+     "type": "link",
+     "text": "https://support.yield.app/hc/en-us/articles/360015390278-What-is-the-minimum-I-can-deposit-into-my-account-"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Table is here "
+    },
+    {
+     "type": "link",
+     "text": "https://support.yield.app/hc/en-us/articles/360015390278-What-is-the-minimum-I-can-deposit-into-my-account-"
+    }
+   ]
+  },
+  {
+   "id": 275016,
+   "type": "message",
+   "date": "2023-12-17T20:49:32",
+   "date_unixtime": "1702820972",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 275017,
+   "type": "message",
+   "date": "2023-12-17T21:13:42",
+   "date_unixtime": "1702822422",
+   "from": "Gamusin0x👹",
+   "from_id": "user1193269302",
+   "text": "Hi, I have been a customer since 2021 but I haven't been following the project for the last few months. May I ask. \n\nAre you launching a card at some point? \n\nIs the use case for the token just to improve your tier? \n\nIs there a H1 token that we can buy?\n\nYou have a nice product and the H1 looks great. Well done 👍🏾",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi, I have been a customer since 2021 but I haven't been following the project for the last few months. May I ask. \n\nAre you launching a card at some point? \n\nIs the use case for the token just to improve your tier? \n\nIs there a H1 token that we can buy?\n\nYou have a nice product and the H1 looks great. Well done 👍🏾"
+    }
+   ]
+  },
+  {
+   "id": 275018,
+   "type": "message",
+   "date": "2023-12-17T21:24:04",
+   "date_unixtime": "1702823044",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 275017,
+   "text": "Hey thank you for asking I'll be happy to reply.\n\nCard is not in the horizon as the team is pushing for a new website, V3, Haven1 testnet, more assets, we continue building.\n\nYLD is a membership token it'll increase your tier on the platform and allow you to earn better returns on your deployed digital assets.\n\nNot at the moment, in January 2024 you'll stop getting YLD rewards on your staked YLD tokens, you'll instead start receiving esH1, after 365 days you'll be able to vest those esH1 into H1.\n\nThat would be the only way to obtain H1 at the moment, more information available in the future",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey thank you for asking I'll be happy to reply.\n\nCard is not in the horizon as the team is pushing for a new website, V3, Haven1 testnet, more assets, we continue building.\n\nYLD is a membership token it'll increase your tier on the platform and allow you to earn better returns on your deployed digital assets.\n\nNot at the moment, in January 2024 you'll stop getting YLD rewards on your staked YLD tokens, you'll instead start receiving esH1, after 365 days you'll be able to vest those esH1 into H1.\n\nThat would be the only way to obtain H1 at the moment, more information available in the future"
+    }
+   ]
+  },
+  {
+   "id": 275019,
+   "type": "message",
+   "date": "2023-12-17T21:26:00",
+   "date_unixtime": "1702823160",
+   "from": "Gamusin0x👹",
+   "from_id": "user1193269302",
+   "reply_to_message_id": 275018,
+   "text": "Thanks 🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks 🙏"
+    }
+   ]
+  },
+  {
+   "id": 275020,
+   "type": "message",
+   "date": "2023-12-17T21:26:27",
+   "date_unixtime": "1702823187",
+   "edited": "2023-12-17T21:26:30",
+   "edited_unixtime": "1702823190",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "text": [
+    "When you have a chance please take a look at our blog where we mention more information of what's coming and provide a bit more insight\n\n",
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/whats-ahead-for-yld-and-h1"
+    },
+    "\n\nIf you'd rather like to see a video, please take a look at:\n\n",
+    {
+     "type": "link",
+     "text": "https://youtu.be/b-zT4YofTTs?si=wUeElz75X7JvH80m"
+    },
+    "\n\nIf you have any questions we're always here happy to assist you 😁👍"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When you have a chance please take a look at our blog where we mention more information of what's coming and provide a bit more insight\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/whats-ahead-for-yld-and-h1"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nIf you'd rather like to see a video, please take a look at:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://youtu.be/b-zT4YofTTs?si=wUeElz75X7JvH80m"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nIf you have any questions we're always here happy to assist you 😁👍"
+    }
+   ]
+  },
+  {
+   "id": 275021,
+   "type": "message",
+   "date": "2023-12-17T21:27:37",
+   "date_unixtime": "1702823257",
+   "edited": "2023-12-17T21:29:17",
+   "edited_unixtime": "1702823357",
+   "from": "Gamusin0x👹",
+   "from_id": "user1193269302",
+   "reply_to_message_id": 275020,
+   "text": "Yeah, I already read it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah, I already read it"
+    }
+   ]
+  },
+  {
+   "id": 275024,
+   "type": "message",
+   "date": "2023-12-17T21:45:01",
+   "date_unixtime": "1702824301",
+   "edited": "2023-12-17T21:45:21",
+   "edited_unixtime": "1702824321",
+   "from": "Jimmy Farout",
+   "from_id": "user1208268282",
+   "reply_to_message_id": 274979,
+   "text": "Can u give us some examples of what u expect users/institutions will use H1 for?\n\nThanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can u give us some examples of what u expect users/institutions will use H1 for?\n\nThanks"
+    }
+   ]
+  },
+  {
+   "id": 275025,
+   "type": "message",
+   "date": "2023-12-17T22:00:05",
+   "date_unixtime": "1702825205",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 275024,
+   "text": [
+    "Hi Jimmy, thank you for asking, this topic has been touched multiple times in the articles when we mention future use cases for the network.\n\nWhat are Haven1’s key use cases?\nHaven1's provable identity framework enables a number of exciting use cases, including: \n\n    Reputation-based on-chain lending underpinned by real-world credit scores, in a similar fashion to traditional loan risk management best practices. This allows undercollateralized forms of lending on a mass scale, such as traditional mortgage lending. \n    The integration of real-world assets for proof of ownership. For example, non-fungible tokens (NFTs) could be utilized as proof of property ownership.\n    More efficient global exchange and settlement of tokenized digital representations of traditional assets, such as bonds and commodities. This has the potential to migrate the trillions of dollars currently exchanged through traditional financial markets on-chain.\n\nThese are just to name a few, on our latest blog article we mention challenges currently found on real world assets and how we aim to address and solve them with Haven1\n\n",
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/december-haven1-update-testnet-paves-the-way-for-a-new-era-of-on-chain-finance"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi Jimmy, thank you for asking, this topic has been touched multiple times in the articles when we mention future use cases for the network.\n\nWhat are Haven1’s key use cases?\nHaven1's provable identity framework enables a number of exciting use cases, including: \n\n    Reputation-based on-chain lending underpinned by real-world credit scores, in a similar fashion to traditional loan risk management best practices. This allows undercollateralized forms of lending on a mass scale, such as traditional mortgage lending. \n    The integration of real-world assets for proof of ownership. For example, non-fungible tokens (NFTs) could be utilized as proof of property ownership.\n    More efficient global exchange and settlement of tokenized digital representations of traditional assets, such as bonds and commodities. This has the potential to migrate the trillions of dollars currently exchanged through traditional financial markets on-chain.\n\nThese are just to name a few, on our latest blog article we mention challenges currently found on real world assets and how we aim to address and solve them with Haven1\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/december-haven1-update-testnet-paves-the-way-for-a-new-era-of-on-chain-finance"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 275026,
+   "type": "message",
+   "date": "2023-12-17T22:08:11",
+   "date_unixtime": "1702825691",
+   "from": "Jimmy Farout",
+   "from_id": "user1208268282",
+   "text": "Thanks.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks."
+    }
+   ]
+  },
+  {
+   "id": 275027,
+   "type": "message",
+   "date": "2023-12-17T22:08:58",
+   "date_unixtime": "1702825738",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 275026,
+   "text": "Anytime Jimmy, please don't hesitate to reach out in case you have any more questions, we're happy to clarify 😁👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anytime Jimmy, please don't hesitate to reach out in case you have any more questions, we're happy to clarify 😁👍"
+    }
+   ]
+  },
+  {
+   "id": 275036,
+   "type": "message",
+   "date": "2023-12-18T12:54:49",
+   "date_unixtime": "1702878889",
+   "edited": "2023-12-18T12:55:52",
+   "edited_unixtime": "1702878952",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": "Morning, folks!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, folks!"
+    }
+   ]
+  },
+  {
+   "id": 275037,
+   "type": "message",
+   "date": "2023-12-18T12:55:49",
+   "date_unixtime": "1702878949",
+   "edited": "2023-12-18T13:19:48",
+   "edited_unixtime": "1702880388",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 275036,
+   "text": "Morning, Sap! ☕️\nGood morning, Yielders!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning, Sap! ☕️\nGood morning, Yielders!"
     }
    ]
   }
