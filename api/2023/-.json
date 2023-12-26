@@ -4080,8 +4080,8 @@
    "date_unixtime": "1701679574",
    "from": "Szymon [never DM first]",
    "from_id": "user1594002366",
-   "file": "(File not included. Change data exporting settings to download.)",
-   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "file": "stickers/sticker.webp",
+   "thumbnail": "stickers/sticker.webp_thumb.jpg",
    "media_type": "sticker",
    "sticker_emoji": "👋",
    "width": 512,
@@ -27266,8 +27266,8 @@
    "date_unixtime": "1702894418",
    "from": "superfuru",
    "from_id": "user1118382912",
-   "file": "(File not included. Change data exporting settings to download.)",
-   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "file": "stickers/sticker (1).webp",
+   "thumbnail": "stickers/sticker (1).webp_thumb.jpg",
    "media_type": "sticker",
    "sticker_emoji": "🤕",
    "width": 512,
@@ -28387,8 +28387,8 @@
    "date_unixtime": "1702971500",
    "from": "Arletta",
    "from_id": "user1929853663",
-   "file": "(File not included. Change data exporting settings to download.)",
-   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "file": "stickers/AnimatedSticker (5).tgs",
+   "thumbnail": "stickers/AnimatedSticker.tgs_thumb.jpg",
    "media_type": "sticker",
    "sticker_emoji": "👌",
    "width": 512,
@@ -28690,8 +28690,8 @@
    "edited_unixtime": "1702980251",
    "from": "HC Li",
    "from_id": "user1049961551",
-   "file": "files/Yield App one-pager (2).pdf",
-   "thumbnail": "files/Yield App one-pager (2).pdf_thumb.jpg",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
    "mime_type": "application/pdf",
    "text": "",
    "text_entities": []
@@ -29840,13 +29840,13 @@
     {
      "type": "custom_emoji",
      "text": "🔥",
-     "document_id": "stickers/AnimatedSticker (5).tgs"
+     "document_id": "stickers/AnimatedSticker (6).tgs"
     },
     " On Fire Marketing in recent days ",
     {
      "type": "custom_emoji",
      "text": "🔥",
-     "document_id": "stickers/AnimatedSticker (5).tgs"
+     "document_id": "stickers/AnimatedSticker (6).tgs"
     },
     ""
    ],
@@ -29854,7 +29854,7 @@
     {
      "type": "custom_emoji",
      "text": "🔥",
-     "document_id": "stickers/AnimatedSticker (5).tgs"
+     "document_id": "stickers/AnimatedSticker (6).tgs"
     },
     {
      "type": "plain",
@@ -29863,7 +29863,7 @@
     {
      "type": "custom_emoji",
      "text": "🔥",
-     "document_id": "stickers/AnimatedSticker (5).tgs"
+     "document_id": "stickers/AnimatedSticker (6).tgs"
     },
     {
      "type": "plain",
@@ -30178,7 +30178,7 @@
     {
      "type": "custom_emoji",
      "text": "😇",
-     "document_id": "stickers/AnimatedSticker (6).tgs"
+     "document_id": "stickers/AnimatedSticker (7).tgs"
     },
     ""
    ],
@@ -30206,7 +30206,7 @@
     {
      "type": "custom_emoji",
      "text": "😇",
-     "document_id": "stickers/AnimatedSticker (6).tgs"
+     "document_id": "stickers/AnimatedSticker (7).tgs"
     },
     {
      "type": "plain",
@@ -30901,7 +30901,7 @@
     {
      "type": "custom_emoji",
      "text": "🤣",
-     "document_id": "stickers/AnimatedSticker (7).tgs"
+     "document_id": "stickers/AnimatedSticker (8).tgs"
     },
     ""
    ],
@@ -30913,7 +30913,7 @@
     {
      "type": "custom_emoji",
      "text": "🤣",
-     "document_id": "stickers/AnimatedSticker (7).tgs"
+     "document_id": "stickers/AnimatedSticker (8).tgs"
     },
     {
      "type": "plain",
@@ -32384,7 +32384,7 @@
     {
      "type": "custom_emoji",
      "text": "☕️",
-     "document_id": "stickers/AnimatedSticker (8).tgs"
+     "document_id": "stickers/AnimatedSticker (9).tgs"
     },
     ""
    ],
@@ -32396,7 +32396,7 @@
     {
      "type": "custom_emoji",
      "text": "☕️",
-     "document_id": "stickers/AnimatedSticker (8).tgs"
+     "document_id": "stickers/AnimatedSticker (9).tgs"
     },
     {
      "type": "plain",
@@ -33410,7 +33410,7 @@
     {
      "type": "custom_emoji",
      "text": "🎁",
-     "document_id": "stickers/AnimatedSticker (9).tgs"
+     "document_id": "stickers/AnimatedSticker (10).tgs"
     },
     ""
    ],
@@ -33418,7 +33418,7 @@
     {
      "type": "custom_emoji",
      "text": "🎁",
-     "document_id": "stickers/AnimatedSticker (9).tgs"
+     "document_id": "stickers/AnimatedSticker (10).tgs"
     },
     {
      "type": "plain",
@@ -33824,7 +33824,7 @@
     {
      "type": "custom_emoji",
      "text": "🥳",
-     "document_id": "stickers/AnimatedSticker (10).tgs"
+     "document_id": "stickers/AnimatedSticker (11).tgs"
     },
     ""
    ],
@@ -33836,7 +33836,7 @@
     {
      "type": "custom_emoji",
      "text": "🥳",
-     "document_id": "stickers/AnimatedSticker (10).tgs"
+     "document_id": "stickers/AnimatedSticker (11).tgs"
     },
     {
      "type": "plain",
@@ -34902,7 +34902,7 @@
     {
      "type": "custom_emoji",
      "text": "🤫",
-     "document_id": "stickers/AnimatedSticker (11).tgs"
+     "document_id": "stickers/AnimatedSticker (12).tgs"
     },
     ""
    ],
@@ -34910,7 +34910,7 @@
     {
      "type": "custom_emoji",
      "text": "🤫",
-     "document_id": "stickers/AnimatedSticker (11).tgs"
+     "document_id": "stickers/AnimatedSticker (12).tgs"
     },
     {
      "type": "plain",
@@ -39354,8 +39354,6 @@
    "type": "message",
    "date": "2023-12-26T14:10:48",
    "date_unixtime": "1703574648",
-   "edited": "2023-12-26T16:59:40",
-   "edited_unixtime": "1703584780",
    "from": "Blunt",
    "from_id": "user1981956046",
    "text": "We're almost hitting 21K TestNet participants on the waitlist! Looks like we're wrapping up the year on a high note!",
@@ -39537,960 +39535,6 @@
     {
      "type": "plain",
      "text": "How can I join?"
-    }
-   ]
-  },
-  {
-   "id": 275557,
-   "type": "message",
-   "date": "2023-12-26T15:46:46",
-   "date_unixtime": "1703580406",
-   "edited": "2023-12-26T15:52:38",
-   "edited_unixtime": "1703580758",
-   "from": "Sapta",
-   "from_id": "user472069309",
-   "reply_to_message_id": 275556,
-   "text": [
-    {
-     "type": "link",
-     "text": "https://testnet.haven1.org/join-waitlist"
-    },
-    "\n\nJoin the wait-list on link above!"
-   ],
-   "text_entities": [
-    {
-     "type": "link",
-     "text": "https://testnet.haven1.org/join-waitlist"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nJoin the wait-list on link above!"
-    }
-   ]
-  },
-  {
-   "id": 275558,
-   "type": "message",
-   "date": "2023-12-26T15:50:29",
-   "date_unixtime": "1703580629",
-   "from": "YIELD App — News channel",
-   "from_id": "channel1289941747",
-   "forwarded_from": "YIELD App — News channel",
-   "saved_from": "YIELD App — News channel",
-   "file": "(File not included. Change data exporting settings to download.)",
-   "thumbnail": "(File not included. Change data exporting settings to download.)",
-   "media_type": "video_file",
-   "mime_type": "video/mp4",
-   "duration_seconds": 32,
-   "width": 1920,
-   "height": 1080,
-   "text": [
-    "⚫ Connect the dots to explore why Polkadot is shaping the future of decentralized networks.\n",
-    {
-     "type": "link",
-     "text": "https://on.yield.app/41xIYOh"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "⚫ Connect the dots to explore why Polkadot is shaping the future of decentralized networks.\n"
-    },
-    {
-     "type": "link",
-     "text": "https://on.yield.app/41xIYOh"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 275559,
-   "type": "message",
-   "date": "2023-12-26T15:52:28",
-   "date_unixtime": "1703580748",
-   "from": "Frence",
-   "from_id": "user1952746839",
-   "reply_to_message_id": 275557,
-   "text": "Joined thank you",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Joined thank you"
-    }
-   ]
-  },
-  {
-   "id": 275560,
-   "type": "message",
-   "date": "2023-12-26T15:59:58",
-   "date_unixtime": "1703581198",
-   "edited": "2023-12-26T17:59:14",
-   "edited_unixtime": "1703588354",
-   "from": "Fabrie",
-   "from_id": "user1924903129",
-   "reply_to_message_id": 275552,
-   "text": "21 k has passed",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "21 k has passed"
-    }
-   ]
-  },
-  {
-   "id": 275561,
-   "type": "message",
-   "date": "2023-12-26T16:18:17",
-   "date_unixtime": "1703582297",
-   "edited": "2023-12-26T16:39:17",
-   "edited_unixtime": "1703583557",
-   "from": "YIELD App — News channel",
-   "from_id": "channel1289941747",
-   "forwarded_from": "YIELD App — News channel",
-   "saved_from": "YIELD App — News channel",
-   "photo": "photos/photo_4165@26-12-2023_16-18-17.jpg",
-   "width": 1280,
-   "height": 721,
-   "text": [
-    "Crushing more testnet milestones! 🚀\n\nWe've just hit 20,000 wallets on the Haven1 testnet, so a huge thank you to our community for your incredible support 🤝\n\nNot on board yet? Join up now and be early to the on-chain finance revolution \n\n",
-    {
-     "type": "link",
-     "text": "https://www.haven1.org/join-testnet"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Crushing more testnet milestones! 🚀\n\nWe've just hit 20,000 wallets on the Haven1 testnet, so a huge thank you to our community for your incredible support 🤝\n\nNot on board yet? Join up now and be early to the on-chain finance revolution \n\n"
-    },
-    {
-     "type": "link",
-     "text": "https://www.haven1.org/join-testnet"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 275562,
-   "type": "message",
-   "date": "2023-12-26T16:49:32",
-   "date_unixtime": "1703584172",
-   "from": "Yield App bot",
-   "from_id": "user6147387490",
-   "text": [
-    {
-     "type": "bold",
-     "text": "Please BEWARE of scammers and impersonators!"
-    },
-    " Our admins are listed below and are here to help:\n\n- ",
-    {
-     "type": "mention",
-     "text": "@sapta"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@rRrsSt"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@sasquish"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@szymonb_pl"
-    },
-    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
-    {
-     "type": "text_link",
-     "text": "support.yield.app",
-     "href": "https://support.yield.app/"
-    },
-    "\n\nFor partnership/listing/marketing offers:\n\n- ",
-    {
-     "type": "email",
-     "text": "proposals@yield.app"
-    },
-    "\n\n",
-    {
-     "type": "bold",
-     "text": "No offers will be entertained via Telegram."
-    },
-    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
-    {
-     "type": "mention",
-     "text": "@YieldPro"
-    }
-   ],
-   "text_entities": [
-    {
-     "type": "bold",
-     "text": "Please BEWARE of scammers and impersonators!"
-    },
-    {
-     "type": "plain",
-     "text": " Our admins are listed below and are here to help:\n\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@sapta"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@rRrsSt"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@sasquish"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@szymonb_pl"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
-    },
-    {
-     "type": "text_link",
-     "text": "support.yield.app",
-     "href": "https://support.yield.app/"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
-    },
-    {
-     "type": "email",
-     "text": "proposals@yield.app"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "No offers will be entertained via Telegram."
-    },
-    {
-     "type": "plain",
-     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@YieldPro"
-    }
-   ]
-  },
-  {
-   "id": 275563,
-   "type": "message",
-   "date": "2023-12-26T17:37:32",
-   "date_unixtime": "1703587052",
-   "edited": "2023-12-26T17:37:51",
-   "edited_unixtime": "1703587071",
-   "from": "Hay.",
-   "from_id": "user1932790020",
-   "reply_to_message_id": 275561,
-   "text": "What a great achievement",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "What a great achievement"
-    }
-   ]
-  },
-  {
-   "id": 275564,
-   "type": "message",
-   "date": "2023-12-26T17:38:30",
-   "date_unixtime": "1703587110",
-   "from": "Hay.",
-   "from_id": "user1932790020",
-   "text": "Hopefully we wont have to wait too long to start joining test net",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Hopefully we wont have to wait too long to start joining test net"
-    }
-   ]
-  },
-  {
-   "id": 275565,
-   "type": "message",
-   "date": "2023-12-26T17:39:23",
-   "date_unixtime": "1703587163",
-   "from": "Szymon [never DM first]",
-   "from_id": "user1594002366",
-   "reply_to_message_id": 275563,
-   "text": "Thank you for your kind words, sir!",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Thank you for your kind words, sir!"
-    }
-   ]
-  },
-  {
-   "id": 275566,
-   "type": "message",
-   "date": "2023-12-26T17:41:06",
-   "date_unixtime": "1703587266",
-   "edited": "2023-12-26T23:55:22",
-   "edited_unixtime": "1703609722",
-   "from": "Szymon [never DM first]",
-   "from_id": "user1594002366",
-   "reply_to_message_id": 275564,
-   "text": [
-    "Please be patient, we experience very high interest in testnet's participation. Yield App's Diamond users who hold minimum 20 000 YLD tokens have a priority. Then lower tier users will be approved.\n\nEventually everybody will be approved, please don't worry we won't leave anyone behind. 👍\n\nMore info on Loyalty tiers: ",
-    {
-     "type": "link",
-     "text": "https://yield.app/earn"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Please be patient, we experience very high interest in testnet's participation. Yield App's Diamond users who hold minimum 20 000 YLD tokens have a priority. Then lower tier users will be approved.\n\nEventually everybody will be approved, please don't worry we won't leave anyone behind. 👍\n\nMore info on Loyalty tiers: "
-    },
-    {
-     "type": "link",
-     "text": "https://yield.app/earn"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 275567,
-   "type": "message",
-   "date": "2023-12-26T17:44:39",
-   "date_unixtime": "1703587479",
-   "edited": "2023-12-26T17:44:52",
-   "edited_unixtime": "1703587492",
-   "from": "Hay.",
-   "from_id": "user1932790020",
-   "reply_to_message_id": 275566,
-   "text": "Dont worry, I totally understand",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Dont worry, I totally understand"
-    }
-   ]
-  },
-  {
-   "id": 275568,
-   "type": "message",
-   "date": "2023-12-26T17:51:19",
-   "date_unixtime": "1703587879",
-   "from": "Ian Eister",
-   "from_id": "user1746041360",
-   "reply_to_message_id": 275563,
-   "text": "it's indeed a pretty good start",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "it's indeed a pretty good start"
-    }
-   ]
-  },
-  {
-   "id": 275569,
-   "type": "message",
-   "date": "2023-12-26T17:52:13",
-   "date_unixtime": "1703587933",
-   "from": "Ian Eister",
-   "from_id": "user1746041360",
-   "text": "i didn't expect the enthusiasm to be this big",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "i didn't expect the enthusiasm to be this big"
-    }
-   ]
-  },
-  {
-   "id": 275570,
-   "type": "message",
-   "date": "2023-12-26T17:52:38",
-   "date_unixtime": "1703587958",
-   "edited": "2023-12-26T17:53:01",
-   "edited_unixtime": "1703587981",
-   "from": "Ian Eister",
-   "from_id": "user1746041360",
-   "text": "well done yield app 👍",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "well done yield app 👍"
-    }
-   ]
-  },
-  {
-   "id": 275571,
-   "type": "message",
-   "date": "2023-12-26T18:06:45",
-   "date_unixtime": "1703588805",
-   "from": "Blunt",
-   "from_id": "user1981956046",
-   "reply_to_message_id": 275570,
-   "text": "Shoutout to some other awesome teams too! Big props to the Haven1 crew - they've been killing it!",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Shoutout to some other awesome teams too! Big props to the Haven1 crew - they've been killing it!"
-    }
-   ]
-  },
-  {
-   "id": 275572,
-   "type": "message",
-   "date": "2023-12-26T18:14:49",
-   "date_unixtime": "1703589289",
-   "from": "Me",
-   "from_id": "user523032265",
-   "reply_to_message_id": 275544,
-   "text": "hello sapta. i sent you an email. please check it. you said, that you can send me the required documents. i really need them. it would be awesome. thank you",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "hello sapta. i sent you an email. please check it. you said, that you can send me the required documents. i really need them. it would be awesome. thank you"
-    }
-   ]
-  },
-  {
-   "id": 275573,
-   "type": "message",
-   "date": "2023-12-26T18:16:48",
-   "date_unixtime": "1703589408",
-   "from": "Szymon [never DM first]",
-   "from_id": "user1594002366",
-   "reply_to_message_id": 275572,
-   "text": "Hey! I'll let Sapta know. 👍",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Hey! I'll let Sapta know. 👍"
-    }
-   ]
-  },
-  {
-   "id": 275574,
-   "type": "message",
-   "date": "2023-12-26T18:17:05",
-   "date_unixtime": "1703589425",
-   "edited": "2023-12-26T18:17:11",
-   "edited_unixtime": "1703589431",
-   "from": "Me",
-   "from_id": "user523032265",
-   "reply_to_message_id": 275573,
-   "text": "thank you 🙏",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "thank you 🙏"
-    }
-   ]
-  },
-  {
-   "id": 275576,
-   "type": "message",
-   "date": "2023-12-26T19:02:00",
-   "date_unixtime": "1703592120",
-   "from": "YIELD App — News channel",
-   "from_id": "channel1289941747",
-   "forwarded_from": "YIELD App — News channel",
-   "saved_from": "YIELD App — News channel",
-   "text": "🏆 Congratulations to our Yieldmas winners!\n\n📥 We will send each of you a DM in Twitter\n\n💌 Please check your inbox",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "🏆 Congratulations to our Yieldmas winners!\n\n📥 We will send each of you a DM in Twitter\n\n💌 Please check your inbox"
-    }
-   ]
-  },
-  {
-   "id": 275578,
-   "type": "message",
-   "date": "2023-12-26T21:34:16",
-   "date_unixtime": "1703601256",
-   "from": "Blunt",
-   "from_id": "user1981956046",
-   "reply_to_message_id": 275576,
-   "text": "I've been kinda unlucky with this one, not gonna lie! 😢",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "I've been kinda unlucky with this one, not gonna lie! 😢"
-    }
-   ]
-  },
-  {
-   "id": 275579,
-   "type": "message",
-   "date": "2023-12-26T21:57:21",
-   "date_unixtime": "1703602641",
-   "edited": "2023-12-27T00:30:02",
-   "edited_unixtime": "1703611802",
-   "from": "Szymon [never DM first]",
-   "from_id": "user1594002366",
-   "reply_to_message_id": 275578,
-   "text": "Maybe next time!\n\nAs you're a very active member of our community, I'm sure you're not going to miss it, Blunt. 🙂",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Maybe next time!\n\nAs you're a very active member of our community, I'm sure you're not going to miss it, Blunt. 🙂"
-    }
-   ]
-  },
-  {
-   "id": 275580,
-   "type": "message",
-   "date": "2023-12-26T22:49:32",
-   "date_unixtime": "1703605772",
-   "from": "Yield App bot",
-   "from_id": "user6147387490",
-   "text": [
-    {
-     "type": "bold",
-     "text": "Please BEWARE of scammers and impersonators!"
-    },
-    " Our admins are listed below and are here to help:\n\n- ",
-    {
-     "type": "mention",
-     "text": "@sapta"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@rRrsSt"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@sasquish"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@szymonb_pl"
-    },
-    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
-    {
-     "type": "text_link",
-     "text": "support.yield.app",
-     "href": "https://support.yield.app/"
-    },
-    "\n\nFor partnership/listing/marketing offers:\n\n- ",
-    {
-     "type": "email",
-     "text": "proposals@yield.app"
-    },
-    "\n\n",
-    {
-     "type": "bold",
-     "text": "No offers will be entertained via Telegram."
-    },
-    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
-    {
-     "type": "mention",
-     "text": "@YieldPro"
-    }
-   ],
-   "text_entities": [
-    {
-     "type": "bold",
-     "text": "Please BEWARE of scammers and impersonators!"
-    },
-    {
-     "type": "plain",
-     "text": " Our admins are listed below and are here to help:\n\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@sapta"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@rRrsSt"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@sasquish"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@szymonb_pl"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
-    },
-    {
-     "type": "text_link",
-     "text": "support.yield.app",
-     "href": "https://support.yield.app/"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
-    },
-    {
-     "type": "email",
-     "text": "proposals@yield.app"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "No offers will be entertained via Telegram."
-    },
-    {
-     "type": "plain",
-     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@YieldPro"
-    }
-   ]
-  },
-  {
-   "id": 275581,
-   "type": "message",
-   "date": "2023-12-27T00:14:09",
-   "date_unixtime": "1703610849",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "Given that volume and volatility have been significantly up for a considerable time now, can we expect an asjustment of rates at some point?",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Given that volume and volatility have been significantly up for a considerable time now, can we expect an asjustment of rates at some point?"
-    }
-   ]
-  },
-  {
-   "id": 275582,
-   "type": "message",
-   "date": "2023-12-27T00:29:53",
-   "date_unixtime": "1703611793",
-   "from": "Blunt",
-   "from_id": "user1981956046",
-   "reply_to_message_id": 275581,
-   "text": "If I remember right, Tim tackled questions about rate adjustments at the AMA with the French gang last week 🤔",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "If I remember right, Tim tackled questions about rate adjustments at the AMA with the French gang last week 🤔"
-    }
-   ]
-  },
-  {
-   "id": 275583,
-   "type": "message",
-   "date": "2023-12-27T00:30:06",
-   "date_unixtime": "1703611806",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "Im not french",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Im not french"
-    }
-   ]
-  },
-  {
-   "id": 275584,
-   "type": "message",
-   "date": "2023-12-27T00:30:12",
-   "date_unixtime": "1703611812",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "What did he say?",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "What did he say?"
-    }
-   ]
-  },
-  {
-   "id": 275585,
-   "type": "message",
-   "date": "2023-12-27T00:30:52",
-   "date_unixtime": "1703611852",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "Last bullrun, it was 20% on stables",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Last bullrun, it was 20% on stables"
-    }
-   ]
-  },
-  {
-   "id": 275586,
-   "type": "message",
-   "date": "2023-12-27T00:31:09",
-   "date_unixtime": "1703611869",
-   "edited": "2023-12-27T00:36:49",
-   "edited_unixtime": "1703612209",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "Wouldnt mind getting rates up a little again if the market allows it",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Wouldnt mind getting rates up a little again if the market allows it"
-    }
-   ]
-  },
-  {
-   "id": 275587,
-   "type": "message",
-   "date": "2023-12-27T00:31:35",
-   "date_unixtime": "1703611895",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "Volume these days is en par with the 2020/1 bullrun times",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Volume these days is en par with the 2020/1 bullrun times"
-    }
-   ]
-  },
-  {
-   "id": 275588,
-   "type": "message",
-   "date": "2023-12-27T00:36:43",
-   "date_unixtime": "1703612203",
-   "from": "Blunt",
-   "from_id": "user1981956046",
-   "reply_to_message_id": 275584,
-   "text": "They might have the AMA recording. It'd be cool to listen Tim's take on that firsthand!",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "They might have the AMA recording. It'd be cool to listen Tim's take on that firsthand!"
-    }
-   ]
-  },
-  {
-   "id": 275589,
-   "type": "message",
-   "date": "2023-12-27T00:37:04",
-   "date_unixtime": "1703612224",
-   "from": "W4lker",
-   "from_id": "user1253733622",
-   "text": "I dont understand french",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "I dont understand french"
-    }
-   ]
-  },
-  {
-   "id": 275590,
-   "type": "message",
-   "date": "2023-12-27T00:39:37",
-   "date_unixtime": "1703612377",
-   "from": "Blunt",
-   "from_id": "user1981956046",
-   "reply_to_message_id": 275579,
-   "text": "Absolutely, count me in for the next events, Szy!  I'm here for the long haul! 🙌",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Absolutely, count me in for the next events, Szy!  I'm here for the long haul! 🙌"
-    }
-   ]
-  },
-  {
-   "id": 275591,
-   "type": "message",
-   "date": "2023-12-27T00:40:16",
-   "date_unixtime": "1703612416",
-   "edited": "2023-12-27T00:41:54",
-   "edited_unixtime": "1703612514",
-   "from": "Blunt",
-   "from_id": "user1981956046",
-   "reply_to_message_id": 275589,
-   "text": "No stress, Tim's speaking in English, so we're all good! 😁",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "No stress, Tim's speaking in English, so we're all good! 😁"
-    }
-   ]
-  },
-  {
-   "id": 275592,
-   "type": "message",
-   "date": "2023-12-27T00:49:31",
-   "date_unixtime": "1703612971",
-   "from": "Yield App bot",
-   "from_id": "user6147387490",
-   "text": [
-    {
-     "type": "bold",
-     "text": "Please BEWARE of scammers and impersonators!"
-    },
-    " Our admins are listed below and are here to help:\n\n- ",
-    {
-     "type": "mention",
-     "text": "@sapta"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@rRrsSt"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@sasquish"
-    },
-    "\n- ",
-    {
-     "type": "mention",
-     "text": "@szymonb_pl"
-    },
-    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
-    {
-     "type": "text_link",
-     "text": "support.yield.app",
-     "href": "https://support.yield.app/"
-    },
-    "\n\nFor partnership/listing/marketing offers:\n\n- ",
-    {
-     "type": "email",
-     "text": "proposals@yield.app"
-    },
-    "\n\n",
-    {
-     "type": "bold",
-     "text": "No offers will be entertained via Telegram."
-    },
-    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
-    {
-     "type": "mention",
-     "text": "@YieldPro"
-    }
-   ],
-   "text_entities": [
-    {
-     "type": "bold",
-     "text": "Please BEWARE of scammers and impersonators!"
-    },
-    {
-     "type": "plain",
-     "text": " Our admins are listed below and are here to help:\n\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@sapta"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@rRrsSt"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@sasquish"
-    },
-    {
-     "type": "plain",
-     "text": "\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@szymonb_pl"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
-    },
-    {
-     "type": "text_link",
-     "text": "support.yield.app",
-     "href": "https://support.yield.app/"
-    },
-    {
-     "type": "plain",
-     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
-    },
-    {
-     "type": "email",
-     "text": "proposals@yield.app"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "No offers will be entertained via Telegram."
-    },
-    {
-     "type": "plain",
-     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
-    },
-    {
-     "type": "mention",
-     "text": "@YieldPro"
     }
    ]
   }
