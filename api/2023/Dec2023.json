@@ -45696,6 +45696,8 @@
    "type": "message",
    "date": "2023-12-27T21:58:15",
    "date_unixtime": "1703689095",
+   "edited": "2023-12-28T16:25:50",
+   "edited_unixtime": "1703755550",
    "from": "Quentin Huchet",
    "from_id": "user1576200397",
    "reply_to_message_id": 275857,
@@ -47717,6 +47719,962 @@
    "type": "message",
    "date": "2023-12-28T14:49:33",
    "date_unixtime": "1703749773",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 275940,
+   "type": "message",
+   "date": "2023-12-28T15:29:33",
+   "date_unixtime": "1703752173",
+   "edited": "2023-12-28T15:34:29",
+   "edited_unixtime": "1703752469",
+   "from": "CryptoGParty",
+   "from_id": "user451891143",
+   "reply_to_message_id": 275828,
+   "text": "for me it would be much much better and usefull if I would get Earn button (instead Yield Pro) and check options for staking/locking crypto",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "for me it would be much much better and usefull if I would get Earn button (instead Yield Pro) and check options for staking/locking crypto"
+    }
+   ]
+  },
+  {
+   "id": 275941,
+   "type": "message",
+   "date": "2023-12-28T15:50:01",
+   "date_unixtime": "1703753401",
+   "edited": "2023-12-28T15:56:40",
+   "edited_unixtime": "1703753800",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Maybe it's an option for devs to make it possible to optimize the app for each person. Some need the yield pro, others don't. Others only need the yield pro. So everyone can design his own app like he needs it, if that makes sense.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Maybe it's an option for devs to make it possible to optimize the app for each person. Some need the yield pro, others don't. Others only need the yield pro. So everyone can design his own app like he needs it, if that makes sense."
+    }
+   ]
+  },
+  {
+   "id": 275942,
+   "type": "message",
+   "date": "2023-12-28T15:50:12",
+   "date_unixtime": "1703753412",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Or some pre designed options.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Or some pre designed options."
+    }
+   ]
+  },
+  {
+   "id": 275943,
+   "type": "message",
+   "date": "2023-12-28T15:50:46",
+   "date_unixtime": "1703753446",
+   "from": "R",
+   "from_id": "user426407683",
+   "text": "Only yield earnings, only yield pro, or both.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Only yield earnings, only yield pro, or both."
+    }
+   ]
+  },
+  {
+   "id": 275944,
+   "type": "message",
+   "date": "2023-12-28T16:05:45",
+   "date_unixtime": "1703754345",
+   "from": "Ryan Tombit",
+   "from_id": "user1838265468",
+   "reply_to_message_id": 275931,
+   "text": "So there are no benefits to being a diamond member?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So there are no benefits to being a diamond member?"
+    }
+   ]
+  },
+  {
+   "id": 275945,
+   "type": "message",
+   "date": "2023-12-28T16:06:34",
+   "date_unixtime": "1703754394",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 275944,
+   "text": "Diamond tier members will always have benefits on Yield App",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diamond tier members will always have benefits on Yield App"
+    }
+   ]
+  },
+  {
+   "id": 275946,
+   "type": "message",
+   "date": "2023-12-28T16:07:41",
+   "date_unixtime": "1703754461",
+   "edited": "2023-12-28T16:10:26",
+   "edited_unixtime": "1703754626",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "In order to maximize the interest that you're earning, you will still have to stake YLD. The only difference is that the rewards on YLD staking won't be paid out in YLD but in locked H1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In order to maximize the interest that you're earning, you will still have to stake YLD. The only difference is that the rewards on YLD staking won't be paid out in YLD but in locked H1"
+    }
+   ]
+  },
+  {
+   "id": 275947,
+   "type": "message",
+   "date": "2023-12-28T16:12:25",
+   "date_unixtime": "1703754745",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "reply_to_message_id": 275944,
+   "text": "You will get more % APY for stables and other digital assets, 3 free monthly withdrawals, and so on",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You will get more % APY for stables and other digital assets, 3 free monthly withdrawals, and so on"
+    }
+   ]
+  },
+  {
+   "id": 275948,
+   "type": "message",
+   "date": "2023-12-28T16:12:44",
+   "date_unixtime": "1703754764",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "text": "Plus, you'll get into testnet earlier",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Plus, you'll get into testnet earlier"
+    }
+   ]
+  },
+  {
+   "id": 275949,
+   "type": "message",
+   "date": "2023-12-28T16:13:09",
+   "date_unixtime": "1703754789",
+   "edited": "2023-12-28T16:15:05",
+   "edited_unixtime": "1703754905",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 275947,
+   "text": "And one free fiat transfer monthly also 🤝",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And one free fiat transfer monthly also 🤝"
+    }
+   ]
+  },
+  {
+   "id": 275950,
+   "type": "message",
+   "date": "2023-12-28T16:14:27",
+   "date_unixtime": "1703754867",
+   "edited": "2023-12-28T16:21:01",
+   "edited_unixtime": "1703755261",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "text": "As nenad said, only on YLD staking with esH1 rewards do membership levels not apply. In this case, the more you save YLD, the more you get esH1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "As nenad said, only on YLD staking with esH1 rewards do membership levels not apply. In this case, the more you save YLD, the more you get esH1"
+    }
+   ]
+  },
+  {
+   "id": 275951,
+   "type": "message",
+   "date": "2023-12-28T16:14:41",
+   "date_unixtime": "1703754881",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "reply_to_message_id": 275949,
+   "text": "🤝",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤝"
+    }
+   ]
+  },
+  {
+   "id": 275953,
+   "type": "message",
+   "date": "2023-12-28T18:49:32",
+   "date_unixtime": "1703764172",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 275954,
+   "type": "message",
+   "date": "2023-12-28T19:25:32",
+   "date_unixtime": "1703766332",
+   "from": "CryptoManifestor",
+   "from_id": "user1149787489",
+   "text": "Has the website been updated?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Has the website been updated?"
+    }
+   ]
+  },
+  {
+   "id": 275955,
+   "type": "message",
+   "date": "2023-12-28T19:25:44",
+   "date_unixtime": "1703766344",
+   "from": "CryptoManifestor",
+   "from_id": "user1149787489",
+   "text": [
+    {
+     "type": "link",
+     "text": "App.yield.app"
+    },
+    " is correct?"
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "App.yield.app"
+    },
+    {
+     "type": "plain",
+     "text": " is correct?"
+    }
+   ]
+  },
+  {
+   "id": 275956,
+   "type": "message",
+   "date": "2023-12-28T19:30:11",
+   "date_unixtime": "1703766611",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 275955,
+   "text": "Yes, we've released v3.0 yesterday",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, we've released v3.0 yesterday"
+    }
+   ]
+  },
+  {
+   "id": 275957,
+   "type": "message",
+   "date": "2023-12-28T19:30:26",
+   "date_unixtime": "1703766626",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "Are you experiencing any issues?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Are you experiencing any issues?"
+    }
+   ]
+  },
+  {
+   "id": 275958,
+   "type": "message",
+   "date": "2023-12-28T19:35:28",
+   "date_unixtime": "1703766928",
+   "from": "CryptoManifestor",
+   "from_id": "user1149787489",
+   "text": "No. Just hack paranoid",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No. Just hack paranoid"
+    }
+   ]
+  },
+  {
+   "id": 275959,
+   "type": "message",
+   "date": "2023-12-28T19:35:31",
+   "date_unixtime": "1703766931",
+   "edited": "2023-12-28T19:45:04",
+   "edited_unixtime": "1703767504",
+   "from": "CryptoManifestor",
+   "from_id": "user1149787489",
+   "text": "Need to check always",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Need to check always"
+    }
+   ]
+  },
+  {
+   "id": 275960,
+   "type": "message",
+   "date": "2023-12-28T19:51:22",
+   "date_unixtime": "1703767882",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "photo": "photos/photo_4188@28-12-2023_19-51-22.jpg",
+   "width": 652,
+   "height": 1280,
+   "text": "The figures given in the “At maturity” box don’t make any sense at all\n\nThe settlement price is wrong also",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The figures given in the “At maturity” box don’t make any sense at all\n\nThe settlement price is wrong also"
+    }
+   ]
+  },
+  {
+   "id": 275961,
+   "type": "message",
+   "date": "2023-12-28T19:54:05",
+   "date_unixtime": "1703768045",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "photo": "photos/photo_4189@28-12-2023_19-54-05.jpg",
+   "width": 915,
+   "height": 1280,
+   "text": "I’ve now put in an amount (0 USDT didn’t flag an error) and the settlement price is still wrong - it refers to 43000 instead of 42750 (which was selected as the strike price)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I’ve now put in an amount (0 USDT didn’t flag an error) and the settlement price is still wrong - it refers to 43000 instead of 42750 (which was selected as the strike price)"
+    }
+   ]
+  },
+  {
+   "id": 275962,
+   "type": "message",
+   "date": "2023-12-28T19:54:45",
+   "date_unixtime": "1703768085",
+   "edited": "2023-12-28T19:55:18",
+   "edited_unixtime": "1703768118",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 275961,
+   "text": "Yes Cirrus, that's correct, the devs are already informed about it and will sort it out as soon as possible",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes Cirrus, that's correct, the devs are already informed about it and will sort it out as soon as possible"
+    }
+   ]
+  },
+  {
+   "id": 275963,
+   "type": "message",
+   "date": "2023-12-28T19:55:47",
+   "date_unixtime": "1703768147",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 275962,
+   "text": "Yeah, clearly the settlement price can’t be above the market price for a Buy Low deal!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah, clearly the settlement price can’t be above the market price for a Buy Low deal!"
+    }
+   ]
+  },
+  {
+   "id": 275964,
+   "type": "message",
+   "date": "2023-12-28T20:01:05",
+   "date_unixtime": "1703768465",
+   "edited": "2023-12-28T21:40:29",
+   "edited_unixtime": "1703774429",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Here’s another suggestion for Yield Pro (iOS) \n\nWhen you refresh it should show the same currency pair \n\nCurrently a refresh defaults to AVAX",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Here’s another suggestion for Yield Pro (iOS) \n\nWhen you refresh it should show the same currency pair \n\nCurrently a refresh defaults to AVAX"
+    }
+   ]
+  },
+  {
+   "id": 275966,
+   "type": "message",
+   "date": "2023-12-28T22:49:31",
+   "date_unixtime": "1703778571",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 275968,
+   "type": "message",
+   "date": "2023-12-29T00:31:48",
+   "date_unixtime": "1703784708",
+   "from": "Adrien",
+   "from_id": "user1834628676",
+   "text": "Hello, I'm trying to do a fast fiat deposit (not the first time). I had a unexpected form for first deposit then \"Hold tight\" of 30sec to generate instructions for first deposit. It is holding forever and I can not deposit.\nI'm on the app",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello, I'm trying to do a fast fiat deposit (not the first time). I had a unexpected form for first deposit then \"Hold tight\" of 30sec to generate instructions for first deposit. It is holding forever and I can not deposit.\nI'm on the app"
+    }
+   ]
+  },
+  {
+   "id": 275969,
+   "type": "message",
+   "date": "2023-12-29T00:32:36",
+   "date_unixtime": "1703784756",
+   "edited": "2023-12-29T00:34:53",
+   "edited_unixtime": "1703784893",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 275968,
+   "text": "Hi Adrien, please send me a DM I'll be happy to look into it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi Adrien, please send me a DM I'll be happy to look into it"
+    }
+   ]
+  },
+  {
+   "id": 275972,
+   "type": "message",
+   "date": "2023-12-29T01:23:23",
+   "date_unixtime": "1703787803",
+   "from": "Enrique",
+   "from_id": "user1252089309",
+   "text": "Good evening, is there a way to get a CSV for all transactions this year? I am trying by filtering in Transactions for the dates wanted, and exporting them. But the export always gives me the last 90 days instead of the dates filtered",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good evening, is there a way to get a CSV for all transactions this year? I am trying by filtering in Transactions for the dates wanted, and exporting them. But the export always gives me the last 90 days instead of the dates filtered"
+    }
+   ]
+  },
+  {
+   "id": 275973,
+   "type": "message",
+   "date": "2023-12-29T01:23:56",
+   "date_unixtime": "1703787836",
+   "edited": "2023-12-29T01:26:10",
+   "edited_unixtime": "1703787970",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 275972,
+   "text": "Hi, please send me a DM I'll be able to assist you.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi, please send me a DM I'll be able to assist you."
+    }
+   ]
+  },
+  {
+   "id": 275978,
+   "type": "message",
+   "date": "2023-12-29T04:52:21",
+   "date_unixtime": "1703800341",
+   "from": "Bread Crumbs",
+   "from_id": "user6466828729",
+   "text": "Admin : I have already scheduled a redeem from Earn+ 365.  I want to redeem another amount from the same Earn+ 365 but it doesn't work.  Do I have to cancel the previous \"redeem\" for this to work ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Admin : I have already scheduled a redeem from Earn+ 365.  I want to redeem another amount from the same Earn+ 365 but it doesn't work.  Do I have to cancel the previous \"redeem\" for this to work ?"
+    }
+   ]
+  },
+  {
+   "id": 275979,
+   "type": "message",
+   "date": "2023-12-29T04:52:58",
+   "date_unixtime": "1703800378",
+   "edited": "2023-12-29T05:12:15",
+   "edited_unixtime": "1703801535",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 275978,
+   "text": [
+    "Hello there ",
+    {
+     "type": "mention",
+     "text": "@breadcrumbs111"
+    },
+    " Please send me a DM I'll be happy to look into it."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello there "
+    },
+    {
+     "type": "mention",
+     "text": "@breadcrumbs111"
+    },
+    {
+     "type": "plain",
+     "text": " Please send me a DM I'll be happy to look into it."
+    }
+   ]
+  },
+  {
+   "id": 275984,
+   "type": "message",
+   "date": "2023-12-29T10:49:32",
+   "date_unixtime": "1703821772",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
