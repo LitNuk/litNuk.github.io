@@ -52271,6 +52271,783 @@
      "text": "@YieldPro"
     }
    ]
+  },
+  {
+   "id": 276135,
+   "type": "message",
+   "date": "2023-12-30T21:34:43",
+   "date_unixtime": "1703946883",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "text": "am i too late to join test net?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "am i too late to join test net?"
+    }
+   ]
+  },
+  {
+   "id": 276136,
+   "type": "message",
+   "date": "2023-12-30T21:35:32",
+   "date_unixtime": "1703946932",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 276135,
+   "text": [
+    "Definitely not late. 🙂 \n\nPlease join here: ",
+    {
+     "type": "link",
+     "text": "https://testnet.haven1.org/join-testnet"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Definitely not late. 🙂 \n\nPlease join here: "
+    },
+    {
+     "type": "link",
+     "text": "https://testnet.haven1.org/join-testnet"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 276137,
+   "type": "message",
+   "date": "2023-12-30T21:36:34",
+   "date_unixtime": "1703946994",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "reply_to_message_id": 276136,
+   "text": "ok thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok thanks"
+    }
+   ]
+  },
+  {
+   "id": 276138,
+   "type": "message",
+   "date": "2023-12-30T21:37:03",
+   "date_unixtime": "1703947023",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 276137,
+   "text": [
+    "Also please join here as well: ",
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    },
+    "\n\nFor Haven1’s discussions. 🙂"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Also please join here as well: "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor Haven1’s discussions. 🙂"
+    }
+   ]
+  },
+  {
+   "id": 276139,
+   "type": "message",
+   "date": "2023-12-30T21:39:05",
+   "date_unixtime": "1703947145",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "text": "where can i get a referral code?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "where can i get a referral code?"
+    }
+   ]
+  },
+  {
+   "id": 276140,
+   "type": "message",
+   "date": "2023-12-30T21:39:21",
+   "date_unixtime": "1703947161",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "text": "or is it ok to leave it blank?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "or is it ok to leave it blank?"
+    }
+   ]
+  },
+  {
+   "id": 276141,
+   "type": "message",
+   "date": "2023-12-30T21:39:39",
+   "date_unixtime": "1703947179",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "reply_to_message_id": 276138,
+   "text": "kk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kk"
+    }
+   ]
+  },
+  {
+   "id": 276142,
+   "type": "message",
+   "date": "2023-12-30T21:41:53",
+   "date_unixtime": "1703947313",
+   "edited": "2023-12-30T21:42:54",
+   "edited_unixtime": "1703947374",
+   "from": "Leonidas",
+   "from_id": "user1386512591",
+   "reply_to_message_id": 276139,
+   "text": "It is optional but if you want to feel free to use mine mate 🤝\nfagxv4g3wm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It is optional but if you want to feel free to use mine mate 🤝\nfagxv4g3wm"
+    }
+   ]
+  },
+  {
+   "id": 276143,
+   "type": "message",
+   "date": "2023-12-30T21:41:55",
+   "date_unixtime": "1703947315",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "text": "am restricted sending chats there",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "am restricted sending chats there"
+    }
+   ]
+  },
+  {
+   "id": 276144,
+   "type": "message",
+   "date": "2023-12-30T21:42:33",
+   "date_unixtime": "1703947353",
+   "edited": "2023-12-30T21:43:02",
+   "edited_unixtime": "1703947382",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "reply_to_message_id": 276142,
+   "text": "ok thanks , i will use it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok thanks , i will use it"
+    }
+   ]
+  },
+  {
+   "id": 276145,
+   "type": "message",
+   "date": "2023-12-30T21:51:53",
+   "date_unixtime": "1703947913",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "reply_to_message_id": 276142,
+   "text": "done 🤝",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "done 🤝"
+    }
+   ]
+  },
+  {
+   "id": 276146,
+   "type": "message",
+   "date": "2023-12-30T21:52:02",
+   "date_unixtime": "1703947922",
+   "from": "Lunar",
+   "from_id": "user1999770460",
+   "text": "thanks for your help",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thanks for your help"
+    }
+   ]
+  },
+  {
+   "id": 276147,
+   "type": "message",
+   "date": "2023-12-30T22:05:47",
+   "date_unixtime": "1703948747",
+   "from": "Nick Dilman",
+   "from_id": "user1981392406",
+   "text": "Do more referrals speed up our testnet access, or do they just impact the rewards?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Do more referrals speed up our testnet access, or do they just impact the rewards?"
+    }
+   ]
+  },
+  {
+   "id": 276148,
+   "type": "message",
+   "date": "2023-12-30T22:06:19",
+   "date_unixtime": "1703948779",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 276147,
+   "text": "Hi Nick, the referrals will just impact your rewards.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi Nick, the referrals will just impact your rewards."
+    }
+   ]
+  },
+  {
+   "id": 276149,
+   "type": "message",
+   "date": "2023-12-30T22:07:34",
+   "date_unixtime": "1703948854",
+   "from": "Nick Dilman",
+   "from_id": "user1981392406",
+   "reply_to_message_id": 276148,
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 276150,
+   "type": "message",
+   "date": "2023-12-30T22:29:40",
+   "date_unixtime": "1703950180",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "text": "Which one is the TG of Sergei Yield App??",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which one is the TG of Sergei Yield App??"
+    }
+   ]
+  },
+  {
+   "id": 276151,
+   "type": "message",
+   "date": "2023-12-30T22:30:07",
+   "date_unixtime": "1703950207",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "text": "There are tasks to approve on Zealy..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "There are tasks to approve on Zealy.."
+    }
+   ]
+  },
+  {
+   "id": 276152,
+   "type": "message",
+   "date": "2023-12-30T22:30:33",
+   "date_unixtime": "1703950233",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 276150,
+   "text": "You don't need to message Sergei",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You don't need to message Sergei"
+    }
+   ]
+  },
+  {
+   "id": 276153,
+   "type": "message",
+   "date": "2023-12-30T22:30:52",
+   "date_unixtime": "1703950252",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "He's been contacted by our community managers.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "He's been contacted by our community managers."
+    }
+   ]
+  },
+  {
+   "id": 276154,
+   "type": "message",
+   "date": "2023-12-30T22:31:24",
+   "date_unixtime": "1703950284",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "And is well aware of the tasks. This Zealy campaign received extremely high engagement and will take some extra time to finalise.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And is well aware of the tasks. This Zealy campaign received extremely high engagement and will take some extra time to finalise."
+    }
+   ]
+  },
+  {
+   "id": 276155,
+   "type": "message",
+   "date": "2023-12-30T22:31:29",
+   "date_unixtime": "1703950289",
+   "edited": "2023-12-30T22:32:17",
+   "edited_unixtime": "1703950337",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "Thank you for your patience.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank you for your patience."
+    }
+   ]
+  },
+  {
+   "id": 276156,
+   "type": "message",
+   "date": "2023-12-30T22:35:52",
+   "date_unixtime": "1703950552",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "reply_to_message_id": 276151,
+   "text": "Is there an ongoing zealy campaign?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is there an ongoing zealy campaign?"
+    }
+   ]
+  },
+  {
+   "id": 276157,
+   "type": "message",
+   "date": "2023-12-30T22:36:10",
+   "date_unixtime": "1703950570",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "text": "I haven't opened telegram for a while",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I haven't opened telegram for a while"
+    }
+   ]
+  },
+  {
+   "id": 276158,
+   "type": "message",
+   "date": "2023-12-30T22:36:12",
+   "date_unixtime": "1703950572",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "reply_to_message_id": 276156,
+   "text": "Yes on H1..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes on H1.."
+    }
+   ]
+  },
+  {
+   "id": 276159,
+   "type": "message",
+   "date": "2023-12-30T22:36:43",
+   "date_unixtime": "1703950603",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "text": "But im number 61.. haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But im number 61.. haha"
+    }
+   ]
+  },
+  {
+   "id": 276160,
+   "type": "message",
+   "date": "2023-12-30T22:37:00",
+   "date_unixtime": "1703950620",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "text": "I need some push",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I need some push"
+    }
+   ]
+  },
+  {
+   "id": 276161,
+   "type": "message",
+   "date": "2023-12-30T22:37:02",
+   "date_unixtime": "1703950622",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "reply_to_message_id": 276158,
+   "text": "How can I join that campaign?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How can I join that campaign?"
+    }
+   ]
+  },
+  {
+   "id": 276162,
+   "type": "message",
+   "date": "2023-12-30T22:37:19",
+   "date_unixtime": "1703950639",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "reply_to_message_id": 276158,
+   "text": "Haven1?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Haven1?"
+    }
+   ]
+  },
+  {
+   "id": 276163,
+   "type": "message",
+   "date": "2023-12-30T22:37:34",
+   "date_unixtime": "1703950654",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "reply_to_message_id": 276162,
+   "text": "Yes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes"
+    }
+   ]
+  },
+  {
+   "id": 276164,
+   "type": "message",
+   "date": "2023-12-30T22:37:42",
+   "date_unixtime": "1703950662",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "text": "Do you know it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Do you know it"
+    }
+   ]
+  },
+  {
+   "id": 276165,
+   "type": "message",
+   "date": "2023-12-30T22:37:56",
+   "date_unixtime": "1703950676",
+   "edited": "2023-12-30T22:38:23",
+   "edited_unixtime": "1703950703",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 276156,
+   "text": [
+    "Please join us on our Haven1 Telegram group, where you'll be able to obtain more information about campaigns directly related to Haven1:\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please join us on our Haven1 Telegram group, where you'll be able to obtain more information about campaigns directly related to Haven1:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    }
+   ]
+  },
+  {
+   "id": 276166,
+   "type": "message",
+   "date": "2023-12-30T22:40:19",
+   "date_unixtime": "1703950819",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "reply_to_message_id": 276164,
+   "text": "Of course",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Of course"
+    }
+   ]
+  },
+  {
+   "id": 276167,
+   "type": "message",
+   "date": "2023-12-30T22:40:44",
+   "date_unixtime": "1703950844",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "text": "Has haven1 launched yet?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Has haven1 launched yet?"
+    }
+   ]
+  },
+  {
+   "id": 276168,
+   "type": "message",
+   "date": "2023-12-30T22:41:11",
+   "date_unixtime": "1703950871",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 276167,
+   "text": "Please let's keep all the Haven1 related questions to the Haven1 group.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please let's keep all the Haven1 related questions to the Haven1 group."
+    }
+   ]
+  },
+  {
+   "id": 276169,
+   "type": "message",
+   "date": "2023-12-30T22:41:57",
+   "date_unixtime": "1703950917",
+   "from": "MaTt..",
+   "from_id": "user807137961",
+   "reply_to_message_id": 276167,
+   "text": "Yes join the other group and we can chat or dm me..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes join the other group and we can chat or dm me.."
+    }
+   ]
+  },
+  {
+   "id": 276170,
+   "type": "message",
+   "date": "2023-12-30T22:41:58",
+   "date_unixtime": "1703950918",
+   "edited": "2023-12-30T22:42:09",
+   "edited_unixtime": "1703950929",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "reply_to_message_id": 276168,
+   "text": "Sorry 👌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry 👌"
+    }
+   ]
+  },
+  {
+   "id": 276171,
+   "type": "message",
+   "date": "2023-12-30T22:43:02",
+   "date_unixtime": "1703950982",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "text": "no need to apologize, we're always happy to provide more information about your queries, please complete the verification on the Haven1 Channel, through Rose bot to be able to send messages",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "no need to apologize, we're always happy to provide more information about your queries, please complete the verification on the Haven1 Channel, through Rose bot to be able to send messages"
+    }
+   ]
+  },
+  {
+   "id": 276172,
+   "type": "message",
+   "date": "2023-12-30T22:49:31",
+   "date_unixtime": "1703951371",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
   }
  ]
 }
