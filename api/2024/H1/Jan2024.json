@@ -1,0 +1,1507 @@
+{
+ "name": "Haven1 Official Group",
+ "type": "public_supergroup",
+ "id": 1876231907,
+ "messages": [
+  {
+   "id": 5649,
+   "type": "message",
+   "date": "2024-01-01T00:22:31",
+   "date_unixtime": "1704043351",
+   "from": "Defi Chick | Areon",
+   "from_id": "user1625656649",
+   "text": "thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thanks"
+    }
+   ]
+  },
+  {
+   "id": 5657,
+   "type": "message",
+   "date": "2024-01-01T03:48:03",
+   "date_unixtime": "1704055683",
+   "from": "Prisca Nzeh",
+   "from_id": "user1302366228",
+   "text": "Hello fam",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello fam"
+    }
+   ]
+  },
+  {
+   "id": 5658,
+   "type": "message",
+   "date": "2024-01-01T06:37:01",
+   "date_unixtime": "1704065821",
+   "from": "Max",
+   "from_id": "user6200309468",
+   "text": "Happy New Year everybody !",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy New Year everybody !"
+    }
+   ]
+  },
+  {
+   "id": 5659,
+   "type": "message",
+   "date": "2024-01-01T09:52:34",
+   "date_unixtime": "1704077554",
+   "from": "HC Li",
+   "from_id": "user1049961551",
+   "text": "Happy new year everyone 🍾",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy new year everyone 🍾"
+    }
+   ]
+  },
+  {
+   "id": 5669,
+   "type": "message",
+   "date": "2024-01-01T16:25:44",
+   "date_unixtime": "1704101144",
+   "from": "Emmanuel AR",
+   "from_id": "user1291192796",
+   "text": "Happy new year guys",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy new year guys"
+    }
+   ]
+  },
+  {
+   "id": 5670,
+   "type": "message",
+   "date": "2024-01-01T16:27:25",
+   "date_unixtime": "1704101245",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 5669,
+   "text": "Thanks Emanuel, happy New Year to you too",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks Emanuel, happy New Year to you too"
+    }
+   ]
+  },
+  {
+   "id": 5674,
+   "type": "message",
+   "date": "2024-01-01T17:15:57",
+   "date_unixtime": "1704104157",
+   "from": "Rendie Adytia",
+   "from_id": "user497935075",
+   "text": "Gm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gm"
+    }
+   ]
+  },
+  {
+   "id": 5677,
+   "type": "message",
+   "date": "2024-01-01T17:30:48",
+   "date_unixtime": "1704105048",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Happy New Year, Havenauts! 🎉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy New Year, Havenauts! 🎉"
+    }
+   ]
+  },
+  {
+   "id": 5678,
+   "type": "message",
+   "date": "2024-01-01T17:34:34",
+   "date_unixtime": "1704105274",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "file": "video_files/newyear-2021.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 216,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 5679,
+   "type": "message",
+   "date": "2024-01-01T17:44:37",
+   "date_unixtime": "1704105877",
+   "from": "Torry 26",
+   "from_id": "user1091568831",
+   "reply_to_message_id": 5670,
+   "text": "I haven't received an email to join the haven1 testnet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I haven't received an email to join the haven1 testnet"
+    }
+   ]
+  },
+  {
+   "id": 5680,
+   "type": "message",
+   "date": "2024-01-01T17:45:29",
+   "date_unixtime": "1704105929",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 5679,
+   "text": "Please have some more patience Torry, we are adding more users every day and everyone will eventually be able to test it out and give us his feedback",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please have some more patience Torry, we are adding more users every day and everyone will eventually be able to test it out and give us his feedback"
+    }
+   ]
+  },
+  {
+   "id": 5681,
+   "type": "message",
+   "date": "2024-01-01T18:26:04",
+   "date_unixtime": "1704108364",
+   "edited": "2024-01-01T18:26:47",
+   "edited_unixtime": "1704108407",
+   "from": "Torry 26",
+   "from_id": "user1091568831",
+   "reply_to_message_id": 5680,
+   "text": "Okey thanks sir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okey thanks sir"
+    }
+   ]
+  },
+  {
+   "id": 5682,
+   "type": "message",
+   "date": "2024-01-01T18:27:02",
+   "date_unixtime": "1704108422",
+   "from": "Emmanuel AR",
+   "from_id": "user1291192796",
+   "reply_to_message_id": 5680,
+   "text": "No problem",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No problem"
+    }
+   ]
+  },
+  {
+   "id": 5688,
+   "type": "message",
+   "date": "2024-01-01T19:19:07",
+   "date_unixtime": "1704111547",
+   "edited": "2024-01-01T19:21:11",
+   "edited_unixtime": "1704111671",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 5687,
+   "text": "wowwwwww what took you so long",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "wowwwwww what took you so long"
+    }
+   ]
+  },
+  {
+   "id": 5689,
+   "type": "message",
+   "date": "2024-01-01T19:21:56",
+   "date_unixtime": "1704111716",
+   "edited": "2024-01-01T19:24:23",
+   "edited_unixtime": "1704111863",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 5688,
+   "text": "He has pending first locked H1 rewards… So joined, he can’t wait to see them for sure. 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "He has pending first locked H1 rewards… So joined, he can’t wait to see them for sure. 😁"
+    }
+   ]
+  },
+  {
+   "id": 5690,
+   "type": "message",
+   "date": "2024-01-01T19:22:37",
+   "date_unixtime": "1704111757",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": [
+    "Am I right ",
+    {
+     "type": "mention",
+     "text": "@iDGeek33"
+    },
+    " ? 😁"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Am I right "
+    },
+    {
+     "type": "mention",
+     "text": "@iDGeek33"
+    },
+    {
+     "type": "plain",
+     "text": " ? 😁"
+    }
+   ]
+  },
+  {
+   "id": 5691,
+   "type": "message",
+   "date": "2024-01-01T19:24:19",
+   "date_unixtime": "1704111859",
+   "edited": "2024-01-01T20:09:14",
+   "edited_unixtime": "1704114554",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 5689,
+   "text": "You're the best, that's what you are! \nI feel fully invested from today onwards with my esH1 :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You're the best, that's what you are! \nI feel fully invested from today onwards with my esH1 :)"
+    }
+   ]
+  },
+  {
+   "id": 5694,
+   "type": "message",
+   "date": "2024-01-01T20:30:45",
+   "date_unixtime": "1704115845",
+   "from": "Andreas Wittmann",
+   "from_id": "user291719324",
+   "reply_to_message_id": 5433,
+   "text": "veryy goood",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "veryy goood"
+    }
+   ]
+  },
+  {
+   "id": 5695,
+   "type": "message",
+   "date": "2024-01-01T20:30:48",
+   "date_unixtime": "1704115848",
+   "edited": "2024-01-01T22:26:11",
+   "edited_unixtime": "1704122771",
+   "from": "Andreas Wittmann",
+   "from_id": "user291719324",
+   "text": "choice",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "choice"
+    }
+   ]
+  },
+  {
+   "id": 5696,
+   "type": "message",
+   "date": "2024-01-01T20:43:50",
+   "date_unixtime": "1704116630",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "file": "video_files/animation.gif.mp4",
+   "thumbnail": "video_files/animation.gif.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 1,
+   "width": 220,
+   "height": 220,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 5697,
+   "type": "message",
+   "date": "2024-01-01T20:44:53",
+   "date_unixtime": "1704116693",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "Is there any additional reward when I invite people to join tesnet🤔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is there any additional reward when I invite people to join tesnet🤔"
+    }
+   ]
+  },
+  {
+   "id": 5698,
+   "type": "message",
+   "date": "2024-01-01T20:48:49",
+   "date_unixtime": "1704116929",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "I'm discord OG 😎",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm discord OG 😎"
+    }
+   ]
+  },
+  {
+   "id": 5699,
+   "type": "message",
+   "date": "2024-01-01T20:49:50",
+   "date_unixtime": "1704116990",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 5697,
+   "text": "Yes, all contributions(referring, testing, reporting, social activities etc) will be rewarded",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, all contributions(referring, testing, reporting, social activities etc) will be rewarded"
+    }
+   ]
+  },
+  {
+   "id": 5700,
+   "type": "message",
+   "date": "2024-01-01T21:09:02",
+   "date_unixtime": "1704118142",
+   "edited": "2024-01-01T22:22:03",
+   "edited_unixtime": "1704122523",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "What about the OG sir the earliest discord members is there any special reward for them😆✌️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What about the OG sir the earliest discord members is there any special reward for them😆✌️"
+    }
+   ]
+  },
+  {
+   "id": 5701,
+   "type": "message",
+   "date": "2024-01-01T21:16:46",
+   "date_unixtime": "1704118606",
+   "edited": "2024-01-01T22:21:26",
+   "edited_unixtime": "1704122486",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 5700,
+   "text": "Can you send me a PM please",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can you send me a PM please"
+    }
+   ]
+  },
+  {
+   "id": 5703,
+   "type": "message",
+   "date": "2024-01-01T21:17:19",
+   "date_unixtime": "1704118639",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "reply_to_message_id": 5701,
+   "text": "No need sir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No need sir"
+    }
+   ]
+  },
+  {
+   "id": 5704,
+   "type": "message",
+   "date": "2024-01-01T21:17:54",
+   "date_unixtime": "1704118674",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "Day 4 in testnet 😎",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Day 4 in testnet 😎"
+    }
+   ]
+  },
+  {
+   "id": 5706,
+   "type": "message",
+   "date": "2024-01-01T22:00:15",
+   "date_unixtime": "1704121215",
+   "edited": "2024-01-02T00:31:29",
+   "edited_unixtime": "1704130289",
+   "from": "Quentin",
+   "from_id": "user2046789116",
+   "photo": "photos/photo_54@01-01-2024_22-00-15.jpg",
+   "width": 243,
+   "height": 93,
+   "text": "5 days, new record 😎",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "5 days, new record 😎"
+    }
+   ]
+  },
+  {
+   "id": 5709,
+   "type": "message",
+   "date": "2024-01-01T22:31:35",
+   "date_unixtime": "1704123095",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 5706,
+   "photo": "photos/photo_55@01-01-2024_22-31-35.jpg",
+   "width": 431,
+   "height": 169,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 5710,
+   "type": "message",
+   "date": "2024-01-01T22:39:16",
+   "date_unixtime": "1704123556",
+   "from": "MC_trainer [ ADA | NINI ]",
+   "from_id": "user1318259497",
+   "text": [
+    "Happy New Year, Crypto Enthusiasts! Here's to a year of success and crypto adventures. The next Bitcoin halving is only about 105 days away! In 2024 the world will look even more positive on crypto ",
+    {
+     "type": "hashtag",
+     "text": "#yeswecan"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy New Year, Crypto Enthusiasts! Here's to a year of success and crypto adventures. The next Bitcoin halving is only about 105 days away! In 2024 the world will look even more positive on crypto "
+    },
+    {
+     "type": "hashtag",
+     "text": "#yeswecan"
+    }
+   ]
+  },
+  {
+   "id": 5711,
+   "type": "message",
+   "date": "2024-01-01T22:41:45",
+   "date_unixtime": "1704123705",
+   "from": "Quentin",
+   "from_id": "user2046789116",
+   "reply_to_message_id": 5709,
+   "text": "Whaaaaat ?! 😵‍💫",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whaaaaat ?! 😵‍💫"
+    }
+   ]
+  },
+  {
+   "id": 5712,
+   "type": "message",
+   "date": "2024-01-01T22:42:58",
+   "date_unixtime": "1704123778",
+   "edited": "2024-01-01T22:44:26",
+   "edited_unixtime": "1704123866",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 5711,
+   "text": "Patience, the team must be overwhelmed by this wave of new arrivals...TestNet is clearly a huge success.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Patience, the team must be overwhelmed by this wave of new arrivals...TestNet is clearly a huge success."
+    }
+   ]
+  },
+  {
+   "id": 5713,
+   "type": "message",
+   "date": "2024-01-01T22:44:18",
+   "date_unixtime": "1704123858",
+   "edited": "2024-01-01T22:44:42",
+   "edited_unixtime": "1704123882",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "Guys, there's no reason to be worried or concerned, we're in the holiday season and some people are on vacation, take a break and rest assured that we'll look into the contributions and review them as soon as possible",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Guys, there's no reason to be worried or concerned, we're in the holiday season and some people are on vacation, take a break and rest assured that we'll look into the contributions and review them as soon as possible"
+    }
+   ]
+  },
+  {
+   "id": 5727,
+   "type": "message",
+   "date": "2024-01-02T04:51:03",
+   "date_unixtime": "1704145863",
+   "from": "FourPaw🐾🐾 $PAW",
+   "from_id": "user5569923164",
+   "reply_to_message_id": 2361,
+   "text": "How much haven1 do you earn?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How much haven1 do you earn?"
+    }
+   ]
+  },
+  {
+   "id": 5728,
+   "type": "message",
+   "date": "2024-01-02T04:54:44",
+   "date_unixtime": "1704146084",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 5727,
+   "text": "more information about rewards will be available in the future, if you're interested in earning locked H1 you can deploy YLD on your Yield App account and you'll start earning 20% APY paid on locked H1 which will vest after one year, in the meantime, while it's vesting it'll have utility on Haven1.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "more information about rewards will be available in the future, if you're interested in earning locked H1 you can deploy YLD on your Yield App account and you'll start earning 20% APY paid on locked H1 which will vest after one year, in the meantime, while it's vesting it'll have utility on Haven1."
+    }
+   ]
+  },
+  {
+   "id": 5737,
+   "type": "message",
+   "date": "2024-01-02T10:06:37",
+   "date_unixtime": "1704164797",
+   "from": "Holdings",
+   "from_id": "user1503904222",
+   "text": "How to buy YLD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How to buy YLD"
+    }
+   ]
+  },
+  {
+   "id": 5739,
+   "type": "message",
+   "date": "2024-01-02T10:28:38",
+   "date_unixtime": "1704166118",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "reply_to_message_id": 5737,
+   "text": "Kucoin, gate, ascendex",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kucoin, gate, ascendex"
+    }
+   ]
+  },
+  {
+   "id": 5742,
+   "type": "message",
+   "date": "2024-01-02T12:53:23",
+   "date_unixtime": "1704174803",
+   "from": "agijo",
+   "from_id": "user1247147987",
+   "photo": "photos/photo_56@02-01-2024_12-53-23.jpg",
+   "width": 1280,
+   "height": 910,
+   "text": "any solution for \"Recaptcha assessment failed\" ? tried multiple time but still showing that msg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "any solution for \"Recaptcha assessment failed\" ? tried multiple time but still showing that msg"
+    }
+   ]
+  },
+  {
+   "id": 5743,
+   "type": "message",
+   "date": "2024-01-02T13:01:25",
+   "date_unixtime": "1704175285",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 5742,
+   "text": "I'll get back to you, just investigating",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'll get back to you, just investigating"
+    }
+   ]
+  },
+  {
+   "id": 5744,
+   "type": "message",
+   "date": "2024-01-02T13:04:52",
+   "date_unixtime": "1704175492",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 5742,
+   "text": "Please send me a DM and block anyone who messages you",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please send me a DM and block anyone who messages you"
+    }
+   ]
+  },
+  {
+   "id": 5747,
+   "type": "message",
+   "date": "2024-01-02T14:04:59",
+   "date_unixtime": "1704179099",
+   "from": "Harry",
+   "from_id": "user1905364746",
+   "text": "After the mainnet launch, will there be additional platforms, apart from the Yield app, where I can stake H1?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "After the mainnet launch, will there be additional platforms, apart from the Yield app, where I can stake H1?"
+    }
+   ]
+  },
+  {
+   "id": 5748,
+   "type": "message",
+   "date": "2024-01-02T14:05:24",
+   "date_unixtime": "1704179124",
+   "edited": "2024-01-02T14:35:42",
+   "edited_unixtime": "1704180942",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 5747,
+   "text": "Yes, the Haven1 chain.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, the Haven1 chain."
+    }
+   ]
+  },
+  {
+   "id": 5749,
+   "type": "message",
+   "date": "2024-01-02T14:07:30",
+   "date_unixtime": "1704179250",
+   "edited": "2024-01-02T14:07:42",
+   "edited_unixtime": "1704179262",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": "So far, if I understand correctly, the only way I can get more esH1 is to buy even more YLD ? 😃",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "So far, if I understand correctly, the only way I can get more esH1 is to buy even more YLD ? 😃"
+    }
+   ]
+  },
+  {
+   "id": 5750,
+   "type": "message",
+   "date": "2024-01-02T14:10:53",
+   "date_unixtime": "1704179453",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 5749,
+   "text": "Which one's giving you better result?\n\n- 20% of 20,000 or\n- 20% of 100,000",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which one's giving you better result?\n\n- 20% of 20,000 or\n- 20% of 100,000"
+    }
+   ]
+  },
+  {
+   "id": 5751,
+   "type": "message",
+   "date": "2024-01-02T14:11:02",
+   "date_unixtime": "1704179462",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "file": "video_files/giphy.mp4",
+   "thumbnail": "video_files/giphy.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 11,
+   "width": 480,
+   "height": 258,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 5752,
+   "type": "message",
+   "date": "2024-01-02T14:13:47",
+   "date_unixtime": "1704179627",
+   "edited": "2024-01-02T14:35:52",
+   "edited_unixtime": "1704180952",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "reply_to_message_id": 5750,
+   "text": [
+    "20% of 1.000.000 ",
+    {
+     "type": "custom_emoji",
+     "text": "🤑",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "20% of 1.000.000 "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤑",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 5754,
+   "type": "message",
+   "date": "2024-01-02T14:16:32",
+   "date_unixtime": "1704179792",
+   "edited": "2024-01-02T14:36:46",
+   "edited_unixtime": "1704181006",
+   "from": "Saturo",
+   "from_id": "user6762295759",
+   "text": "Where can I see the roadmap?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Where can I see the roadmap?"
+    }
+   ]
+  },
+  {
+   "id": 5755,
+   "type": "message",
+   "date": "2024-01-02T14:17:04",
+   "date_unixtime": "1704179824",
+   "from": "Saturo",
+   "from_id": "user6762295759",
+   "text": "Can we expect mainnet this January 🤔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we expect mainnet this January 🤔"
+    }
+   ]
+  },
+  {
+   "id": 5757,
+   "type": "message",
+   "date": "2024-01-02T14:19:12",
+   "date_unixtime": "1704179952",
+   "from": "Saturo",
+   "from_id": "user6762295759",
+   "text": "How much team haven1 fund raise sir?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How much team haven1 fund raise sir?"
+    }
+   ]
+  },
+  {
+   "id": 5758,
+   "type": "message",
+   "date": "2024-01-02T14:19:37",
+   "date_unixtime": "1704179977",
+   "edited": "2024-01-02T14:35:07",
+   "edited_unixtime": "1704180907",
+   "from": "agijo",
+   "from_id": "user1247147987",
+   "reply_to_message_id": 5744,
+   "text": "Check dm sir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Check dm sir"
+    }
+   ]
+  },
+  {
+   "id": 5759,
+   "type": "message",
+   "date": "2024-01-02T14:34:16",
+   "date_unixtime": "1704180856",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 5754,
+   "text": [
+    "Lots of info at ",
+    {
+     "type": "link",
+     "text": "haven1.org"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lots of info at "
+    },
+    {
+     "type": "link",
+     "text": "haven1.org"
+    }
+   ]
+  },
+  {
+   "id": 5760,
+   "type": "message",
+   "date": "2024-01-02T14:34:43",
+   "date_unixtime": "1704180883",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 5755,
+   "text": "We have a few months of testnet ahead first.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We have a few months of testnet ahead first."
+    }
+   ]
+  },
+  {
+   "id": 5761,
+   "type": "message",
+   "date": "2024-01-02T14:35:03",
+   "date_unixtime": "1704180903",
+   "edited": "2024-01-02T15:01:08",
+   "edited_unixtime": "1704182468",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 5757,
+   "text": "Stay tuned for announcements.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Stay tuned for announcements."
+    }
+   ]
+  },
+  {
+   "id": 5762,
+   "type": "message",
+   "date": "2024-01-02T15:08:27",
+   "date_unixtime": "1704182907",
+   "from": "Harry",
+   "from_id": "user1905364746",
+   "reply_to_message_id": 5748,
+   "text": "Is there a plan to move YLD to the Haven1 chain?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is there a plan to move YLD to the Haven1 chain?"
+    }
+   ]
+  },
+  {
+   "id": 5763,
+   "type": "message",
+   "date": "2024-01-02T15:11:03",
+   "date_unixtime": "1704183063",
+   "edited": "2024-01-02T15:25:28",
+   "edited_unixtime": "1704183928",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "reply_to_message_id": 5762,
+   "text": "Considering the potential advantages, it's highly probable that YLD will be migrated to the Haven1 chain",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Considering the potential advantages, it's highly probable that YLD will be migrated to the Haven1 chain"
+    }
+   ]
+  },
+  {
+   "id": 5764,
+   "type": "message",
+   "date": "2024-01-02T15:12:10",
+   "date_unixtime": "1704183130",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "text": "I mean, if Haven1 mainnet is already operational, keeping YLD on the Ethereum chain would be redundant",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I mean, if Haven1 mainnet is already operational, keeping YLD on the Ethereum chain would be redundant"
+    }
+   ]
+  },
+  {
+   "id": 5765,
+   "type": "message",
+   "date": "2024-01-02T15:17:56",
+   "date_unixtime": "1704183476",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "text": "Lets say the simplest thing, if YLD is really moved to Haven1 chain, when we send some YLD, the transaction fee will be paid in the form of H1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lets say the simplest thing, if YLD is really moved to Haven1 chain, when we send some YLD, the transaction fee will be paid in the form of H1"
+    }
+   ]
+  },
+  {
+   "id": 5766,
+   "type": "message",
+   "date": "2024-01-02T15:20:02",
+   "date_unixtime": "1704183602",
+   "edited": "2024-01-02T15:22:38",
+   "edited_unixtime": "1704183758",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "text": "And transaction fees will be returned to the H1 ecosystem, one of which is us as H1 token holders",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And transaction fees will be returned to the H1 ecosystem, one of which is us as H1 token holders"
+    }
+   ]
+  },
+  {
+   "id": 5767,
+   "type": "message",
+   "date": "2024-01-02T15:23:50",
+   "date_unixtime": "1704183830",
+   "from": "Saturo",
+   "from_id": "user6762295759",
+   "text": "H1 will be on fire this bullrun 🚀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "H1 will be on fire this bullrun 🚀"
+    }
+   ]
+  },
+  {
+   "id": 5768,
+   "type": "message",
+   "date": "2024-01-02T15:25:24",
+   "date_unixtime": "1704183924",
+   "from": "Harry",
+   "from_id": "user1905364746",
+   "reply_to_message_id": 5763,
+   "text": "I expected the same thing",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I expected the same thing"
+    }
+   ]
+  },
+  {
+   "id": 5769,
+   "type": "message",
+   "date": "2024-01-02T15:39:37",
+   "date_unixtime": "1704184777",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 5763,
+   "text": "Yeah, it could totally happen!  🤞\n\nHaven1 is workin' on a bridge too, right? So, down the line, we might see like 90% of the whole process of throwing assets into the Yield App being taken care of by the Haven1 blockchain - Pretty wild!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah, it could totally happen!  🤞\n\nHaven1 is workin' on a bridge too, right? So, down the line, we might see like 90% of the whole process of throwing assets into the Yield App being taken care of by the Haven1 blockchain - Pretty wild!"
+    }
+   ]
+  },
+  {
+   "id": 5770,
+   "type": "message",
+   "date": "2024-01-02T15:39:56",
+   "date_unixtime": "1704184796",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Good morning, Havenauts! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning, Havenauts! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 5775,
+   "type": "message",
+   "date": "2024-01-02T17:01:18",
+   "date_unixtime": "1704189678",
+   "from": "Saturo",
+   "from_id": "user6762295759",
+   "text": "Welcome new members🫡",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Welcome new members🫡"
+    }
+   ]
+  },
+  {
+   "id": 5778,
+   "type": "message",
+   "date": "2024-01-02T17:23:15",
+   "date_unixtime": "1704190995",
+   "from": "Kenz07",
+   "from_id": "user1586188923",
+   "text": "Fantastic",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fantastic"
+    }
+   ]
+  },
+  {
+   "id": 5779,
+   "type": "message",
+   "date": "2024-01-02T17:39:46",
+   "date_unixtime": "1704191986",
+   "from": "Clock ticks",
+   "from_id": "user1847450977",
+   "text": "Any updates on new entries to the test net? I have been waiting to get in.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Any updates on new entries to the test net? I have been waiting to get in."
+    }
+   ]
+  },
+  {
+   "id": 5781,
+   "type": "message",
+   "date": "2024-01-02T18:34:17",
+   "date_unixtime": "1704195257",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 5779,
+   "text": "The other day, they mentioned they're kind of slowly bringing in new users to the TestNet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The other day, they mentioned they're kind of slowly bringing in new users to the TestNet"
+    }
+   ]
+  },
+  {
+   "id": 5782,
+   "type": "message",
+   "date": "2024-01-02T18:35:42",
+   "date_unixtime": "1704195342",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Perhaps it's because there's a bunch of folks jumping in. So they're kind of taking it slow, easing people into the TestNet one batch at a time until they can throw in a big wave all at once!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Perhaps it's because there's a bunch of folks jumping in. So they're kind of taking it slow, easing people into the TestNet one batch at a time until they can throw in a big wave all at once!"
+    }
+   ]
+  },
+  {
+   "id": 5792,
+   "type": "message",
+   "date": "2024-01-02T20:35:53",
+   "date_unixtime": "1704202553",
+   "from": "T",
+   "from_id": "user5915190736",
+   "text": "I think they’re expediting diamond holders so the quickest would be buying 20000 YLD & pm admin",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think they’re expediting diamond holders so the quickest would be buying 20000 YLD & pm admin"
+    }
+   ]
+  },
+  {
+   "id": 5793,
+   "type": "message",
+   "date": "2024-01-02T20:36:11",
+   "date_unixtime": "1704202571",
+   "from": "T",
+   "from_id": "user5915190736",
+   "text": "It’s not much at current price",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It’s not much at current price"
+    }
+   ]
+  },
+  {
+   "id": 5794,
+   "type": "message",
+   "date": "2024-01-02T20:37:02",
+   "date_unixtime": "1704202622",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "Number of users accepted will continue to ramp up quite soon!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Number of users accepted will continue to ramp up quite soon!"
+    }
+   ]
+  },
+  {
+   "id": 5801,
+   "type": "message",
+   "date": "2024-01-02T22:54:25",
+   "date_unixtime": "1704210865",
+   "from": "crime | DoSui (💧, 🔄)",
+   "from_id": "user5262897997",
+   "text": "hello gaes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hello gaes"
+    }
+   ]
+  },
+  {
+   "id": 5808,
+   "type": "message",
+   "date": "2024-01-03T02:15:18",
+   "date_unixtime": "1704222918",
+   "from": "\"Guide\"",
+   "from_id": "user1054691871",
+   "text": "hi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hi"
+    }
+   ]
+  },
+  {
+   "id": 5809,
+   "type": "message",
+   "date": "2024-01-03T02:30:18",
+   "date_unixtime": "1704223818",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 5792,
+   "text": "Yup, that's the quickest way! 😁\n\nPlus, snagging 20K YLD scores us 4K locked H1 in a year - and, of course, a bunch of perks as diamond members on Yield App",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yup, that's the quickest way! 😁\n\nPlus, snagging 20K YLD scores us 4K locked H1 in a year - and, of course, a bunch of perks as diamond members on Yield App"
+    }
+   ]
+  },
+  {
+   "id": 5810,
+   "type": "message",
+   "date": "2024-01-03T03:05:37",
+   "date_unixtime": "1704225937",
+   "from": "G",
+   "from_id": "user1355618303",
+   "text": "Will we keep the H1 we mint on the testnet when the chain goes live?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Will we keep the H1 we mint on the testnet when the chain goes live?"
+    }
+   ]
+  },
+  {
+   "id": 5811,
+   "type": "message",
+   "date": "2024-01-03T03:06:04",
+   "date_unixtime": "1704225964",
+   "edited": "2024-01-03T03:06:42",
+   "edited_unixtime": "1704226002",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 5810,
+   "text": "More information on that might be available later on",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "More information on that might be available later on"
+    }
+   ]
+  },
+  {
+   "id": 5814,
+   "type": "message",
+   "date": "2024-01-03T04:17:31",
+   "date_unixtime": "1704230251",
+   "from": "MC_trainer [ ADA | NINI ]",
+   "from_id": "user1318259497",
+   "photo": "photos/photo_57@03-01-2024_04-17-31.jpg",
+   "width": 651,
+   "height": 660,
+   "text": "I don't get to click \"Register\" when I try to verify my test-net account? I verified and a authorized discord. Can anyone give me a hint?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I don't get to click \"Register\" when I try to verify my test-net account? I verified and a authorized discord. Can anyone give me a hint?"
+    }
+   ]
+  },
+  {
+   "id": 5815,
+   "type": "message",
+   "date": "2024-01-03T04:19:38",
+   "date_unixtime": "1704230378",
+   "edited": "2024-01-03T04:28:14",
+   "edited_unixtime": "1704230894",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 5814,
+   "text": "Can you please send me a PM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can you please send me a PM"
+    }
+   ]
+  },
+  {
+   "id": 5819,
+   "type": "message",
+   "date": "2024-01-03T05:03:20",
+   "date_unixtime": "1704233000",
+   "from": "Sakib Medic",
+   "from_id": "user1395966112",
+   "text": "I've just joined this community.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I've just joined this community."
+    }
+   ]
+  },
+  {
+   "id": 5820,
+   "type": "message",
+   "date": "2024-01-03T05:03:58",
+   "date_unixtime": "1704233038",
+   "edited": "2024-01-03T05:04:31",
+   "edited_unixtime": "1704233071",
+   "from": "Sakib Medic",
+   "from_id": "user1395966112",
+   "text": "I have a question:  My waiting position is #23,741",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I have a question:  My waiting position is #23,741"
+    }
+   ]
+  },
+  {
+   "id": 5821,
+   "type": "message",
+   "date": "2024-01-03T05:05:11",
+   "date_unixtime": "1704233111",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 5820,
+   "text": "It's okay, the more the merrier, please rest assured you'll eventually get access to the testnet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It's okay, the more the merrier, please rest assured you'll eventually get access to the testnet"
+    }
+   ]
+  },
+  {
+   "id": 5822,
+   "type": "message",
+   "date": "2024-01-03T05:05:53",
+   "date_unixtime": "1704233153",
+   "from": "Sakib Medic",
+   "from_id": "user1395966112",
+   "reply_to_message_id": 5821,
+   "text": "What is this verification about?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is this verification about?"
+    }
+   ]
+  },
+  {
+   "id": 5823,
+   "type": "message",
+   "date": "2024-01-03T05:06:20",
+   "date_unixtime": "1704233180",
+   "from": "Sakib Medic",
+   "from_id": "user1395966112",
+   "reply_to_message_id": 5821,
+   "text": "Should I join Zealy too or its late?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Should I join Zealy too or its late?"
+    }
+   ]
+  },
+  {
+   "id": 5824,
+   "type": "message",
+   "date": "2024-01-03T05:06:26",
+   "date_unixtime": "1704233186",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 5822,
+   "text": "You're in queue and we'll be granting access to the users in queue eventually to te testnet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You're in queue and we'll be granting access to the users in queue eventually to te testnet"
+    }
+   ]
+  },
+  {
+   "id": 5825,
+   "type": "message",
+   "date": "2024-01-03T05:06:35",
+   "date_unixtime": "1704233195",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 5823,
+   "text": "You still have time no need to worry",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You still have time no need to worry"
+    }
+   ]
+  },
+  {
+   "id": 5826,
+   "type": "message",
+   "date": "2024-01-03T05:06:55",
+   "date_unixtime": "1704233215",
+   "from": "Sakib Medic",
+   "from_id": "user1395966112",
+   "reply_to_message_id": 5825,
+   "text": "Thanks ❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks ❤️"
+    }
+   ]
+  },
+  {
+   "id": 5835,
+   "type": "message",
+   "date": "2024-01-03T09:07:10",
+   "date_unixtime": "1704247630",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "Day 6 in testnet 😊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Day 6 in testnet 😊"
+    }
+   ]
+  },
+  {
+   "id": 5836,
+   "type": "message",
+   "date": "2024-01-03T09:12:18",
+   "date_unixtime": "1704247938",
+   "from": "Josh |",
+   "from_id": "user5171452120",
+   "text": "Do you have any plan to add OG channel community on discord🤔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Do you have any plan to add OG channel community on discord🤔"
+    }
+   ]
+  },
+  {
+   "id": 5837,
+   "type": "message",
+   "date": "2024-01-03T09:40:01",
+   "date_unixtime": "1704249601",
+   "from": "DigitalNinja 🥷🏽",
+   "from_id": "user1652765024",
+   "reply_to_message_id": 5496,
+   "text": "Same thing here too",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Same thing here too"
+    }
+   ]
+  },
+  {
+   "id": 5840,
+   "type": "message",
+   "date": "2024-01-03T10:31:38",
+   "date_unixtime": "1704252698",
+   "from": "Michael B",
+   "from_id": "user519272536",
+   "reply_to_message_id": 5837,
+   "text": "Yes, same for me. Seems to be reasonably common right now.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, same for me. Seems to be reasonably common right now."
+    }
+   ]
+  },
+  {
+   "id": 5841,
+   "type": "message",
+   "date": "2024-01-03T10:32:07",
+   "date_unixtime": "1704252727",
+   "from": "DigitalNinja 🥷🏽",
+   "from_id": "user1652765024",
+   "reply_to_message_id": 5840,
+   "text": "Ya I think so",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ya I think so"
+    }
+   ]
+  }
+ ]
+}
