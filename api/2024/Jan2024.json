@@ -29708,6 +29708,8 @@
    "type": "message",
    "date": "2024-01-10T20:48:28",
    "date_unixtime": "1704894508",
+   "edited": "2024-01-11T01:11:09",
+   "edited_unixtime": "1704910269",
    "from": "Blunt",
    "from_id": "user1981956046",
    "reply_to_message_id": 277507,
@@ -30016,10 +30018,1094 @@
    ]
   },
   {
-   "id": 277519,
+   "id": 277520,
    "type": "message",
-   "date": "2024-01-10T22:49:33",
-   "date_unixtime": "1704901773",
+   "date": "2024-01-10T22:54:34",
+   "date_unixtime": "1704902074",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "reply_to_message_id": 277518,
+   "text": "Indeed 😀 at first I was confused about which button to choose, it turns out they are both the same",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Indeed 😀 at first I was confused about which button to choose, it turns out they are both the same"
+    }
+   ]
+  },
+  {
+   "id": 277524,
+   "type": "message",
+   "date": "2024-01-11T04:36:41",
+   "date_unixtime": "1704922601",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "text": "It real this time?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It real this time?"
+    }
+   ]
+  },
+  {
+   "id": 277525,
+   "type": "message",
+   "date": "2024-01-11T04:36:42",
+   "date_unixtime": "1704922602",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "forwarded_from": "unfolded.",
+   "text": [
+    "SEC APPROVES 11 BITCOIN SPOT ETFS ",
+    {
+     "type": "text_link",
+     "text": "— sec",
+     "href": "https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "sec",
+     "href": "https://www.sec.gov/rules/sro/national-securities-exchanges"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "pdf",
+     "href": "https://farside.co.uk/pdf/fg-89shlq.pdf"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "SEC APPROVES 11 BITCOIN SPOT ETFS "
+    },
+    {
+     "type": "text_link",
+     "text": "— sec",
+     "href": "https://www.sec.gov/files/rules/sro/nysearca/2024/34-99306.pdf"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "sec",
+     "href": "https://www.sec.gov/rules/sro/national-securities-exchanges"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "pdf",
+     "href": "https://farside.co.uk/pdf/fg-89shlq.pdf"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 277526,
+   "type": "message",
+   "date": "2024-01-11T04:37:11",
+   "date_unixtime": "1704922631",
+   "from": "mdzej",
+   "from_id": "user1646186844",
+   "text": "Finally is :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Finally is :)"
+    }
+   ]
+  },
+  {
+   "id": 277527,
+   "type": "message",
+   "date": "2024-01-11T04:37:24",
+   "date_unixtime": "1704922644",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Yes it’s real",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes it’s real"
+    }
+   ]
+  },
+  {
+   "id": 277528,
+   "type": "message",
+   "date": "2024-01-11T04:37:40",
+   "date_unixtime": "1704922660",
+   "from": "Lukas M",
+   "from_id": "user5639346143",
+   "text": "Yes it is",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes it is"
+    }
+   ]
+  },
+  {
+   "id": 277529,
+   "type": "message",
+   "date": "2024-01-11T04:38:00",
+   "date_unixtime": "1704922680",
+   "from": "Lukas M",
+   "from_id": "user5639346143",
+   "text": "Lets hope yld pumps to 6 cent because of the good news haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lets hope yld pumps to 6 cent because of the good news haha"
+    }
+   ]
+  },
+  {
+   "id": 277530,
+   "type": "message",
+   "date": "2024-01-11T04:40:59",
+   "date_unixtime": "1704922859",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "text": "I am just waiting on Gary's confirmation lol",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I am just waiting on Gary's confirmation lol"
+    }
+   ]
+  },
+  {
+   "id": 277533,
+   "type": "message",
+   "date": "2024-01-11T04:43:30",
+   "date_unixtime": "1704923010",
+   "from": "mdzej",
+   "from_id": "user1646186844",
+   "text": "its there already, check twitter",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "its there already, check twitter"
+    }
+   ]
+  },
+  {
+   "id": 277535,
+   "type": "message",
+   "date": "2024-01-11T04:50:03",
+   "date_unixtime": "1704923403",
+   "from": "Alex🍉",
+   "from_id": "user1086643639",
+   "reply_to_message_id": 277533,
+   "text": "Where?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Where?"
+    }
+   ]
+  },
+  {
+   "id": 277536,
+   "type": "message",
+   "date": "2024-01-11T04:53:34",
+   "date_unixtime": "1704923614",
+   "from": "Alex🍉",
+   "from_id": "user1086643639",
+   "text": "Found it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Found it"
+    }
+   ]
+  },
+  {
+   "id": 277537,
+   "type": "message",
+   "date": "2024-01-11T04:53:38",
+   "date_unixtime": "1704923618",
+   "edited": "2024-01-11T04:53:45",
+   "edited_unixtime": "1704923625",
+   "from": "Alex🍉",
+   "from_id": "user1086643639",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.sec.gov/news/statement/gensler-statement-spot-bitcoin-011023"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.sec.gov/news/statement/gensler-statement-spot-bitcoin-011023"
+    }
+   ]
+  },
+  {
+   "id": 277538,
+   "type": "message",
+   "date": "2024-01-11T04:54:05",
+   "date_unixtime": "1704923645",
+   "edited": "2024-01-11T04:54:14",
+   "edited_unixtime": "1704923654",
+   "from": "mdzej",
+   "from_id": "user1646186844",
+   "text": "i couldnt paste link here for some reason",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i couldnt paste link here for some reason"
+    }
+   ]
+  },
+  {
+   "id": 277539,
+   "type": "message",
+   "date": "2024-01-11T04:54:32",
+   "date_unixtime": "1704923672",
+   "edited": "2024-01-11T04:54:58",
+   "edited_unixtime": "1704923698",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277538,
+   "text": "Our bot is sometimes very sensitive about external links, apologies for that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Our bot is sometimes very sensitive about external links, apologies for that"
+    }
+   ]
+  },
+  {
+   "id": 277540,
+   "type": "message",
+   "date": "2024-01-11T04:54:49",
+   "date_unixtime": "1704923689",
+   "from": "Alex🍉",
+   "from_id": "user1086643639",
+   "reply_to_message_id": 277539,
+   "text": "It must fancy me or something.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It must fancy me or something."
+    }
+   ]
+  },
+  {
+   "id": 277541,
+   "type": "message",
+   "date": "2024-01-11T04:55:41",
+   "date_unixtime": "1704923741",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277540,
+   "text": "It looks into personal activity also, you must have been a really good boy 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It looks into personal activity also, you must have been a really good boy 😁"
+    }
+   ]
+  },
+  {
+   "id": 277542,
+   "type": "message",
+   "date": "2024-01-11T04:56:02",
+   "date_unixtime": "1704923762",
+   "from": "Alex🍉",
+   "from_id": "user1086643639",
+   "reply_to_message_id": 277541,
+   "text": "Just veery, very boring.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Just veery, very boring."
+    }
+   ]
+  },
+  {
+   "id": 277543,
+   "type": "message",
+   "date": "2024-01-11T05:04:24",
+   "date_unixtime": "1704924264",
+   "from": "R",
+   "from_id": "user426407683",
+   "reply_to_message_id": 277529,
+   "text": "Trading group pls",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Trading group pls"
+    }
+   ]
+  },
+  {
+   "id": 277545,
+   "type": "message",
+   "date": "2024-01-11T08:18:45",
+   "date_unixtime": "1704935925",
+   "edited": "2024-01-11T08:34:58",
+   "edited_unixtime": "1704936898",
+   "from": "Mr.Herring",
+   "from_id": "user321167875",
+   "photo": "photos/photo_4247@11-01-2024_08-18-45.jpg",
+   "width": 999,
+   "height": 391,
+   "text": "From website. I think its a bit outdated",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "From website. I think its a bit outdated"
+    }
+   ]
+  },
+  {
+   "id": 277547,
+   "type": "message",
+   "date": "2024-01-11T09:44:26",
+   "date_unixtime": "1704941066",
+   "edited": "2024-01-11T09:46:10",
+   "edited_unixtime": "1704941170",
+   "from": "HC Li",
+   "from_id": "user1049961551",
+   "text": "gm yielders, happy bitcoin etf day",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "gm yielders, happy bitcoin etf day"
+    }
+   ]
+  },
+  {
+   "id": 277549,
+   "type": "message",
+   "date": "2024-01-11T11:08:33",
+   "date_unixtime": "1704946113",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Good morning everyone",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning everyone"
+    }
+   ]
+  },
+  {
+   "id": 277550,
+   "type": "message",
+   "date": "2024-01-11T11:09:51",
+   "date_unixtime": "1704946191",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Will the other 3 sp products be added to yield pro?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Will the other 3 sp products be added to yield pro?"
+    }
+   ]
+  },
+  {
+   "id": 277551,
+   "type": "message",
+   "date": "2024-01-11T11:10:13",
+   "date_unixtime": "1704946213",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "I mean target, sharkfin and range",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I mean target, sharkfin and range"
+    }
+   ]
+  },
+  {
+   "id": 277552,
+   "type": "message",
+   "date": "2024-01-11T11:10:23",
+   "date_unixtime": "1704946223",
+   "edited": "2024-01-11T11:21:38",
+   "edited_unixtime": "1704946898",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277550,
+   "text": "One at a time, Ahmed. We're getting there.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "One at a time, Ahmed. We're getting there."
+    }
+   ]
+  },
+  {
+   "id": 277553,
+   "type": "message",
+   "date": "2024-01-11T11:14:23",
+   "date_unixtime": "1704946463",
+   "edited": "2024-01-11T11:16:14",
+   "edited_unixtime": "1704946574",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "text": "Sharkfin would be really good, one of my go-to always",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sharkfin would be really good, one of my go-to always"
+    }
+   ]
+  },
+  {
+   "id": 277554,
+   "type": "message",
+   "date": "2024-01-11T11:22:46",
+   "date_unixtime": "1704946966",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "reply_to_message_id": 277552,
+   "text": "Pleased to hear that ser",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pleased to hear that ser"
+    }
+   ]
+  },
+  {
+   "id": 277555,
+   "type": "message",
+   "date": "2024-01-11T11:24:36",
+   "date_unixtime": "1704947076",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "However its important to note that competitors already offer a similar product ser",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "However its important to note that competitors already offer a similar product ser"
+    }
+   ]
+  },
+  {
+   "id": 277556,
+   "type": "message",
+   "date": "2024-01-11T11:25:18",
+   "date_unixtime": "1704947118",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Same as dual ccy although not better than what yield app offers he he",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Same as dual ccy although not better than what yield app offers he he"
+    }
+   ]
+  },
+  {
+   "id": 277557,
+   "type": "message",
+   "date": "2024-01-11T11:25:34",
+   "date_unixtime": "1704947134",
+   "edited": "2024-01-11T11:26:05",
+   "edited_unixtime": "1704947165",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277555,
+   "text": "I hear you. You know that Yield Pro will be filled with a bunch of products.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I hear you. You know that Yield Pro will be filled with a bunch of products."
+    }
+   ]
+  },
+  {
+   "id": 277558,
+   "type": "message",
+   "date": "2024-01-11T11:25:44",
+   "date_unixtime": "1704947144",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277556,
+   "text": "Very pleased to hear that, Ser.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Very pleased to hear that, Ser."
+    }
+   ]
+  },
+  {
+   "id": 277559,
+   "type": "message",
+   "date": "2024-01-11T11:31:32",
+   "date_unixtime": "1704947492",
+   "edited": "2024-01-11T16:06:57",
+   "edited_unixtime": "1704964017",
+   "from": "Bubbles",
+   "from_id": "user2014150066",
+   "text": "wen V4? 👀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "wen V4? 👀"
+    }
+   ]
+  },
+  {
+   "id": 277560,
+   "type": "message",
+   "date": "2024-01-11T11:34:19",
+   "date_unixtime": "1704947659",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 277557,
+   "text": "In the simulator, all the products are active right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In the simulator, all the products are active right?"
+    }
+   ]
+  },
+  {
+   "id": 277561,
+   "type": "message",
+   "date": "2024-01-11T11:34:31",
+   "date_unixtime": "1704947671",
+   "edited": "2024-01-11T14:31:44",
+   "edited_unixtime": "1704958304",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277560,
+   "text": "Yes indeed, Hay.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes indeed, Hay."
+    }
+   ]
+  },
+  {
+   "id": 277562,
+   "type": "message",
+   "date": "2024-01-11T11:34:34",
+   "date_unixtime": "1704947674",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277559,
+   "file": "video_files/ebawit.gif.mp4",
+   "thumbnail": "video_files/ebawit.gif.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 8,
+   "width": 320,
+   "height": 240,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 277563,
+   "type": "message",
+   "date": "2024-01-11T11:36:15",
+   "date_unixtime": "1704947775",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277561,
+   "text": "Soon 😆",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Soon 😆"
+    }
+   ]
+  },
+  {
+   "id": 277564,
+   "type": "message",
+   "date": "2024-01-11T11:49:33",
+   "date_unixtime": "1704948573",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "text": "Oh no, I just realized I replied to the wrong chat 😭",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oh no, I just realized I replied to the wrong chat 😭"
+    }
+   ]
+  },
+  {
+   "id": 277565,
+   "type": "message",
+   "date": "2024-01-11T11:49:52",
+   "date_unixtime": "1704948592",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277559,
+   "text": "Soon 😆",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Soon 😆"
+    }
+   ]
+  },
+  {
+   "id": 277566,
+   "type": "message",
+   "date": "2024-01-11T12:04:17",
+   "date_unixtime": "1704949457",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "In the pitchbook, it says in 2022 Yield app supported by 52 employees",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In the pitchbook, it says in 2022 Yield app supported by 52 employees"
+    }
+   ]
+  },
+  {
+   "id": 277567,
+   "type": "message",
+   "date": "2024-01-11T12:04:38",
+   "date_unixtime": "1704949478",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "Is it still the same number of employees now?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is it still the same number of employees now?"
+    }
+   ]
+  },
+  {
+   "id": 277568,
+   "type": "message",
+   "date": "2024-01-11T12:04:48",
+   "date_unixtime": "1704949488",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277567,
+   "text": "Even more I think",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Even more I think"
+    }
+   ]
+  },
+  {
+   "id": 277570,
+   "type": "message",
+   "date": "2024-01-11T12:58:58",
+   "date_unixtime": "1704952738",
+   "edited": "2024-01-11T14:17:12",
+   "edited_unixtime": "1704957432",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Good morning, Yielders! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning, Yielders! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 277571,
+   "type": "message",
+   "date": "2024-01-11T13:53:20",
+   "date_unixtime": "1704956000",
+   "edited": "2024-01-11T14:15:23",
+   "edited_unixtime": "1704957323",
+   "from": "Martiini’",
+   "from_id": "user1242301319",
+   "text": "Wen ADA?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Wen ADA?"
+    }
+   ]
+  },
+  {
+   "id": 277572,
+   "type": "message",
+   "date": "2024-01-11T14:06:01",
+   "date_unixtime": "1704956761",
+   "edited": "2024-01-11T14:15:26",
+   "edited_unixtime": "1704957326",
+   "from": "Andy",
+   "from_id": "user407593519",
+   "text": "When Near?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When Near?"
+    }
+   ]
+  },
+  {
+   "id": 277573,
+   "type": "message",
+   "date": "2024-01-11T14:28:16",
+   "date_unixtime": "1704958096",
+   "from": "Goku",
+   "from_id": "user498440385",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@admin"
+    },
+    ", can you support with some guidance please re depositing fiat"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@admin"
+    },
+    {
+     "type": "plain",
+     "text": ", can you support with some guidance please re depositing fiat"
+    }
+   ]
+  },
+  {
+   "id": 277574,
+   "type": "message",
+   "date": "2024-01-11T14:29:18",
+   "date_unixtime": "1704958158",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": "Any admin online?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Any admin online?"
+    }
+   ]
+  },
+  {
+   "id": 277575,
+   "type": "message",
+   "date": "2024-01-11T14:29:26",
+   "date_unixtime": "1704958166",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277574,
+   "text": "Always.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Always."
+    }
+   ]
+  },
+  {
+   "id": 277576,
+   "type": "message",
+   "date": "2024-01-11T14:29:48",
+   "date_unixtime": "1704958188",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277573,
+   "text": [
+    "Goku, is there any specific thing that you need help with?\n\nSee this page:\n\n",
+    {
+     "type": "link",
+     "text": "https://support.yield.app/hc/en-us/sections/13160548024209-Transfer-EUR-GBP-into-Yield-App-"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Goku, is there any specific thing that you need help with?\n\nSee this page:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://support.yield.app/hc/en-us/sections/13160548024209-Transfer-EUR-GBP-into-Yield-App-"
+    }
+   ]
+  },
+  {
+   "id": 277577,
+   "type": "message",
+   "date": "2024-01-11T14:30:53",
+   "date_unixtime": "1704958253",
+   "from": "Goku",
+   "from_id": "user498440385",
+   "text": "I had previous complete kyc and attached my bank to the account but have not deposited for a while , now when I try it’s asking to do it through transac?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I had previous complete kyc and attached my bank to the account but have not deposited for a while , now when I try it’s asking to do it through transac?"
+    }
+   ]
+  },
+  {
+   "id": 277578,
+   "type": "message",
+   "date": "2024-01-11T14:31:42",
+   "date_unixtime": "1704958302",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277577,
+   "text": [
+    "There was a change back in November on your IBAN. Send me a PM if you need personalized help, avoid scam attempts, send me a PM here > ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "There was a change back in November on your IBAN. Send me a PM if you need personalized help, avoid scam attempts, send me a PM here > "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    }
+   ]
+  },
+  {
+   "id": 277579,
+   "type": "message",
+   "date": "2024-01-11T14:31:58",
+   "date_unixtime": "1704958318",
+   "from": "Goku",
+   "from_id": "user498440385",
+   "text": "Sure",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sure"
+    }
+   ]
+  },
+  {
+   "id": 277580,
+   "type": "message",
+   "date": "2024-01-11T14:34:42",
+   "date_unixtime": "1704958482",
+   "edited": "2024-01-11T14:35:00",
+   "edited_unixtime": "1704958500",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "reply_to_message_id": 277575,
+   "text": "We don't get charged transaction fees for transfers between accounts right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We don't get charged transaction fees for transfers between accounts right?"
+    }
+   ]
+  },
+  {
+   "id": 277581,
+   "type": "message",
+   "date": "2024-01-11T14:34:59",
+   "date_unixtime": "1704958499",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277580,
+   "text": "Correct Sam",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Correct Sam"
+    }
+   ]
+  },
+  {
+   "id": 277582,
+   "type": "message",
+   "date": "2024-01-11T14:37:24",
+   "date_unixtime": "1704958644",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "reply_to_message_id": 277581,
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 277583,
+   "type": "message",
+   "date": "2024-01-11T14:38:32",
+   "date_unixtime": "1704958712",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": "Let's say I wan to create a YA account for my wife",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Let's say I wan to create a YA account for my wife"
+    }
+   ]
+  },
+  {
+   "id": 277584,
+   "type": "message",
+   "date": "2024-01-11T14:39:49",
+   "date_unixtime": "1704958789",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": [
+    "I used my referral, transferred some funds from my own account to this new account and then invested 1k or more in earn+",
+    {
+     "type": "bot_command",
+     "text": "/earn365"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I used my referral, transferred some funds from my own account to this new account and then invested 1k or more in earn+"
+    },
+    {
+     "type": "bot_command",
+     "text": "/earn365"
+    }
+   ]
+  },
+  {
+   "id": 277585,
+   "type": "message",
+   "date": "2024-01-11T14:40:00",
+   "date_unixtime": "1704958800",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": "is that against the rules?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "is that against the rules?"
+    }
+   ]
+  },
+  {
+   "id": 277586,
+   "type": "message",
+   "date": "2024-01-11T14:40:35",
+   "date_unixtime": "1704958835",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": "I don't mean to cheat or anything like that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I don't mean to cheat or anything like that"
+    }
+   ]
+  },
+  {
+   "id": 277587,
+   "type": "message",
+   "date": "2024-01-11T14:41:27",
+   "date_unixtime": "1704958887",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": "I was planning to create YA account for my wife, so why not just join as my referral",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I was planning to create YA account for my wife, so why not just join as my referral"
+    }
+   ]
+  },
+  {
+   "id": 277588,
+   "type": "message",
+   "date": "2024-01-11T14:41:40",
+   "date_unixtime": "1704958900",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 277585,
+   "text": "Why would it be? Refer the whole fam, Sam!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why would it be? Refer the whole fam, Sam!"
+    }
+   ]
+  },
+  {
+   "id": 277589,
+   "type": "message",
+   "date": "2024-01-11T14:41:48",
+   "date_unixtime": "1704958908",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "text": "After all, this only happens once, right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "After all, this only happens once, right?"
+    }
+   ]
+  },
+  {
+   "id": 277590,
+   "type": "message",
+   "date": "2024-01-11T14:42:14",
+   "date_unixtime": "1704958934",
+   "from": "Sam bon",
+   "from_id": "user1960200924",
+   "reply_to_message_id": 277588,
+   "text": "Great 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Great 👍"
+    }
+   ]
+  },
+  {
+   "id": 277591,
+   "type": "message",
+   "date": "2024-01-11T14:42:27",
+   "date_unixtime": "1704958947",
+   "edited": "2024-01-11T14:42:43",
+   "edited_unixtime": "1704958963",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277589,
+   "text": "No it's not against the rules, the more customers you onboard the merrier",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No it's not against the rules, the more customers you onboard the merrier"
+    }
+   ]
+  },
+  {
+   "id": 277592,
+   "type": "message",
+   "date": "2024-01-11T14:49:32",
+   "date_unixtime": "1704959372",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
@@ -30168,18 +31254,506 @@
    ]
   },
   {
-   "id": 277520,
+   "id": 277593,
    "type": "message",
-   "date": "2024-01-10T22:54:34",
-   "date_unixtime": "1704902074",
-   "from": "Fabrie",
-   "from_id": "user1924903129",
-   "reply_to_message_id": 277518,
-   "text": "Indeed 😀 at first I was confused about which button to choose, it turns out they are both the same",
+   "date": "2024-01-11T16:01:36",
+   "date_unixtime": "1704963696",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "text": [
+    "Get crypto-nostalgic with Yield App…\n\n🛣️ From the thaw of crypto winter to legal battles, regulatory shifts, and institutional moves, let's revisit the events that shaped the crypto landscape in 2023. Fasten your seatbelts to relive the journey that took us to spot bitcoin ETF Approval Day!\n",
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/year-in-review-crypto-news-2023"
+    },
+    ""
+   ],
    "text_entities": [
     {
      "type": "plain",
-     "text": "Indeed 😀 at first I was confused about which button to choose, it turns out they are both the same"
+     "text": "Get crypto-nostalgic with Yield App…\n\n🛣️ From the thaw of crypto winter to legal battles, regulatory shifts, and institutional moves, let's revisit the events that shaped the crypto landscape in 2023. Fasten your seatbelts to relive the journey that took us to spot bitcoin ETF Approval Day!\n"
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/year-in-review-crypto-news-2023"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 277594,
+   "type": "message",
+   "date": "2024-01-11T16:42:48",
+   "date_unixtime": "1704966168",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "text": "The day has finally come…A 🚦Bitcoin spot ETFs have been given the green light! \n\nCould opening the doors to institutional capital drive bitcoin toward the $100,000 mark and beyond?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The day has finally come…A 🚦Bitcoin spot ETFs have been given the green light! \n\nCould opening the doors to institutional capital drive bitcoin toward the $100,000 mark and beyond?"
+    }
+   ]
+  },
+  {
+   "id": 277595,
+   "type": "message",
+   "date": "2024-01-11T16:49:32",
+   "date_unixtime": "1704966572",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 277596,
+   "type": "message",
+   "date": "2024-01-11T17:39:01",
+   "date_unixtime": "1704969541",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 277553,
+   "text": "Is that the one that’s principal protected?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is that the one that’s principal protected?"
+    }
+   ]
+  },
+  {
+   "id": 277597,
+   "type": "message",
+   "date": "2024-01-11T17:41:28",
+   "date_unixtime": "1704969688",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 277596,
+   "text": "No sharkfin isn't principal protected",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No sharkfin isn't principal protected"
+    }
+   ]
+  },
+  {
+   "id": 277598,
+   "type": "message",
+   "date": "2024-01-11T17:46:12",
+   "date_unixtime": "1704969972",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "Ah so none of the products classify as PP, correct?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ah so none of the products classify as PP, correct?"
+    }
+   ]
+  },
+  {
+   "id": 277599,
+   "type": "message",
+   "date": "2024-01-11T17:55:40",
+   "date_unixtime": "1704970540",
+   "edited": "2024-01-11T17:55:55",
+   "edited_unixtime": "1704970555",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "text": "The first of such products is a principal protected dual currency. Not currently released.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The first of such products is a principal protected dual currency. Not currently released."
+    }
+   ]
+  },
+  {
+   "id": 277600,
+   "type": "message",
+   "date": "2024-01-11T18:01:11",
+   "date_unixtime": "1704970871",
+   "edited": "2024-01-11T18:54:39",
+   "edited_unixtime": "1704974079",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "photo": "photos/photo_4248@11-01-2024_18-01-11.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": [
+    "📈 New year, new ",
+    {
+     "type": "cashtag",
+     "text": "$SOL"
+    },
+    " rates! \n\nWe've been working tirelessly to make your crypto stack even higher. Find our refreshed APYs in this table 👆🏻"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "📈 New year, new "
+    },
+    {
+     "type": "cashtag",
+     "text": "$SOL"
+    },
+    {
+     "type": "plain",
+     "text": " rates! \n\nWe've been working tirelessly to make your crypto stack even higher. Find our refreshed APYs in this table 👆🏻"
+    }
+   ]
+  },
+  {
+   "id": 277601,
+   "type": "message",
+   "date": "2024-01-11T18:49:33",
+   "date_unixtime": "1704973773",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 277602,
+   "type": "message",
+   "date": "2024-01-11T18:55:30",
+   "date_unixtime": "1704974130",
+   "from": "Peter Morgan",
+   "from_id": "user496060644",
+   "reply_to_message_id": 277600,
+   "text": "Does this mean that the rates for all other listed cryptos might also rise ??",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Does this mean that the rates for all other listed cryptos might also rise ??"
+    }
+   ]
+  },
+  {
+   "id": 277603,
+   "type": "message",
+   "date": "2024-01-11T18:59:31",
+   "date_unixtime": "1704974371",
+   "edited": "2024-01-11T18:59:59",
+   "edited_unixtime": "1704974399",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277602,
+   "text": "The team is always closely following  market movements and conditions, and once there's space to safely increase the rates, the team will definitely do it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The team is always closely following  market movements and conditions, and once there's space to safely increase the rates, the team will definitely do it"
+    }
+   ]
+  },
+  {
+   "id": 277604,
+   "type": "message",
+   "date": "2024-01-11T19:09:41",
+   "date_unixtime": "1704974981",
+   "from": "Bubbles",
+   "from_id": "user2014150066",
+   "reply_to_message_id": 277600,
+   "text": "Why the decrease on flex? Seems like everything is slowly being shifted into lock ups..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Why the decrease on flex? Seems like everything is slowly being shifted into lock ups.."
     }
    ]
   }
