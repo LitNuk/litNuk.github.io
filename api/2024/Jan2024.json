@@ -31756,6 +31756,497 @@
      "text": "Why the decrease on flex? Seems like everything is slowly being shifted into lock ups.."
     }
    ]
+  },
+  {
+   "id": 277605,
+   "type": "message",
+   "date": "2024-01-11T19:26:17",
+   "date_unixtime": "1704975977",
+   "from": "Kim Jibudan",
+   "from_id": "user1945572719",
+   "text": "Has anyone here ever made an asset purchase through buy with card feature?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Has anyone here ever made an asset purchase through buy with card feature?"
+    }
+   ]
+  },
+  {
+   "id": 277606,
+   "type": "message",
+   "date": "2024-01-11T19:26:41",
+   "date_unixtime": "1704976001",
+   "from": "Kim Jibudan",
+   "from_id": "user1945572719",
+   "text": "I see there are several payment methods",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I see there are several payment methods"
+    }
+   ]
+  },
+  {
+   "id": 277607,
+   "type": "message",
+   "date": "2024-01-11T19:27:02",
+   "date_unixtime": "1704976022",
+   "from": "Kim Jibudan",
+   "from_id": "user1945572719",
+   "text": "Which one do you think is the easiest?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which one do you think is the easiest?"
+    }
+   ]
+  },
+  {
+   "id": 277608,
+   "type": "message",
+   "date": "2024-01-11T19:41:51",
+   "date_unixtime": "1704976911",
+   "from": "Lemaro",
+   "from_id": "user1941451999",
+   "reply_to_message_id": 277600,
+   "text": "Only sol changes?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Only sol changes?"
+    }
+   ]
+  },
+  {
+   "id": 277609,
+   "type": "message",
+   "date": "2024-01-11T19:43:56",
+   "date_unixtime": "1704977036",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277608,
+   "text": "For now yes, once there's space to change rates for other assets we will send out announcements through our social media channels",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "For now yes, once there's space to change rates for other assets we will send out announcements through our social media channels"
+    }
+   ]
+  },
+  {
+   "id": 277610,
+   "type": "message",
+   "date": "2024-01-11T19:47:33",
+   "date_unixtime": "1704977253",
+   "edited": "2024-01-11T19:47:47",
+   "edited_unixtime": "1704977267",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "reply_to_message_id": 277604,
+   "text": "Good. More incentive to become diamond 💎 YLD to 1$ really soon.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good. More incentive to become diamond 💎 YLD to 1$ really soon."
+    }
+   ]
+  },
+  {
+   "id": 277611,
+   "type": "message",
+   "date": "2024-01-11T19:59:28",
+   "date_unixtime": "1704977968",
+   "from": "Lebyracus",
+   "from_id": "user2015729236",
+   "photo": "photos/photo_4249@11-01-2024_19-59-28.jpg",
+   "width": 576,
+   "height": 1280,
+   "text": "Hi guys good day may I ask about this Apr can I get 50% Apr a day or it's just displayed?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi guys good day may I ask about this Apr can I get 50% Apr a day or it's just displayed?"
+    }
+   ]
+  },
+  {
+   "id": 277612,
+   "type": "message",
+   "date": "2024-01-11T19:59:51",
+   "date_unixtime": "1704977991",
+   "from": "Lebyracus",
+   "from_id": "user2015729236",
+   "text": "I hope anybody can answer my question",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I hope anybody can answer my question"
+    }
+   ]
+  },
+  {
+   "id": 277613,
+   "type": "message",
+   "date": "2024-01-11T20:00:52",
+   "date_unixtime": "1704978052",
+   "from": "Lebyracus",
+   "from_id": "user2015729236",
+   "text": "Because other sayss the maximum Apr that i get here  is only 10% a day",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Because other sayss the maximum Apr that i get here  is only 10% a day"
+    }
+   ]
+  },
+  {
+   "id": 277614,
+   "type": "message",
+   "date": "2024-01-11T20:04:16",
+   "date_unixtime": "1704978256",
+   "edited": "2024-01-11T20:39:44",
+   "edited_unixtime": "1704980384",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 277611,
+   "text": "You get the APR it shows in the app\n\nRates have been high recently due to elevated volatility caused by the ETF decision",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You get the APR it shows in the app\n\nRates have been high recently due to elevated volatility caused by the ETF decision"
+    }
+   ]
+  },
+  {
+   "id": 277615,
+   "type": "message",
+   "date": "2024-01-11T20:06:32",
+   "date_unixtime": "1704978392",
+   "edited": "2024-01-11T20:36:43",
+   "edited_unixtime": "1704980203",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 277611,
+   "text": "According to this screenshot. The APR is 114.8% \nAnd you have selected 2 days.\nThis means (114.8% / 365)*2=0.629041095890411%",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "According to this screenshot. The APR is 114.8% \nAnd you have selected 2 days.\nThis means (114.8% / 365)*2=0.629041095890411%"
+    }
+   ]
+  },
+  {
+   "id": 277617,
+   "type": "message",
+   "date": "2024-01-11T20:10:04",
+   "date_unixtime": "1704978604",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "It also shows you the actual amounts you’ll be getting back before confirming the deal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It also shows you the actual amounts you’ll be getting back before confirming the deal"
+    }
+   ]
+  },
+  {
+   "id": 277618,
+   "type": "message",
+   "date": "2024-01-11T20:35:29",
+   "date_unixtime": "1704980129",
+   "edited": "2024-01-11T20:36:41",
+   "edited_unixtime": "1704980201",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 277611,
+   "text": "Using a maturity of 2 days doesn't mean you divide 114.8% by 2 to get the daily value\n\nAPR is basically the yearly premium rate. If you want to break it down into a daily thing, just divide it by the number of days in a year (365) - Pete did the math!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Using a maturity of 2 days doesn't mean you divide 114.8% by 2 to get the daily value\n\nAPR is basically the yearly premium rate. If you want to break it down into a daily thing, just divide it by the number of days in a year (365) - Pete did the math!"
+    }
+   ]
+  },
+  {
+   "id": 277619,
+   "type": "message",
+   "date": "2024-01-11T20:37:11",
+   "date_unixtime": "1704980231",
+   "edited": "2024-01-11T20:37:26",
+   "edited_unixtime": "1704980246",
+   "from": "Lebyracus",
+   "from_id": "user2015729236",
+   "text": "Ahh now I already know how it works😇",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ahh now I already know how it works😇"
+    }
+   ]
+  },
+  {
+   "id": 277620,
+   "type": "message",
+   "date": "2024-01-11T20:45:06",
+   "date_unixtime": "1704980706",
+   "edited": "2024-01-11T20:46:48",
+   "edited_unixtime": "1704980808",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 277618,
+   "text": "Perhaps the app can be updated to show the actual percentage return at maturity (alongside the total amount returned that it currently shows)\n\nIt could make it easier for people who are unfamiliar with APR calculations",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Perhaps the app can be updated to show the actual percentage return at maturity (alongside the total amount returned that it currently shows)\n\nIt could make it easier for people who are unfamiliar with APR calculations"
+    }
+   ]
+  },
+  {
+   "id": 277621,
+   "type": "message",
+   "date": "2024-01-11T20:49:33",
+   "date_unixtime": "1704980973",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 277622,
+   "type": "message",
+   "date": "2024-01-11T21:00:07",
+   "date_unixtime": "1704981607",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277606,
+   "text": "The payment methods depend on the fiat currency you are using",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The payment methods depend on the fiat currency you are using"
+    }
+   ]
+  },
+  {
+   "id": 277623,
+   "type": "message",
+   "date": "2024-01-11T21:00:37",
+   "date_unixtime": "1704981637",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "text": "And also what assets are you planning to buy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And also what assets are you planning to buy"
+    }
+   ]
+  },
+  {
+   "id": 277624,
+   "type": "message",
+   "date": "2024-01-11T21:00:56",
+   "date_unixtime": "1704981656",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "text": [
+    "What does ",
+    {
+     "type": "mention",
+     "text": "@LAlexK"
+    },
+    " think Bitcoin’s price is heading in 2024? Our CIO shares his views in a Cointelegraph exclusive!\n",
+    {
+     "type": "link",
+     "text": "https://cointelegraph.com/news/bitcoin-crash-30-percent-after-etf-decision"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What does "
+    },
+    {
+     "type": "mention",
+     "text": "@LAlexK"
+    },
+    {
+     "type": "plain",
+     "text": " think Bitcoin’s price is heading in 2024? Our CIO shares his views in a Cointelegraph exclusive!\n"
+    },
+    {
+     "type": "link",
+     "text": "https://cointelegraph.com/news/bitcoin-crash-30-percent-after-etf-decision"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 277625,
+   "type": "message",
+   "date": "2024-01-11T21:01:45",
+   "date_unixtime": "1704981705",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277607,
+   "text": "I once bought BNB with skrill, but I've never used anything else, so I can't compare",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I once bought BNB with skrill, but I've never used anything else, so I can't compare"
+    }
+   ]
   }
  ]
 }
