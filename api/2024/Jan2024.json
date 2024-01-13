@@ -31859,7 +31859,7 @@
    "type": "message",
    "date": "2024-01-11T19:59:28",
    "date_unixtime": "1704977968",
-   "from": "Lebyracus",
+   "from": "Throeem",
    "from_id": "user2015729236",
    "photo": "photos/photo_4249@11-01-2024_19-59-28.jpg",
    "width": 576,
@@ -31877,7 +31877,7 @@
    "type": "message",
    "date": "2024-01-11T19:59:51",
    "date_unixtime": "1704977991",
-   "from": "Lebyracus",
+   "from": "Throeem",
    "from_id": "user2015729236",
    "text": "I hope anybody can answer my question",
    "text_entities": [
@@ -31892,7 +31892,7 @@
    "type": "message",
    "date": "2024-01-11T20:00:52",
    "date_unixtime": "1704978052",
-   "from": "Lebyracus",
+   "from": "Throeem",
    "from_id": "user2015729236",
    "text": "Because other sayss the maximum Apr that i get here  is only 10% a day",
    "text_entities": [
@@ -31978,7 +31978,7 @@
    "date_unixtime": "1704980231",
    "edited": "2024-01-11T20:37:26",
    "edited_unixtime": "1704980246",
-   "from": "Lebyracus",
+   "from": "Throeem",
    "from_id": "user2015729236",
    "text": "Ahh now I already know how it works😇",
    "text_entities": [
@@ -32690,7 +32690,7 @@
    "type": "message",
    "date": "2024-01-12T05:27:11",
    "date_unixtime": "1705012031",
-   "from": "Lebyracus",
+   "from": "Throeem",
    "from_id": "user2015729236",
    "reply_to_message_id": 277618,
    "text": "But if I break It down to monthly thing, I will just divide by (12) month, am I right? I finally learn computing Apr",
@@ -37514,6 +37514,468 @@
     {
      "type": "plain",
      "text": "Oh, I'm in the Jim Carrey club, that's all I got in my celebrity knowledge bank! 😅"
+    }
+   ]
+  },
+  {
+   "id": 277889,
+   "type": "message",
+   "date": "2024-01-13T19:56:49",
+   "date_unixtime": "1705150609",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277883,
+   "text": "Jim Cramer alert 🚨",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Jim Cramer alert 🚨"
+    }
+   ]
+  },
+  {
+   "id": 277894,
+   "type": "message",
+   "date": "2024-01-14T04:49:32",
+   "date_unixtime": "1705182572",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 277896,
+   "type": "message",
+   "date": "2024-01-14T05:23:47",
+   "date_unixtime": "1705184627",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "reply_to_message_id": 277878,
+   "text": "That's taken from pitchbook",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "That's taken from pitchbook"
+    }
+   ]
+  },
+  {
+   "id": 277897,
+   "type": "message",
+   "date": "2024-01-14T05:25:04",
+   "date_unixtime": "1705184704",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "Looks like I cant post any links here",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Looks like I cant post any links here"
+    }
+   ]
+  },
+  {
+   "id": 277898,
+   "type": "message",
+   "date": "2024-01-14T05:25:15",
+   "date_unixtime": "1705184715",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "Auto deleted",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Auto deleted"
+    }
+   ]
+  },
+  {
+   "id": 277899,
+   "type": "message",
+   "date": "2024-01-14T05:27:28",
+   "date_unixtime": "1705184848",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "I'm just screenshotting part of the page",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm just screenshotting part of the page"
+    }
+   ]
+  },
+  {
+   "id": 277900,
+   "type": "message",
+   "date": "2024-01-14T05:27:33",
+   "date_unixtime": "1705184853",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277898,
+   "text": "Our bot can be a bit sensitive sometimes, apologies for that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Our bot can be a bit sensitive sometimes, apologies for that"
+    }
+   ]
+  },
+  {
+   "id": 277901,
+   "type": "message",
+   "date": "2024-01-14T05:27:35",
+   "date_unixtime": "1705184855",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "photo": "photos/photo_4255@14-01-2024_05-27-35.jpg",
+   "width": 921,
+   "height": 644,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 277902,
+   "type": "message",
+   "date": "2024-01-14T05:28:03",
+   "date_unixtime": "1705184883",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "reply_to_message_id": 277900,
+   "text": "All good, no worries 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "All good, no worries 👍"
+    }
+   ]
+  },
+  {
+   "id": 277903,
+   "type": "message",
+   "date": "2024-01-14T05:28:50",
+   "date_unixtime": "1705184930",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277897,
+   "text": [
+    "Here you go buddy:\n\n",
+    {
+     "type": "link",
+     "text": "https://pitchbook.com/profiles/company/454950-82#overview"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Here you go buddy:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://pitchbook.com/profiles/company/454950-82#overview"
+    }
+   ]
+  },
+  {
+   "id": 277904,
+   "type": "message",
+   "date": "2024-01-14T05:30:49",
+   "date_unixtime": "1705185049",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "reply_to_message_id": 277903,
+   "text": "Yeah that one",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah that one"
+    }
+   ]
+  },
+  {
+   "id": 277905,
+   "type": "message",
+   "date": "2024-01-14T05:31:07",
+   "date_unixtime": "1705185067",
+   "edited": "2024-01-14T05:31:47",
+   "edited_unixtime": "1705185107",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "Thanks for reposting it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks for reposting it"
+    }
+   ]
+  },
+  {
+   "id": 277906,
+   "type": "message",
+   "date": "2024-01-14T05:32:04",
+   "date_unixtime": "1705185124",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "Maybe there's some information that hasnt been updated",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Maybe there's some information that hasnt been updated"
+    }
+   ]
+  },
+  {
+   "id": 277907,
+   "type": "message",
+   "date": "2024-01-14T05:32:26",
+   "date_unixtime": "1705185146",
+   "from": "Queryin",
+   "from_id": "user1835223623",
+   "text": "But most of it is latest updates",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But most of it is latest updates"
+    }
+   ]
+  },
+  {
+   "id": 277908,
+   "type": "message",
+   "date": "2024-01-14T05:33:53",
+   "date_unixtime": "1705185233",
+   "edited": "2024-01-14T05:38:31",
+   "edited_unixtime": "1705185511",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277906,
+   "text": "I'm actually waiting for Serbian new year which is in ~30mins, but I took a quick look and it does need some small updates, but it's mostly okay 😉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm actually waiting for Serbian new year which is in ~30mins, but I took a quick look and it does need some small updates, but it's mostly okay 😉"
+    }
+   ]
+  },
+  {
+   "id": 277909,
+   "type": "message",
+   "date": "2024-01-14T05:36:35",
+   "date_unixtime": "1705185395",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277901,
+   "text": "52 employees?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "52 employees?"
+    }
+   ]
+  },
+  {
+   "id": 277910,
+   "type": "message",
+   "date": "2024-01-14T05:36:47",
+   "date_unixtime": "1705185407",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "text": "Really that much?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Really that much?"
+    }
+   ]
+  },
+  {
+   "id": 277911,
+   "type": "message",
+   "date": "2024-01-14T05:37:15",
+   "date_unixtime": "1705185435",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277909,
+   "text": "I don't have the exact number but we have a couple more full time employees since that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I don't have the exact number but we have a couple more full time employees since that"
+    }
+   ]
+  },
+  {
+   "id": 277912,
+   "type": "message",
+   "date": "2024-01-14T05:37:16",
+   "date_unixtime": "1705185436",
+   "edited": "2024-01-14T05:37:23",
+   "edited_unixtime": "1705185443",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 277908,
+   "text": "Happy new year then 🎉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy new year then 🎉"
+    }
+   ]
+  },
+  {
+   "id": 277913,
+   "type": "message",
+   "date": "2024-01-14T05:37:31",
+   "date_unixtime": "1705185451",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 277912,
+   "text": "Thank you 🎇",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank you 🎇"
     }
    ]
   }
