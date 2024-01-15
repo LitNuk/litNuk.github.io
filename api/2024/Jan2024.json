@@ -26294,10 +26294,400 @@
    ]
   },
   {
-   "id": 278012,
+   "id": 278013,
    "type": "message",
-   "date": "2024-01-15T14:49:31",
-   "date_unixtime": "1705304971",
+   "date": "2024-01-15T16:19:52",
+   "date_unixtime": "1705310392",
+   "edited": "2024-01-15T16:22:55",
+   "edited_unixtime": "1705310575",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    " Do you plan to add H1 amount to the Dashboard, where all  assets amounts and rates are displayed?\n\nI see no reason not to show this info in the \"Earn daily interest\" section (which is called \"All assets\" in the Mobile App) 🙂️️️️️️"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": " Do you plan to add H1 amount to the Dashboard, where all  assets amounts and rates are displayed?\n\nI see no reason not to show this info in the \"Earn daily interest\" section (which is called \"All assets\" in the Mobile App) 🙂️️️️️️"
+    }
+   ]
+  },
+  {
+   "id": 278014,
+   "type": "message",
+   "date": "2024-01-15T16:24:45",
+   "date_unixtime": "1705310685",
+   "edited": "2024-01-15T16:24:54",
+   "edited_unixtime": "1705310694",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 278013,
+   "text": "Hello, naming accross all platforms will be the same this week. We plan to add H1 to Dashboard, when it has $ value.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello, naming accross all platforms will be the same this week. We plan to add H1 to Dashboard, when it has $ value."
+    }
+   ]
+  },
+  {
+   "id": 278015,
+   "type": "message",
+   "date": "2024-01-15T16:27:26",
+   "date_unixtime": "1705310846",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "reply_to_message_id": 278014,
+   "text": "Thanks, great to hear that 🙂️️\n\nBTW there's a small glitch on the \"Transactions\" screen.\nIf you select \"Type: Redeem\" and \"Status: Pending\", it still displays transactions with any status (Pending, Canceled, Completed), and not only Pending ones 🙂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks, great to hear that 🙂️️\n\nBTW there's a small glitch on the \"Transactions\" screen.\nIf you select \"Type: Redeem\" and \"Status: Pending\", it still displays transactions with any status (Pending, Canceled, Completed), and not only Pending ones 🙂"
+    }
+   ]
+  },
+  {
+   "id": 278016,
+   "type": "message",
+   "date": "2024-01-15T16:28:59",
+   "date_unixtime": "1705310939",
+   "edited": "2024-01-15T16:29:10",
+   "edited_unixtime": "1705310950",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 278015,
+   "text": "Yes, we are aware of this, thnks.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, we are aware of this, thnks."
+    }
+   ]
+  },
+  {
+   "id": 278018,
+   "type": "message",
+   "date": "2024-01-15T18:49:32",
+   "date_unixtime": "1705319372",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278019,
+   "type": "message",
+   "date": "2024-01-15T19:38:02",
+   "date_unixtime": "1705322282",
+   "from": "Peter Covac",
+   "from_id": "user1828676236",
+   "reply_to_message_id": 278006,
+   "text": "The core team between Haven1 and Yield are separate except for community managers as you, correct?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The core team between Haven1 and Yield are separate except for community managers as you, correct?"
+    }
+   ]
+  },
+  {
+   "id": 278020,
+   "type": "message",
+   "date": "2024-01-15T19:41:23",
+   "date_unixtime": "1705322483",
+   "edited": "2024-01-15T19:55:45",
+   "edited_unixtime": "1705323345",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278019,
+   "text": "Yes, that’s very well said.\n\nAnd Indeed, we, community managers, help with Haven1 plus also a few marketing/support team members do it as well.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, that’s very well said.\n\nAnd Indeed, we, community managers, help with Haven1 plus also a few marketing/support team members do it as well."
+    }
+   ]
+  },
+  {
+   "id": 278021,
+   "type": "message",
+   "date": "2024-01-15T19:42:43",
+   "date_unixtime": "1705322563",
+   "edited": "2024-01-15T19:43:36",
+   "edited_unixtime": "1705322616",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "text": "Yield App as a company was always giving team members wide possibilities to learn new things and help with variety of tasks so that’s great opportunity to learn from each other!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yield App as a company was always giving team members wide possibilities to learn new things and help with variety of tasks so that’s great opportunity to learn from each other!"
+    }
+   ]
+  },
+  {
+   "id": 278022,
+   "type": "message",
+   "date": "2024-01-15T19:53:46",
+   "date_unixtime": "1705323226",
+   "from": "Peter Covac",
+   "from_id": "user1828676236",
+   "text": "On my transaction page,, the H1 reward status is still pending even for last week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "On my transaction page,, the H1 reward status is still pending even for last week"
+    }
+   ]
+  },
+  {
+   "id": 278023,
+   "type": "message",
+   "date": "2024-01-15T19:53:53",
+   "date_unixtime": "1705323233",
+   "from": "Peter Covac",
+   "from_id": "user1828676236",
+   "text": "Is that normal?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is that normal?"
+    }
+   ]
+  },
+  {
+   "id": 278024,
+   "type": "message",
+   "date": "2024-01-15T19:54:24",
+   "date_unixtime": "1705323264",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": "Yes, its currently showing up like that but it will be edited very soon",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, its currently showing up like that but it will be edited very soon"
+    }
+   ]
+  },
+  {
+   "id": 278025,
+   "type": "message",
+   "date": "2024-01-15T19:55:32",
+   "date_unixtime": "1705323332",
+   "from": "Peter Covac",
+   "from_id": "user1828676236",
+   "reply_to_message_id": 278024,
+   "text": "Ok then 👌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok then 👌"
+    }
+   ]
+  },
+  {
+   "id": 278026,
+   "type": "message",
+   "date": "2024-01-15T19:56:06",
+   "date_unixtime": "1705323366",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 278025,
+   "text": "Mind sending me a DM btw?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mind sending me a DM btw?"
+    }
+   ]
+  },
+  {
+   "id": 278027,
+   "type": "message",
+   "date": "2024-01-15T20:00:03",
+   "date_unixtime": "1705323603",
+   "from": "Peter Covac",
+   "from_id": "user1828676236",
+   "reply_to_message_id": 278026,
+   "text": "Everything is good,,I'm just a little too long not to check my Yield account",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Everything is good,,I'm just a little too long not to check my Yield account"
+    }
+   ]
+  },
+  {
+   "id": 278028,
+   "type": "message",
+   "date": "2024-01-15T20:00:09",
+   "date_unixtime": "1705323609",
+   "from": "Peter Covac",
+   "from_id": "user1828676236",
+   "text": "Its no big deal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Its no big deal"
+    }
+   ]
+  },
+  {
+   "id": 278029,
+   "type": "message",
+   "date": "2024-01-15T20:49:32",
+   "date_unixtime": "1705326572",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
