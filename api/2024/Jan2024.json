@@ -26343,6 +26343,8 @@
    "type": "message",
    "date": "2024-01-15T16:27:26",
    "date_unixtime": "1705310846",
+   "edited": "2024-01-15T22:29:04",
+   "edited_unixtime": "1705332544",
    "from": "🦥",
    "from_id": "user5076989060",
    "reply_to_message_id": 278014,
@@ -26688,6 +26690,538 @@
    "type": "message",
    "date": "2024-01-15T20:49:32",
    "date_unixtime": "1705326572",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278030,
+   "type": "message",
+   "date": "2024-01-15T21:38:36",
+   "date_unixtime": "1705329516",
+   "edited": "2024-01-15T22:00:18",
+   "edited_unixtime": "1705330818",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 277975,
+   "text": "YLD will become a stable coin or what?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "YLD will become a stable coin or what?"
+    }
+   ]
+  },
+  {
+   "id": 278031,
+   "type": "message",
+   "date": "2024-01-15T21:39:01",
+   "date_unixtime": "1705329541",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "text": "Can someone point me to this AMA",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can someone point me to this AMA"
+    }
+   ]
+  },
+  {
+   "id": 278032,
+   "type": "message",
+   "date": "2024-01-15T21:39:40",
+   "date_unixtime": "1705329580",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 278030,
+   "text": "No, YLD will stay the utility token of Yield App",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No, YLD will stay the utility token of Yield App"
+    }
+   ]
+  },
+  {
+   "id": 278033,
+   "type": "message",
+   "date": "2024-01-15T21:41:40",
+   "date_unixtime": "1705329700",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 278032,
+   "text": "Whats that about then?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whats that about then?"
+    }
+   ]
+  },
+  {
+   "id": 278034,
+   "type": "message",
+   "date": "2024-01-15T21:41:56",
+   "date_unixtime": "1705329716",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "text": "Can you provide me the link to that AMA?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can you provide me the link to that AMA?"
+    }
+   ]
+  },
+  {
+   "id": 278035,
+   "type": "message",
+   "date": "2024-01-15T21:50:21",
+   "date_unixtime": "1705330221",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278034,
+   "text": [
+    "Hey! Please find the link below:\n",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/live/7RcQ6UYfv_k?si=CVI42hQ2NgDkXIRK"
+    },
+    "\n\nYou can start from 17:00. 🙂 There is also related blog article here:\n",
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/whats-ahead-for-yld-and-h1"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey! Please find the link below:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/live/7RcQ6UYfv_k?si=CVI42hQ2NgDkXIRK"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nYou can start from 17:00. 🙂 There is also related blog article here:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/blog/whats-ahead-for-yld-and-h1"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 278036,
+   "type": "message",
+   "date": "2024-01-15T22:01:23",
+   "date_unixtime": "1705330883",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 278035,
+   "text": "Thanks, I'll watch it now",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks, I'll watch it now"
+    }
+   ]
+  },
+  {
+   "id": 278037,
+   "type": "message",
+   "date": "2024-01-15T22:04:23",
+   "date_unixtime": "1705331063",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278036,
+   "photo": "photos/photo_4257@15-01-2024_22-04-23.jpg",
+   "width": 1280,
+   "height": 611,
+   "text": [
+    "My pleasure. Utility of YLD token is also explained here in a very simple way: ",
+    {
+     "type": "link",
+     "text": "https://yield.app/earn"
+    },
+    " \n\nThis table explains it best: what you can actually gain thanks to different Tiers."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "My pleasure. Utility of YLD token is also explained here in a very simple way: "
+    },
+    {
+     "type": "link",
+     "text": "https://yield.app/earn"
+    },
+    {
+     "type": "plain",
+     "text": " \n\nThis table explains it best: what you can actually gain thanks to different Tiers."
+    }
+   ]
+  },
+  {
+   "id": 278038,
+   "type": "message",
+   "date": "2024-01-15T22:15:16",
+   "date_unixtime": "1705331716",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278030,
+   "text": "I think he was talkin' about the first Community Call earlier this month. If I remember correctly, the initial one wasn't recorded, and honestly, I totally forgot what was discussed 😔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think he was talkin' about the first Community Call earlier this month. If I remember correctly, the initial one wasn't recorded, and honestly, I totally forgot what was discussed 😔"
+    }
+   ]
+  },
+  {
+   "id": 278039,
+   "type": "message",
+   "date": "2024-01-15T22:15:56",
+   "date_unixtime": "1705331756",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Maybe tied to this question:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Maybe tied to this question:"
+    }
+   ]
+  },
+  {
+   "id": 278040,
+   "type": "message",
+   "date": "2024-01-15T22:16:12",
+   "date_unixtime": "1705331772",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/276761"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/276761"
+    }
+   ]
+  },
+  {
+   "id": 278041,
+   "type": "message",
+   "date": "2024-01-15T22:17:06",
+   "date_unixtime": "1705331826",
+   "from": "Wolf Wolf",
+   "from_id": "user5032635572",
+   "reply_to_message_id": 277977,
+   "text": "What's the link to the trade talk group?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What's the link to the trade talk group?"
+    }
+   ]
+  },
+  {
+   "id": 278042,
+   "type": "message",
+   "date": "2024-01-15T22:17:29",
+   "date_unixtime": "1705331849",
+   "edited": "2024-01-15T22:18:16",
+   "edited_unixtime": "1705331896",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 278041,
+   "text": [
+    "This:\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/YLDtrading"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/YLDtrading"
+    }
+   ]
+  },
+  {
+   "id": 278043,
+   "type": "message",
+   "date": "2024-01-15T22:18:02",
+   "date_unixtime": "1705331882",
+   "from": "Wolf Wolf",
+   "from_id": "user5032635572",
+   "reply_to_message_id": 278042,
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 278044,
+   "type": "message",
+   "date": "2024-01-15T22:20:40",
+   "date_unixtime": "1705332040",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278040,
+   "text": [
+    "Community Call recap:\n\n",
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/276869"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Community Call recap:\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/276869"
+    }
+   ]
+  },
+  {
+   "id": 278045,
+   "type": "message",
+   "date": "2024-01-15T22:20:50",
+   "date_unixtime": "1705332050",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "...and",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "...and"
+    }
+   ]
+  },
+  {
+   "id": 278046,
+   "type": "message",
+   "date": "2024-01-15T22:21:13",
+   "date_unixtime": "1705332073",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/276871"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/yieldapp/276871"
+    }
+   ]
+  },
+  {
+   "id": 278047,
+   "type": "message",
+   "date": "2024-01-15T22:28:05",
+   "date_unixtime": "1705332485",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 278038,
+   "text": "Thanks for the info",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks for the info"
+    }
+   ]
+  },
+  {
+   "id": 278048,
+   "type": "message",
+   "date": "2024-01-15T22:30:23",
+   "date_unixtime": "1705332623",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278047,
+   "file": "video_files/chuck-norris-nice.mp4",
+   "thumbnail": "video_files/chuck-norris-nice.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 190,
+   "height": 142,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 278049,
+   "type": "message",
+   "date": "2024-01-15T22:49:32",
+   "date_unixtime": "1705333772",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
