@@ -30780,6 +30780,8 @@
    "type": "message",
    "date": "2024-01-17T07:37:52",
    "date_unixtime": "1705451872",
+   "edited": "2024-01-17T17:54:13",
+   "edited_unixtime": "1705488853",
    "from": "Anthony Sanchez [Won't DM First]",
    "from_id": "user371341877",
    "reply_to_message_id": 278210,
@@ -31775,6 +31777,675 @@
     {
      "type": "plain",
      "text": "Ok then"
+    }
+   ]
+  },
+  {
+   "id": 278247,
+   "type": "message",
+   "date": "2024-01-17T16:49:32",
+   "date_unixtime": "1705484972",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278248,
+   "type": "message",
+   "date": "2024-01-17T17:10:53",
+   "date_unixtime": "1705486253",
+   "edited": "2024-01-17T17:11:30",
+   "edited_unixtime": "1705486290",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "reply_to_message_id": 278015,
+   "text": "And this one is fixed as well 👏🚀️️️️️️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And this one is fixed as well 👏🚀️️️️️️"
+    }
+   ]
+  },
+  {
+   "id": 278249,
+   "type": "message",
+   "date": "2024-01-17T17:13:03",
+   "date_unixtime": "1705486383",
+   "from": "Roberto Lopes",
+   "from_id": "user5523089744",
+   "reply_to_message_id": 278225,
+   "text": "This.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This."
+    }
+   ]
+  },
+  {
+   "id": 278250,
+   "type": "message",
+   "date": "2024-01-17T17:15:18",
+   "date_unixtime": "1705486518",
+   "edited": "2024-01-17T17:15:35",
+   "edited_unixtime": "1705486535",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 278249,
+   "text": "In progress",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In progress"
+    }
+   ]
+  },
+  {
+   "id": 278251,
+   "type": "message",
+   "date": "2024-01-17T17:17:11",
+   "date_unixtime": "1705486631",
+   "edited": "2024-01-17T17:38:24",
+   "edited_unixtime": "1705487904",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 278214,
+   "text": "In fact this happens with a lot of things in V3 - failure to refresh asset balances after a state change\n\nI’ve seen it frequently after redeeming to wallet etc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In fact this happens with a lot of things in V3 - failure to refresh asset balances after a state change\n\nI’ve seen it frequently after redeeming to wallet etc"
+    }
+   ]
+  },
+  {
+   "id": 278252,
+   "type": "message",
+   "date": "2024-01-17T17:19:23",
+   "date_unixtime": "1705486763",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "reply_to_message_id": 278251,
+   "text": "You need to manually reload the page to see the new balances when this happens",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You need to manually reload the page to see the new balances when this happens"
+    }
+   ]
+  },
+  {
+   "id": 278253,
+   "type": "message",
+   "date": "2024-01-17T17:40:27",
+   "date_unixtime": "1705488027",
+   "from": "Cirrus",
+   "from_id": "user1061167710",
+   "text": "It’s actually a very basic bug that should never appear in a release product",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It’s actually a very basic bug that should never appear in a release product"
+    }
+   ]
+  },
+  {
+   "id": 278254,
+   "type": "message",
+   "date": "2024-01-17T17:42:27",
+   "date_unixtime": "1705488147",
+   "edited": "2024-01-17T17:44:32",
+   "edited_unixtime": "1705488272",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 278253,
+   "text": "We will check places on web app for this case.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We will check places on web app for this case."
+    }
+   ]
+  },
+  {
+   "id": 278255,
+   "type": "message",
+   "date": "2024-01-17T17:47:53",
+   "date_unixtime": "1705488473",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "photo": "photos/photo_4263@17-01-2024_17-47-53.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": [
+    "🧠💡 Let’s test how much you know about the Bitcoin halving. \n\n😎 We’re giving away cool swag to the first five repliers with full scores 👇\n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/YieldApp/status/1747570648921375016"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🧠💡 Let’s test how much you know about the Bitcoin halving. \n\n😎 We’re giving away cool swag to the first five repliers with full scores 👇\n"
+    },
+    {
+     "type": "link",
+     "text": "https://twitter.com/YieldApp/status/1747570648921375016"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 278256,
+   "type": "message",
+   "date": "2024-01-17T17:52:50",
+   "date_unixtime": "1705488770",
+   "from": "m'ra",
+   "from_id": "user1919114410",
+   "reply_to_message_id": 278239,
+   "text": "no specific theme?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "no specific theme?"
+    }
+   ]
+  },
+  {
+   "id": 278257,
+   "type": "message",
+   "date": "2024-01-17T17:53:13",
+   "date_unixtime": "1705488793",
+   "from": "m'ra",
+   "from_id": "user1919114410",
+   "text": "that means we can ask anything?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "that means we can ask anything?"
+    }
+   ]
+  },
+  {
+   "id": 278258,
+   "type": "message",
+   "date": "2024-01-17T17:57:00",
+   "date_unixtime": "1705489020",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278257,
+   "text": "Well, it would be great if those questions will be related to Haven1 at least partially. 😜 Akash has a wide knowledge but he is best if it comes to Haven1!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Well, it would be great if those questions will be related to Haven1 at least partially. 😜 Akash has a wide knowledge but he is best if it comes to Haven1!"
+    }
+   ]
+  },
+  {
+   "id": 278259,
+   "type": "message",
+   "date": "2024-01-17T18:00:49",
+   "date_unixtime": "1705489249",
+   "from": "m'ra",
+   "from_id": "user1919114410",
+   "reply_to_message_id": 278258,
+   "text": "what i mean is not limited to, for example just testnet things",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "what i mean is not limited to, for example just testnet things"
+    }
+   ]
+  },
+  {
+   "id": 278260,
+   "type": "message",
+   "date": "2024-01-17T18:14:55",
+   "date_unixtime": "1705490095",
+   "from": "Carl",
+   "from_id": "user1866951406",
+   "reply_to_message_id": 278255,
+   "text": "I'm in",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm in"
+    }
+   ]
+  },
+  {
+   "id": 278261,
+   "type": "message",
+   "date": "2024-01-17T18:17:37",
+   "date_unixtime": "1705490257",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278259,
+   "text": "I can assure you Akash will be more than happy to answer ANYTHING related to Haven1. 🙂 Testnet or not, he is ready. 🙂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I can assure you Akash will be more than happy to answer ANYTHING related to Haven1. 🙂 Testnet or not, he is ready. 🙂"
+    }
+   ]
+  },
+  {
+   "id": 278262,
+   "type": "message",
+   "date": "2024-01-17T18:36:04",
+   "date_unixtime": "1705491364",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "text": "Szymon 🔫 please make sure my 2 questions for tomorrow's AMA are read during the AMA",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Szymon 🔫 please make sure my 2 questions for tomorrow's AMA are read during the AMA"
+    }
+   ]
+  },
+  {
+   "id": 278263,
+   "type": "message",
+   "date": "2024-01-17T18:36:44",
+   "date_unixtime": "1705491404",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "text": "I've already posted them in haven1 group using the usual hashtag 🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I've already posted them in haven1 group using the usual hashtag 🙏"
+    }
+   ]
+  },
+  {
+   "id": 278264,
+   "type": "message",
+   "date": "2024-01-17T18:37:23",
+   "date_unixtime": "1705491443",
+   "from": "W4lker",
+   "from_id": "user1253733622",
+   "text": "Feedback: when closing the app, it auto-switches to lifetime earnings on the dashboard page. I would prefer it to stay on whichever interval i set it to (like daily)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Feedback: when closing the app, it auto-switches to lifetime earnings on the dashboard page. I would prefer it to stay on whichever interval i set it to (like daily)"
+    }
+   ]
+  },
+  {
+   "id": 278265,
+   "type": "message",
+   "date": "2024-01-17T18:38:14",
+   "date_unixtime": "1705491494",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278262,
+   "text": "Will do, thanks!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Will do, thanks!"
+    }
+   ]
+  },
+  {
+   "id": 278266,
+   "type": "message",
+   "date": "2024-01-17T18:38:23",
+   "date_unixtime": "1705491503",
+   "edited": "2024-01-17T18:38:36",
+   "edited_unixtime": "1705491516",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278264,
+   "text": "I’ll share with the team.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I’ll share with the team."
+    }
+   ]
+  },
+  {
+   "id": 278267,
+   "type": "message",
+   "date": "2024-01-17T18:42:16",
+   "date_unixtime": "1705491736",
+   "edited": "2024-01-17T19:50:59",
+   "edited_unixtime": "1705495859",
+   "from": "W4lker",
+   "from_id": "user1253733622",
+   "text": "Also, personally id prefer if both, total account value and earnings are both visible without swiping. The fields seem big enough to fit both on top next to each other. Swiping horizontally on a mobile app always feels icky",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Also, personally id prefer if both, total account value and earnings are both visible without swiping. The fields seem big enough to fit both on top next to each other. Swiping horizontally on a mobile app always feels icky"
+    }
+   ]
+  },
+  {
+   "id": 278268,
+   "type": "message",
+   "date": "2024-01-17T18:43:36",
+   "date_unixtime": "1705491816",
+   "edited": "2024-01-17T18:45:02",
+   "edited_unixtime": "1705491902",
+   "from": "W4lker",
+   "from_id": "user1253733622",
+   "photo": "photos/photo_4264@17-01-2024_18-43-36.jpg",
+   "width": 597,
+   "height": 1280,
+   "text": "Same with the Yield Pro panels. Looks weird to have them halfway in the frame and then swipe a little",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Same with the Yield Pro panels. Looks weird to have them halfway in the frame and then swipe a little"
+    }
+   ]
+  },
+  {
+   "id": 278269,
+   "type": "message",
+   "date": "2024-01-17T18:49:32",
+   "date_unixtime": "1705492172",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
     }
    ]
   }
