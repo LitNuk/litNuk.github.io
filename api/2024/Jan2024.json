@@ -30677,6 +30677,1106 @@
      "text": "Ah, I totally blinked and skipped over this post, even though my chat was right there below it! 🙈"
     }
    ]
+  },
+  {
+   "id": 278204,
+   "type": "message",
+   "date": "2024-01-17T03:35:21",
+   "date_unixtime": "1705437321",
+   "edited": "2024-01-17T05:14:35",
+   "edited_unixtime": "1705443275",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "I was thinking, wouldn't it be cool if we could whip up a Gift Card on the Yield App? You know, pick any of the assets hanging out in our account and turn it into a sweet gift. The lucky recipients could cash it in on their Yield App account, and voila! The assets we chose for the Gift Card magically appear in their account 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I was thinking, wouldn't it be cool if we could whip up a Gift Card on the Yield App? You know, pick any of the assets hanging out in our account and turn it into a sweet gift. The lucky recipients could cash it in on their Yield App account, and voila! The assets we chose for the Gift Card magically appear in their account 😅"
+    }
+   ]
+  },
+  {
+   "id": 278205,
+   "type": "message",
+   "date": "2024-01-17T03:36:13",
+   "date_unixtime": "1705437373",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Or at least this only applies to YLD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Or at least this only applies to YLD"
+    }
+   ]
+  },
+  {
+   "id": 278206,
+   "type": "message",
+   "date": "2024-01-17T03:37:05",
+   "date_unixtime": "1705437425",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": [
+    "Can that actually happen? ",
+    {
+     "type": "custom_emoji",
+     "text": "🤔",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can that actually happen? "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤔",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 278207,
+   "type": "message",
+   "date": "2024-01-17T03:53:23",
+   "date_unixtime": "1705438403",
+   "edited": "2024-01-17T13:42:33",
+   "edited_unixtime": "1705473753",
+   "from": "Mercy",
+   "from_id": "user1365058133",
+   "reply_to_message_id": 278204,
+   "text": "That sounds like a great idea tbh, I can buy a friend into  the platform 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "That sounds like a great idea tbh, I can buy a friend into  the platform 😂"
+    }
+   ]
+  },
+  {
+   "id": 278210,
+   "type": "message",
+   "date": "2024-01-17T07:35:56",
+   "date_unixtime": "1705451756",
+   "from": "Coly",
+   "from_id": "user956299890",
+   "text": "My referral box is empty and greyed out .. Is that normal,?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "My referral box is empty and greyed out .. Is that normal,?"
+    }
+   ]
+  },
+  {
+   "id": 278211,
+   "type": "message",
+   "date": "2024-01-17T07:37:52",
+   "date_unixtime": "1705451872",
+   "from": "Anthony Sanchez [Won't DM First]",
+   "from_id": "user371341877",
+   "reply_to_message_id": 278210,
+   "text": [
+    "Hi! Please refer to the following article if you're from the UK\n\n",
+    {
+     "type": "link",
+     "text": "https://support.yield.app/hc/en-us/articles/19154202101649-New-FCA-regulation-FAQ-for-UK-customers"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi! Please refer to the following article if you're from the UK\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://support.yield.app/hc/en-us/articles/19154202101649-New-FCA-regulation-FAQ-for-UK-customers"
+    }
+   ]
+  },
+  {
+   "id": 278213,
+   "type": "message",
+   "date": "2024-01-17T10:49:32",
+   "date_unixtime": "1705463372",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278214,
+   "type": "message",
+   "date": "2024-01-17T11:45:52",
+   "date_unixtime": "1705466752",
+   "from": "Nick Dilman",
+   "from_id": "user1981392406",
+   "text": "In the desktop app, my locked H1 reward sometimes isnt updated even if I switch between navigation menus.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In the desktop app, my locked H1 reward sometimes isnt updated even if I switch between navigation menus."
+    }
+   ]
+  },
+  {
+   "id": 278215,
+   "type": "message",
+   "date": "2024-01-17T11:46:30",
+   "date_unixtime": "1705466790",
+   "from": "Nick Dilman",
+   "from_id": "user1981392406",
+   "text": "The only way that works is to refresh the page.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The only way that works is to refresh the page."
+    }
+   ]
+  },
+  {
+   "id": 278216,
+   "type": "message",
+   "date": "2024-01-17T11:46:43",
+   "date_unixtime": "1705466803",
+   "from": "Nick Dilman",
+   "from_id": "user1981392406",
+   "text": "Is there someone facing the same?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is there someone facing the same?"
+    }
+   ]
+  },
+  {
+   "id": 278217,
+   "type": "message",
+   "date": "2024-01-17T11:46:46",
+   "date_unixtime": "1705466806",
+   "edited": "2024-01-17T11:47:41",
+   "edited_unixtime": "1705466861",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "reply_to_message_id": 278215,
+   "text": "Noted, Nick!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Noted, Nick!"
+    }
+   ]
+  },
+  {
+   "id": 278218,
+   "type": "message",
+   "date": "2024-01-17T11:46:53",
+   "date_unixtime": "1705466813",
+   "from": "Sapta",
+   "from_id": "user472069309",
+   "text": "Good morning by the way!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning by the way!"
+    }
+   ]
+  },
+  {
+   "id": 278219,
+   "type": "message",
+   "date": "2024-01-17T11:47:37",
+   "date_unixtime": "1705466857",
+   "from": "Nick Dilman",
+   "from_id": "user1981392406",
+   "reply_to_message_id": 278218,
+   "text": "Morning",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning"
+    }
+   ]
+  },
+  {
+   "id": 278220,
+   "type": "message",
+   "date": "2024-01-17T11:48:45",
+   "date_unixtime": "1705466925",
+   "from": "8964",
+   "from_id": "user1252681551",
+   "text": "Morning",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning"
+    }
+   ]
+  },
+  {
+   "id": 278221,
+   "type": "message",
+   "date": "2024-01-17T12:28:59",
+   "date_unixtime": "1705469339",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "reply_to_message_id": 278204,
+   "text": "Sending it to people not currently using the Yield app will compel them to register and become new users",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sending it to people not currently using the Yield app will compel them to register and become new users"
+    }
+   ]
+  },
+  {
+   "id": 278222,
+   "type": "message",
+   "date": "2024-01-17T12:29:47",
+   "date_unixtime": "1705469387",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "But we're uncertain about whether regulation permit this or not",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But we're uncertain about whether regulation permit this or not"
+    }
+   ]
+  },
+  {
+   "id": 278223,
+   "type": "message",
+   "date": "2024-01-17T12:37:11",
+   "date_unixtime": "1705469831",
+   "from": "Bubbles",
+   "from_id": "user2014150066",
+   "reply_to_message_id": 278221,
+   "text": "Yea lets not go that route. There are a billion scam/meme coins doing this already. Sounds like a fun idea but very niche",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yea lets not go that route. There are a billion scam/meme coins doing this already. Sounds like a fun idea but very niche"
+    }
+   ]
+  },
+  {
+   "id": 278224,
+   "type": "message",
+   "date": "2024-01-17T12:49:32",
+   "date_unixtime": "1705470572",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278225,
+   "type": "message",
+   "date": "2024-01-17T13:43:31",
+   "date_unixtime": "1705473811",
+   "edited": "2024-01-17T14:03:46",
+   "edited_unixtime": "1705475026",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": [
+    "GM All ",
+    {
+     "type": "custom_emoji",
+     "text": "☕️",
+     "document_id": "stickers/AnimatedSticker (9).tgs"
+    },
+    " V3: An option in the account to hide Yield Pro on the dashboard because I don't use the service?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "GM All "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "☕️",
+     "document_id": "stickers/AnimatedSticker (9).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " V3: An option in the account to hide Yield Pro on the dashboard because I don't use the service?"
+    }
+   ]
+  },
+  {
+   "id": 278226,
+   "type": "message",
+   "date": "2024-01-17T13:44:29",
+   "date_unixtime": "1705473869",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "photo": "photos/photo_4260@17-01-2024_13-44-29.jpg",
+   "width": 1280,
+   "height": 476,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 278227,
+   "type": "message",
+   "date": "2024-01-17T13:45:01",
+   "date_unixtime": "1705473901",
+   "edited": "2024-01-17T14:03:50",
+   "edited_unixtime": "1705475030",
+   "from": "iDGeek",
+   "from_id": "user1304595199",
+   "text": "I'm sick of seeing this every day right in the middle of my screen 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm sick of seeing this every day right in the middle of my screen 😅"
+    }
+   ]
+  },
+  {
+   "id": 278228,
+   "type": "message",
+   "date": "2024-01-17T13:46:58",
+   "date_unixtime": "1705474018",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278222,
+   "text": "Yeah, I'm kinda skeptical about it! \nEven for the longest time, only folks in the U.S. seemed to be into it - merchants and consumers alike",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah, I'm kinda skeptical about it! \nEven for the longest time, only folks in the U.S. seemed to be into it - merchants and consumers alike"
+    }
+   ]
+  },
+  {
+   "id": 278229,
+   "type": "message",
+   "date": "2024-01-17T13:47:57",
+   "date_unixtime": "1705474077",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278223,
+   "text": "Ah, you've got this down pat! I had no clue \"they\" were even into that kinda stuff 😢",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ah, you've got this down pat! I had no clue \"they\" were even into that kinda stuff 😢"
+    }
+   ]
+  },
+  {
+   "id": 278230,
+   "type": "message",
+   "date": "2024-01-17T13:48:17",
+   "date_unixtime": "1705474097",
+   "edited": "2024-01-17T14:07:58",
+   "edited_unixtime": "1705475278",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "text": "Good morning, Yielders! ☕️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning, Yielders! ☕️"
+    }
+   ]
+  },
+  {
+   "id": 278231,
+   "type": "message",
+   "date": "2024-01-17T14:13:47",
+   "date_unixtime": "1705475627",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "text": "The community call will be tomorrow, right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The community call will be tomorrow, right?"
+    }
+   ]
+  },
+  {
+   "id": 278233,
+   "type": "message",
+   "date": "2024-01-17T14:31:14",
+   "date_unixtime": "1705476674",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "photo": "photos/photo_4261@17-01-2024_14-31-14.jpg",
+   "width": 474,
+   "height": 180,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 278234,
+   "type": "message",
+   "date": "2024-01-17T14:34:07",
+   "date_unixtime": "1705476847",
+   "edited": "2024-01-17T14:34:48",
+   "edited_unixtime": "1705476888",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "text": "„Hide 0 balance” is working in the web app - thanks Team! 🎉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "„Hide 0 balance” is working in the web app - thanks Team! 🎉"
+    }
+   ]
+  },
+  {
+   "id": 278235,
+   "type": "message",
+   "date": "2024-01-17T14:36:46",
+   "date_unixtime": "1705477006",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "reply_to_message_id": 278231,
+   "text": "There might be an official announcement at a later time",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "There might be an official announcement at a later time"
+    }
+   ]
+  },
+  {
+   "id": 278236,
+   "type": "message",
+   "date": "2024-01-17T14:37:08",
+   "date_unixtime": "1705477028",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "text": "But it seems that just last week, an AMA session took place",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But it seems that just last week, an AMA session took place"
+    }
+   ]
+  },
+  {
+   "id": 278237,
+   "type": "message",
+   "date": "2024-01-17T14:37:46",
+   "date_unixtime": "1705477066",
+   "edited": "2024-01-17T15:25:21",
+   "edited_unixtime": "1705479921",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 278236,
+   "text": "Tomorrow on Haven1 official group.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tomorrow on Haven1 official group."
+    }
+   ]
+  },
+  {
+   "id": 278238,
+   "type": "message",
+   "date": "2024-01-17T14:49:33",
+   "date_unixtime": "1705477773",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278239,
+   "type": "message",
+   "date": "2024-01-17T15:15:29",
+   "date_unixtime": "1705479329",
+   "edited": "2024-01-17T15:25:27",
+   "edited_unixtime": "1705479927",
+   "from": "YIELD App — News channel",
+   "from_id": "channel1289941747",
+   "forwarded_from": "YIELD App — News channel",
+   "saved_from": "YIELD App — News channel",
+   "photo": "photos/photo_4262@17-01-2024_15-15-29.jpg",
+   "width": 1280,
+   "height": 720,
+   "text": [
+    "☎️ The Haven1 hotline is set to bling!\n\nDon’t miss tomorrow’s LIVE call with ",
+    {
+     "type": "mention",
+     "text": "@AkashHaven1"
+    },
+    " in Haven1's official Telegram group.\n\nDrop your questions in the comments below 👇"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "☎️ The Haven1 hotline is set to bling!\n\nDon’t miss tomorrow’s LIVE call with "
+    },
+    {
+     "type": "mention",
+     "text": "@AkashHaven1"
+    },
+    {
+     "type": "plain",
+     "text": " in Haven1's official Telegram group.\n\nDrop your questions in the comments below 👇"
+    }
+   ]
+  },
+  {
+   "id": 278240,
+   "type": "message",
+   "date": "2024-01-17T15:24:33",
+   "date_unixtime": "1705479873",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "reply_to_message_id": 278237,
+   "text": "Nice 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nice 👍"
+    }
+   ]
+  },
+  {
+   "id": 278241,
+   "type": "message",
+   "date": "2024-01-17T15:24:56",
+   "date_unixtime": "1705479896",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "reply_to_message_id": 278239,
+   "text": "This hasn't been posted in Haven1 group",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This hasn't been posted in Haven1 group"
+    }
+   ]
+  },
+  {
+   "id": 278242,
+   "type": "message",
+   "date": "2024-01-17T15:32:09",
+   "date_unixtime": "1705480329",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 278239,
+   "text": "Should we drop our questions here or there in the haven1 group?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Should we drop our questions here or there in the haven1 group?"
+    }
+   ]
+  },
+  {
+   "id": 278243,
+   "type": "message",
+   "date": "2024-01-17T15:56:58",
+   "date_unixtime": "1705481818",
+   "from": "Grigory | Yield App",
+   "from_id": "user923226821",
+   "text": "Either one 👍🏼",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Either one 👍🏼"
+    }
+   ]
+  },
+  {
+   "id": 278244,
+   "type": "message",
+   "date": "2024-01-17T15:59:50",
+   "date_unixtime": "1705481990",
+   "from": "Szymon [never DM first]",
+   "from_id": "user1594002366",
+   "reply_to_message_id": 278242,
+   "text": [
+    "In case somebody is still not in Haven1 group: ",
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In case somebody is still not in Haven1 group: "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Haven1_Official"
+    }
+   ]
+  },
+  {
+   "id": 278245,
+   "type": "message",
+   "date": "2024-01-17T16:05:14",
+   "date_unixtime": "1705482314",
+   "from": "Pete | Yield App",
+   "from_id": "user1679436831",
+   "reply_to_message_id": 278242,
+   "text": "Feel free to drop them into Haven1 ^",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Feel free to drop them into Haven1 ^"
+    }
+   ]
+  },
+  {
+   "id": 278246,
+   "type": "message",
+   "date": "2024-01-17T16:24:27",
+   "date_unixtime": "1705483467",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 278245,
+   "text": "Ok then",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok then"
+    }
+   ]
   }
  ]
 }
