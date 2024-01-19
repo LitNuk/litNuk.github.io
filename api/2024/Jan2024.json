@@ -10697,8 +10697,8 @@
    "date_unixtime": "1704371748",
    "from": "Nenad R. [won't DM first]",
    "from_id": "user594375172",
-   "file": "stickers/sticker.webp",
-   "thumbnail": "stickers/sticker.webp_thumb.jpg",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
    "media_type": "sticker",
    "sticker_emoji": "🤗",
    "width": 512,
@@ -11913,8 +11913,8 @@
    "date_unixtime": "1704455216",
    "from": "🦥",
    "from_id": "user5076989060",
-   "file": "(File not included. Change data exporting settings to download.)",
-   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "file": "files/IMG_4EE5B62DC1E2-1.jpeg",
+   "thumbnail": "files/IMG_4EE5B62DC1E2-1.jpeg_thumb.jpg",
    "mime_type": "image/jpeg",
    "width": 482,
    "height": 1042,
@@ -14569,8 +14569,8 @@
    "date_unixtime": "1704741420",
    "from": "Jim Karta",
    "from_id": "user5006165600",
-   "file": "stickers/AnimatedSticker (4).tgs",
-   "thumbnail": "stickers/AnimatedSticker.tgs_thumb.jpg",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
    "media_type": "sticker",
    "sticker_emoji": "🧑‍💻",
    "width": 512,
@@ -20711,7 +20711,7 @@
     {
      "type": "custom_emoji",
      "text": "😎",
-     "document_id": "stickers/AnimatedSticker (5).tgs"
+     "document_id": "stickers/AnimatedSticker (4).tgs"
     },
     ""
    ],
@@ -20723,7 +20723,7 @@
     {
      "type": "custom_emoji",
      "text": "😎",
-     "document_id": "stickers/AnimatedSticker (5).tgs"
+     "document_id": "stickers/AnimatedSticker (4).tgs"
     },
     {
      "type": "plain",
@@ -21214,7 +21214,7 @@
     {
      "type": "custom_emoji",
      "text": "😝",
-     "document_id": "stickers/AnimatedSticker (6).tgs"
+     "document_id": "stickers/AnimatedSticker (5).tgs"
     },
     ""
    ],
@@ -21226,7 +21226,7 @@
     {
      "type": "custom_emoji",
      "text": "😝",
-     "document_id": "stickers/AnimatedSticker (6).tgs"
+     "document_id": "stickers/AnimatedSticker (5).tgs"
     },
     {
      "type": "plain",
@@ -24791,8 +24791,8 @@
    "date_unixtime": "1705223625",
    "from": "Szymon [never DM first]",
    "from_id": "user1594002366",
-   "file": "stickers/sticker (1).webp",
-   "thumbnail": "stickers/sticker (1).webp_thumb.jpg",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
    "media_type": "sticker",
    "sticker_emoji": "👋",
    "width": 512,
@@ -25475,7 +25475,7 @@
     {
      "type": "custom_emoji",
      "text": "🥂",
-     "document_id": "stickers/AnimatedSticker (7).tgs"
+     "document_id": "stickers/AnimatedSticker (6).tgs"
     },
     ""
    ],
@@ -25487,7 +25487,7 @@
     {
      "type": "custom_emoji",
      "text": "🥂",
-     "document_id": "stickers/AnimatedSticker (7).tgs"
+     "document_id": "stickers/AnimatedSticker (6).tgs"
     },
     {
      "type": "plain",
@@ -30528,7 +30528,7 @@
     {
      "type": "custom_emoji",
      "text": "🤔",
-     "document_id": "stickers/AnimatedSticker (8).tgs"
+     "document_id": "stickers/AnimatedSticker (7).tgs"
     },
     ""
    ],
@@ -30540,7 +30540,7 @@
     {
      "type": "custom_emoji",
      "text": "🤔",
-     "document_id": "stickers/AnimatedSticker (8).tgs"
+     "document_id": "stickers/AnimatedSticker (7).tgs"
     },
     {
      "type": "plain",
@@ -31083,7 +31083,7 @@
     {
      "type": "custom_emoji",
      "text": "☕️",
-     "document_id": "stickers/AnimatedSticker (9).tgs"
+     "document_id": "stickers/AnimatedSticker (8).tgs"
     },
     " V3: An option in the account to hide Yield Pro on the dashboard because I don't use the service?"
    ],
@@ -31095,7 +31095,7 @@
     {
      "type": "custom_emoji",
      "text": "☕️",
-     "document_id": "stickers/AnimatedSticker (9).tgs"
+     "document_id": "stickers/AnimatedSticker (8).tgs"
     },
     {
      "type": "plain",
@@ -33098,7 +33098,7 @@
     {
      "type": "custom_emoji",
      "text": "🙏",
-     "document_id": "stickers/AnimatedSticker (10).tgs"
+     "document_id": "stickers/AnimatedSticker (9).tgs"
     },
     ""
    ],
@@ -33118,7 +33118,7 @@
     {
      "type": "custom_emoji",
      "text": "🙏",
-     "document_id": "stickers/AnimatedSticker (10).tgs"
+     "document_id": "stickers/AnimatedSticker (9).tgs"
     },
     {
      "type": "plain",
@@ -35870,10 +35870,357 @@
    "text_entities": []
   },
   {
-   "id": 278419,
+   "id": 278421,
    "type": "message",
-   "date": "2024-01-19T14:49:32",
-   "date_unixtime": "1705650572",
+   "date": "2024-01-19T15:05:53",
+   "date_unixtime": "1705651553",
+   "edited": "2024-01-19T15:20:41",
+   "edited_unixtime": "1705652441",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "photo": "photos/photo_4261@19-01-2024_15-05-53.jpg",
+   "width": 424,
+   "height": 917,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    " Happy Friday to the Dev Team 😃 \n\nI have a bug report 🐛 It's related to how FaceID works in iOS App (Build 389).\n\nContext: I changed my email address twice. My first email was k***@***.com, my second was g***@***.com, and my most recent one is s***@***.com.\n\n1. I tap on the FaceID icon.\n2. A popup is shown, displaying a list of my previous email addresses that I used on the platform in the past.\n3. If I select one of my previous email addresses, I am not authenticated (similarly to when I enter bad email/password).\n4. Only when I select my most recent email address, I am authenticated into the app and taken to the dashboard.\n\nCould this be fixed so that I am automatically authenticated with FaceID without any Popup, even though I changed my email in the past?\n\nI tried to fix it in multiple ways: disabled/enabled FaceID, reinstalled the app, removed the app - reset the device - installed the app, cleared web cache etc. Nothing worked. So I guess it must be fixed in the app itself."
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@andreimko"
+    },
+    {
+     "type": "plain",
+     "text": " Happy Friday to the Dev Team 😃 \n\nI have a bug report 🐛 It's related to how FaceID works in iOS App (Build 389).\n\nContext: I changed my email address twice. My first email was k***@***.com, my second was g***@***.com, and my most recent one is s***@***.com.\n\n1. I tap on the FaceID icon.\n2. A popup is shown, displaying a list of my previous email addresses that I used on the platform in the past.\n3. If I select one of my previous email addresses, I am not authenticated (similarly to when I enter bad email/password).\n4. Only when I select my most recent email address, I am authenticated into the app and taken to the dashboard.\n\nCould this be fixed so that I am automatically authenticated with FaceID without any Popup, even though I changed my email in the past?\n\nI tried to fix it in multiple ways: disabled/enabled FaceID, reinstalled the app, removed the app - reset the device - installed the app, cleared web cache etc. Nothing worked. So I guess it must be fixed in the app itself."
+    }
+   ]
+  },
+  {
+   "id": 278422,
+   "type": "message",
+   "date": "2024-01-19T15:12:02",
+   "date_unixtime": "1705651922",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "reply_to_message_id": 278413,
+   "text": "Such a nice info ❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Such a nice info ❤️"
+    }
+   ]
+  },
+  {
+   "id": 278423,
+   "type": "message",
+   "date": "2024-01-19T15:12:25",
+   "date_unixtime": "1705651945",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "text": "Yes, I have read a bit about testnet",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, I have read a bit about testnet"
+    }
+   ]
+  },
+  {
+   "id": 278424,
+   "type": "message",
+   "date": "2024-01-19T15:13:15",
+   "date_unixtime": "1705651995",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "text": "I might join testnet later since I dont fully understand yet what this project is about",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I might join testnet later since I dont fully understand yet what this project is about"
+    }
+   ]
+  },
+  {
+   "id": 278425,
+   "type": "message",
+   "date": "2024-01-19T15:13:56",
+   "date_unixtime": "1705652036",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "text": "I mean something like usecase, tokenomic, etc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I mean something like usecase, tokenomic, etc"
+    }
+   ]
+  },
+  {
+   "id": 278426,
+   "type": "message",
+   "date": "2024-01-19T15:14:58",
+   "date_unixtime": "1705652098",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "text": "Yesterday I joined Haven1 telegram group just because of the community call banner that was posted here",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yesterday I joined Haven1 telegram group just because of the community call banner that was posted here"
+    }
+   ]
+  },
+  {
+   "id": 278427,
+   "type": "message",
+   "date": "2024-01-19T15:17:27",
+   "date_unixtime": "1705652247",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278424,
+   "text": "Just give it a go and practice with TestNet – that's the easiest way to grasp Haven1! Reading while experimenting is the real deal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Just give it a go and practice with TestNet – that's the easiest way to grasp Haven1! Reading while experimenting is the real deal"
+    }
+   ]
+  },
+  {
+   "id": 278428,
+   "type": "message",
+   "date": "2024-01-19T15:24:55",
+   "date_unixtime": "1705652695",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 278427,
+   "text": "And the incentive is the best part 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "And the incentive is the best part 😁"
+    }
+   ]
+  },
+  {
+   "id": 278429,
+   "type": "message",
+   "date": "2024-01-19T15:28:35",
+   "date_unixtime": "1705652915",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278428,
+   "file": "video_files/cheers-salud.mp4",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 180,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 278430,
+   "type": "message",
+   "date": "2024-01-19T15:34:54",
+   "date_unixtime": "1705653294",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 278421,
+   "text": "It reads from Device Face ID settings",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It reads from Device Face ID settings"
+    }
+   ]
+  },
+  {
+   "id": 278431,
+   "type": "message",
+   "date": "2024-01-19T15:36:04",
+   "date_unixtime": "1705653364",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "reply_to_message_id": 278430,
+   "text": "How can this be fixed, then? Like I said, I tried many things, including disabling/enabling FaceID for YA app, and nothing worked.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How can this be fixed, then? Like I said, I tried many things, including disabling/enabling FaceID for YA app, and nothing worked."
+    }
+   ]
+  },
+  {
+   "id": 278432,
+   "type": "message",
+   "date": "2024-01-19T15:38:10",
+   "date_unixtime": "1705653490",
+   "from": "Andrei M",
+   "from_id": "user607669927",
+   "reply_to_message_id": 278431,
+   "text": "Last solution I found was device factory reset. I changed my phone, and with phone sync emails came over, we will research more how to delete from face id memory",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Last solution I found was device factory reset. I changed my phone, and with phone sync emails came over, we will research more how to delete from face id memory"
+    }
+   ]
+  },
+  {
+   "id": 278433,
+   "type": "message",
+   "date": "2024-01-19T15:41:13",
+   "date_unixtime": "1705653673",
+   "edited": "2024-01-19T15:56:14",
+   "edited_unixtime": "1705654574",
+   "from": "🦥",
+   "from_id": "user5076989060",
+   "reply_to_message_id": 278432,
+   "text": "OK, thanks for looking into it 🙂 I hope this is resolved, as I'd really like to avoid factory reset 😄",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "OK, thanks for looking into it 🙂 I hope this is resolved, as I'd really like to avoid factory reset 😄"
+    }
+   ]
+  },
+  {
+   "id": 278434,
+   "type": "message",
+   "date": "2024-01-19T15:51:20",
+   "date_unixtime": "1705654280",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "reply_to_message_id": 278427,
+   "text": "Sounds like a pretty good idea",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sounds like a pretty good idea"
+    }
+   ]
+  },
+  {
+   "id": 278435,
+   "type": "message",
+   "date": "2024-01-19T15:52:06",
+   "date_unixtime": "1705654326",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "text": "Ok then, since this is friday and I have much free time, I will join right now",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok then, since this is friday and I have much free time, I will join right now"
+    }
+   ]
+  },
+  {
+   "id": 278436,
+   "type": "message",
+   "date": "2024-01-19T15:52:54",
+   "date_unixtime": "1705654374",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "text": "With your referral code that you post there in Haven1 group, of course 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "With your referral code that you post there in Haven1 group, of course 👍"
+    }
+   ]
+  },
+  {
+   "id": 278437,
+   "type": "message",
+   "date": "2024-01-19T15:53:21",
+   "date_unixtime": "1705654401",
+   "from": "Harlan Jim",
+   "from_id": "user6250889539",
+   "reply_to_message_id": 278428,
+   "text": "💸 😃",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💸 😃"
+    }
+   ]
+  },
+  {
+   "id": 278438,
+   "type": "message",
+   "date": "2024-01-19T15:55:35",
+   "date_unixtime": "1705654535",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278436,
+   "file": "video_files/video.mp4",
+   "thumbnail": "video_files/video.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 500,
+   "height": 500,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 278439,
+   "type": "message",
+   "date": "2024-01-19T16:34:10",
+   "date_unixtime": "1705656850",
+   "from": "Leena Lilly",
+   "from_id": "user6856659085",
+   "text": "Hello community\nWho I can connect to for the business deal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello community\nWho I can connect to for the business deal"
+    }
+   ]
+  },
+  {
+   "id": 278440,
+   "type": "message",
+   "date": "2024-01-19T16:38:06",
+   "date_unixtime": "1705657086",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 278439,
+   "text": [
+    "Hi Leena, you can send an email to ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    " and our team will look into your offer"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi Leena, you can send an email to "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": " and our team will look into your offer"
+    }
+   ]
+  },
+  {
+   "id": 278441,
+   "type": "message",
+   "date": "2024-01-19T16:49:33",
+   "date_unixtime": "1705657773",
    "from": "Yield App bot",
    "from_id": "user6147387490",
    "text": [
@@ -36018,6 +36365,363 @@
     {
      "type": "mention",
      "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278442,
+   "type": "message",
+   "date": "2024-01-19T16:56:44",
+   "date_unixtime": "1705658204",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "text": "What is the Haven1 grants program?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is the Haven1 grants program?"
+    }
+   ]
+  },
+  {
+   "id": 278443,
+   "type": "message",
+   "date": "2024-01-19T16:56:51",
+   "date_unixtime": "1705658211",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://twitter.com/Haven1official/status/1748271927230091592"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://twitter.com/Haven1official/status/1748271927230091592"
+    }
+   ]
+  },
+  {
+   "id": 278444,
+   "type": "message",
+   "date": "2024-01-19T16:58:04",
+   "date_unixtime": "1705658284",
+   "from": "Blunt",
+   "from_id": "user1981956046",
+   "reply_to_message_id": 278442,
+   "text": "Hey, why not just toss the question into the Haven1 group? 😉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey, why not just toss the question into the Haven1 group? 😉"
+    }
+   ]
+  },
+  {
+   "id": 278445,
+   "type": "message",
+   "date": "2024-01-19T16:58:56",
+   "date_unixtime": "1705658336",
+   "from": "Hay.",
+   "from_id": "user1932790020",
+   "reply_to_message_id": 278444,
+   "text": "Ah yes, thats right, I forgot",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ah yes, thats right, I forgot"
+    }
+   ]
+  },
+  {
+   "id": 278446,
+   "type": "message",
+   "date": "2024-01-19T16:59:03",
+   "date_unixtime": "1705658343",
+   "edited": "2024-01-19T17:12:08",
+   "edited_unixtime": "1705659128",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "reply_to_message_id": 278444,
+   "text": "Thanks Blunt, that would be much appreciated",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks Blunt, that would be much appreciated"
+    }
+   ]
+  },
+  {
+   "id": 278447,
+   "type": "message",
+   "date": "2024-01-19T17:00:04",
+   "date_unixtime": "1705658404",
+   "from": "Nenad R. [won't DM first]",
+   "from_id": "user594375172",
+   "text": [
+    "I'm waiting for you in ",
+    {
+     "type": "mention",
+     "text": "@haven1_official"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@HayPro"
+    },
+    " 😉"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm waiting for you in "
+    },
+    {
+     "type": "mention",
+     "text": "@haven1_official"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@HayPro"
+    },
+    {
+     "type": "plain",
+     "text": " 😉"
+    }
+   ]
+  },
+  {
+   "id": 278448,
+   "type": "message",
+   "date": "2024-01-19T18:07:51",
+   "date_unixtime": "1705662471",
+   "from": "Specific RPC",
+   "from_id": "user1709775640",
+   "text": "Is Yield App Labs still active?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is Yield App Labs still active?"
+    }
+   ]
+  },
+  {
+   "id": 278449,
+   "type": "message",
+   "date": "2024-01-19T18:08:53",
+   "date_unixtime": "1705662533",
+   "from": "Specific RPC",
+   "from_id": "user1709775640",
+   "text": "I mean active in all research and development activities",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I mean active in all research and development activities"
+    }
+   ]
+  },
+  {
+   "id": 278450,
+   "type": "message",
+   "date": "2024-01-19T18:17:56",
+   "date_unixtime": "1705663076",
+   "from": "Bobby Foster",
+   "from_id": "user1824376621",
+   "reply_to_message_id": 278448,
+   "text": "Isn't Haven1 the outcome of their research n development efforts",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Isn't Haven1 the outcome of their research n development efforts"
+    }
+   ]
+  },
+  {
+   "id": 278451,
+   "type": "message",
+   "date": "2024-01-19T18:49:31",
+   "date_unixtime": "1705664971",
+   "from": "Yield App bot",
+   "from_id": "user6147387490",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    " Our admins are listed below and are here to help:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    "\n- ",
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on ",
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    "\n\nFor partnership/listing/marketing offers:\n\n- ",
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    "\n\n- ",
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    "\n\nJoin the Yield Pro Simulator group:\n\n- ",
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Please BEWARE of scammers and impersonators!"
+    },
+    {
+     "type": "plain",
+     "text": " Our admins are listed below and are here to help:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sapta"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@rRrsSt"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@sasquish"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@szymonb_pl"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nAdditionally, our admins WILL NOT send you a personal message first, request for payment, asking for your password, randomly offer support or any other suspicious stuff.\n\nIf in doubt, please submit a ticket on "
+    },
+    {
+     "type": "text_link",
+     "text": "support.yield.app",
+     "href": "https://support.yield.app/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFor partnership/listing/marketing offers:\n\n- "
+    },
+    {
+     "type": "email",
+     "text": "proposals@yield.app"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "No offers will be entertained via Telegram."
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Join the Haven1 Official Group:"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@Haven1_Official"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nJoin the Yield Pro Simulator group:\n\n- "
+    },
+    {
+     "type": "mention",
+     "text": "@YieldPro"
+    }
+   ]
+  },
+  {
+   "id": 278452,
+   "type": "message",
+   "date": "2024-01-19T19:40:05",
+   "date_unixtime": "1705668005",
+   "from": "Specific RPC",
+   "from_id": "user1709775640",
+   "reply_to_message_id": 278450,
+   "text": "You right, I didnt think that way",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You right, I didnt think that way"
+    }
+   ]
+  },
+  {
+   "id": 278453,
+   "type": "message",
+   "date": "2024-01-19T19:41:10",
+   "date_unixtime": "1705668070",
+   "from": "Specific RPC",
+   "from_id": "user1709775640",
+   "text": "I only looked at their twitter activity that ended last jun",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I only looked at their twitter activity that ended last jun"
     }
    ]
   }
