@@ -29021,6 +29021,8 @@
    "type": "message",
    "date": "2024-04-09T15:19:28",
    "date_unixtime": "1712650768",
+   "edited": "2024-04-09T20:39:54",
+   "edited_unixtime": "1712669994",
    "from": "GIXUE EVERYWHERE",
    "from_id": "user5006280927",
    "text": [
@@ -29619,6 +29621,8 @@
    "type": "message",
    "date": "2024-04-09T17:49:31",
    "date_unixtime": "1712659771",
+   "edited": "2024-04-09T19:31:17",
+   "edited_unixtime": "1712665877",
    "from": "GIXUE EVERYWHERE",
    "from_id": "user5006280927",
    "reply_to_message_id": 58529,
@@ -30158,6 +30162,8 @@
    "type": "message",
    "date": "2024-04-09T18:26:33",
    "date_unixtime": "1712661993",
+   "edited": "2024-04-09T19:05:13",
+   "edited_unixtime": "1712664313",
    "from": "Blunt",
    "from_id": "user1981956046",
    "text": "I've noticed there's a strong connection between Me3 and Haven1! - Is there a chance they could collaborate on something together?",
@@ -30173,6 +30179,8 @@
    "type": "message",
    "date": "2024-04-09T18:27:08",
    "date_unixtime": "1712662028",
+   "edited": "2024-04-09T19:05:18",
+   "edited_unixtime": "1712664318",
    "from": "Blunt",
    "from_id": "user1981956046",
    "text": "I caught ME3 AMA session with Jeff Owens 😁",
@@ -30332,6 +30340,8 @@
    "type": "message",
    "date": "2024-04-09T18:44:38",
    "date_unixtime": "1712663078",
+   "edited": "2024-04-09T19:05:04",
+   "edited_unixtime": "1712664304",
    "from": "Ian Eister",
    "from_id": "user1746041360",
    "reply_to_message_id": 58557,
@@ -30348,6 +30358,8 @@
    "type": "message",
    "date": "2024-04-09T18:45:06",
    "date_unixtime": "1712663106",
+   "edited": "2024-04-09T19:05:02",
+   "edited_unixtime": "1712664302",
    "from": "Ian Eister",
    "from_id": "user1746041360",
    "text": "I can say you guys chose the right team to work with 👍",
@@ -30375,10 +30387,288 @@
    ]
   },
   {
-   "id": 58565,
+   "id": 58567,
    "type": "message",
-   "date": "2024-04-09T19:00:14",
-   "date_unixtime": "1712664014",
+   "date": "2024-04-09T19:05:17",
+   "date_unixtime": "1712664317",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "forwarded_from": "Me3 Official Announcement",
+   "photo": "photos/photo_147@09-04-2024_17-59-55.jpg",
+   "width": 1280,
+   "height": 627,
+   "text": [
+    {
+     "type": "bold",
+     "text": "Hey "
+    },
+    {
+     "type": "text_link",
+     "text": "@Me3Wallet",
+     "href": "https://twitter.com/Me3wallet?s=09"
+    },
+    {
+     "type": "bold",
+     "text": " community!"
+    },
+    " 🎉\n\nWe've got some thrilling news to share with you all!\n\n🚀 Get ready, because the ",
+    {
+     "type": "bold",
+     "text": "long-awaited Hype Pool is finally set to be officially launched next week!"
+    },
+    " That's right, the countdown has begun for the unveiling of this exciting platform.\n\n",
+    {
+     "type": "bold",
+     "text": "Stake your $Me3 tokens in any of the available 20+ pools and show your support for your favorite teams and players"
+    },
+    " in an Epic Showdown Of Dedication & Strategy. 🎮💰\n\nKeep your fingers crossed and get ready to embark on an exciting new adventure with us! 🤞\n\n🌐 ",
+    {
+     "type": "bold",
+     "text": "Stay Connected "
+    },
+    "\nFor the latest updates and developments, join us on our official channels: \n\n",
+    {
+     "type": "custom_emoji",
+     "text": "✈️",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Telegram",
+     "href": "https://t.me/Me3Official"
+    },
+    "| ",
+    {
+     "type": "custom_emoji",
+     "text": "✖️",
+     "document_id": "stickers/sticker (1).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Twitter",
+     "href": "https://twitter.com/Me3wallet?s=09"
+    },
+    "| 🌐",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://me3.io/"
+    },
+    "| ",
+    {
+     "type": "custom_emoji",
+     "text": "🐙",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "GitHub",
+     "href": "https://github.com/me3wallet/Me3Keysmith"
+    },
+    "| ",
+    {
+     "type": "custom_emoji",
+     "text": "🎮",
+     "document_id": "stickers/sticker (3).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Discord",
+     "href": "https://discord.gg/jDQYXyHzKX"
+    },
+    "\n\n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/Me3wallet/status/1777652399806837139?t=BGoTLbwMw3zQ1S_cTymU0w&s=19"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Hey "
+    },
+    {
+     "type": "text_link",
+     "text": "@Me3Wallet",
+     "href": "https://twitter.com/Me3wallet?s=09"
+    },
+    {
+     "type": "bold",
+     "text": " community!"
+    },
+    {
+     "type": "plain",
+     "text": " 🎉\n\nWe've got some thrilling news to share with you all!\n\n🚀 Get ready, because the "
+    },
+    {
+     "type": "bold",
+     "text": "long-awaited Hype Pool is finally set to be officially launched next week!"
+    },
+    {
+     "type": "plain",
+     "text": " That's right, the countdown has begun for the unveiling of this exciting platform.\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "Stake your $Me3 tokens in any of the available 20+ pools and show your support for your favorite teams and players"
+    },
+    {
+     "type": "plain",
+     "text": " in an Epic Showdown Of Dedication & Strategy. 🎮💰\n\nKeep your fingers crossed and get ready to embark on an exciting new adventure with us! 🤞\n\n🌐 "
+    },
+    {
+     "type": "bold",
+     "text": "Stay Connected "
+    },
+    {
+     "type": "plain",
+     "text": "\nFor the latest updates and developments, join us on our official channels: \n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✈️",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Telegram",
+     "href": "https://t.me/Me3Official"
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✖️",
+     "document_id": "stickers/sticker (1).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Twitter",
+     "href": "https://twitter.com/Me3wallet?s=09"
+    },
+    {
+     "type": "plain",
+     "text": "| 🌐"
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://me3.io/"
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🐙",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "GitHub",
+     "href": "https://github.com/me3wallet/Me3Keysmith"
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎮",
+     "document_id": "stickers/sticker (3).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Discord",
+     "href": "https://discord.gg/jDQYXyHzKX"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://twitter.com/Me3wallet/status/1777652399806837139?t=BGoTLbwMw3zQ1S_cTymU0w&s=19"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 58568,
+   "type": "message",
+   "date": "2024-04-09T19:19:15",
+   "date_unixtime": "1712665155",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58563,
+   "text": "We have the best team with combined 60 years of experience. With a massive track record of building ecosystem. So don't worry we'll do everything to meet our community expectations.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We have the best team with combined 60 years of experience. With a massive track record of building ecosystem. So don't worry we'll do everything to meet our community expectations."
+    }
+   ]
+  },
+  {
+   "id": 58569,
+   "type": "message",
+   "date": "2024-04-09T19:31:49",
+   "date_unixtime": "1712665909",
+   "from": "Alvaro Tenorio",
+   "from_id": "user6124832158",
+   "reply_to_message_id": 58567,
+   "text": "🔥",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🔥"
+    }
+   ]
+  },
+  {
+   "id": 58570,
+   "type": "message",
+   "date": "2024-04-09T19:33:10",
+   "date_unixtime": "1712665990",
+   "from": "Conan Fern",
+   "from_id": "user6196976043",
+   "reply_to_message_id": 58567,
+   "text": "Looking forward with it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Looking forward with it"
+    }
+   ]
+  },
+  {
+   "id": 58571,
+   "type": "message",
+   "date": "2024-04-09T19:56:37",
+   "date_unixtime": "1712667397",
+   "from": "Josh",
+   "from_id": "user363501664",
+   "reply_to_message_id": 58567,
+   "text": "Hype Pool is launching before TGE?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hype Pool is launching before TGE?"
+    }
+   ]
+  },
+  {
+   "id": 58572,
+   "type": "message",
+   "date": "2024-04-09T20:00:15",
+   "date_unixtime": "1712667615",
    "from": "Meela",
    "from_id": "user6772818072",
    "text": [
@@ -30401,6 +30691,224 @@
     {
      "type": "plain",
      "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
+    }
+   ]
+  },
+  {
+   "id": 58573,
+   "type": "message",
+   "date": "2024-04-09T20:01:04",
+   "date_unixtime": "1712667664",
+   "edited": "2024-04-09T20:01:16",
+   "edited_unixtime": "1712667676",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58571,
+   "text": "Yes, correct.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, correct."
+    }
+   ]
+  },
+  {
+   "id": 58574,
+   "type": "message",
+   "date": "2024-04-09T20:12:57",
+   "date_unixtime": "1712668377",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "reply_to_message_id": 58539,
+   "text": "Wow, this is amazing news!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Wow, this is amazing news!"
+    }
+   ]
+  },
+  {
+   "id": 58575,
+   "type": "message",
+   "date": "2024-04-09T20:13:21",
+   "date_unixtime": "1712668401",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "text": "I can't wait to  join the Hype Pool for the Epic Showdown Of Dedication & Strategy.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I can't wait to  join the Hype Pool for the Epic Showdown Of Dedication & Strategy."
+    }
+   ]
+  },
+  {
+   "id": 58576,
+   "type": "message",
+   "date": "2024-04-09T20:13:37",
+   "date_unixtime": "1712668417",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😍",
+   "width": 506,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58577,
+   "type": "message",
+   "date": "2024-04-09T20:13:38",
+   "date_unixtime": "1712668418",
+   "edited": "2024-04-09T20:17:03",
+   "edited_unixtime": "1712668623",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "💃",
+   "duration_seconds": 3,
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58578,
+   "type": "message",
+   "date": "2024-04-09T20:19:09",
+   "date_unixtime": "1712668749",
+   "from": "TheDuke",
+   "from_id": "user1289770153",
+   "text": "Is the launchpad on Yield App going to be held this month?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is the launchpad on Yield App going to be held this month?"
+    }
+   ]
+  },
+  {
+   "id": 58579,
+   "type": "message",
+   "date": "2024-04-09T20:19:35",
+   "date_unixtime": "1712668775",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58578,
+   "text": "expected on this month",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "expected on this month"
+    }
+   ]
+  },
+  {
+   "id": 58580,
+   "type": "message",
+   "date": "2024-04-09T20:22:58",
+   "date_unixtime": "1712668978",
+   "from": "Albert",
+   "from_id": "user6533989990",
+   "reply_to_message_id": 58539,
+   "text": "Now one week more 😇\nCount me in for staking my tokens and joining in on the fun! Let the games begin!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Now one week more 😇\nCount me in for staking my tokens and joining in on the fun! Let the games begin!"
+    }
+   ]
+  },
+  {
+   "id": 58581,
+   "type": "message",
+   "date": "2024-04-09T20:25:24",
+   "date_unixtime": "1712669124",
+   "from": "LM DAO",
+   "from_id": "user5595586152",
+   "text": "Thrilled to hear about the launch of the Hype Pool 🤩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thrilled to hear about the launch of the Hype Pool 🤩"
+    }
+   ]
+  },
+  {
+   "id": 58582,
+   "type": "message",
+   "date": "2024-04-09T20:29:41",
+   "date_unixtime": "1712669381",
+   "from": "Alvaro Tenorio",
+   "from_id": "user6124832158",
+   "reply_to_message_id": 58539,
+   "text": "Most awaited Hype Pool is launching next week. I'm ready with my funds. 🎮",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Most awaited Hype Pool is launching next week. I'm ready with my funds. 🎮"
+    }
+   ]
+  },
+  {
+   "id": 58583,
+   "type": "message",
+   "date": "2024-04-09T20:37:16",
+   "date_unixtime": "1712669836",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58578,
+   "text": "Exactly, it is planned for this month. Please stay tuned and keep your eyes peeled on our announcement channel.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Exactly, it is planned for this month. Please stay tuned and keep your eyes peeled on our announcement channel."
+    }
+   ]
+  },
+  {
+   "id": 58584,
+   "type": "message",
+   "date": "2024-04-09T20:37:56",
+   "date_unixtime": "1712669876",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    {
+     "type": "plain",
+     "text": ""
     }
    ]
   }
