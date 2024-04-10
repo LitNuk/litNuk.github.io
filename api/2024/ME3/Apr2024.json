@@ -32725,36 +32725,6 @@
    ]
   },
   {
-   "id": 58702,
-   "type": "message",
-   "date": "2024-04-10T09:00:16",
-   "date_unixtime": "1712714416",
-   "from": "Meela",
-   "from_id": "user6772818072",
-   "text": [
-    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at ",
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    "\n\n‼️  Stay alert, Stay vigilant ‼️"
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at "
-    },
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
-    }
-   ]
-  },
-  {
    "id": 58703,
    "type": "message",
    "date": "2024-04-10T09:14:00",
@@ -32796,6 +32766,427 @@
     {
      "type": "plain",
      "text": "Missed the trustswap launch, making sure I will not miss yield app launch 👌🏼"
+    }
+   ]
+  },
+  {
+   "id": 58706,
+   "type": "message",
+   "date": "2024-04-10T09:31:03",
+   "date_unixtime": "1712716263",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😍",
+   "width": 512,
+   "height": 361,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58708,
+   "type": "message",
+   "date": "2024-04-10T09:32:40",
+   "date_unixtime": "1712716360",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "reply_to_message_id": 58705,
+   "text": [
+    "Then you should  keep an eye on announcement channel ",
+    {
+     "type": "custom_emoji",
+     "text": "👀",
+     "document_id": "stickers/AnimatedSticker (23).tgs"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Then you should  keep an eye on announcement channel "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👀",
+     "document_id": "stickers/AnimatedSticker (23).tgs"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 58709,
+   "type": "message",
+   "date": "2024-04-10T09:32:59",
+   "date_unixtime": "1712716379",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Morning everyone",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning everyone"
+    }
+   ]
+  },
+  {
+   "id": 58710,
+   "type": "message",
+   "date": "2024-04-10T09:33:51",
+   "date_unixtime": "1712716431",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Which region is Me3's target market focused on?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which region is Me3's target market focused on?"
+    }
+   ]
+  },
+  {
+   "id": 58711,
+   "type": "message",
+   "date": "2024-04-10T09:34:00",
+   "date_unixtime": "1712716440",
+   "from": "LM DAO",
+   "from_id": "user5595586152",
+   "text": "Morning folks 🌅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning folks 🌅"
+    }
+   ]
+  },
+  {
+   "id": 58712,
+   "type": "message",
+   "date": "2024-04-10T09:34:36",
+   "date_unixtime": "1712716476",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "I saw on Me3 website that there are several asian brands that are Me3 partners",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I saw on Me3 website that there are several asian brands that are Me3 partners"
+    }
+   ]
+  },
+  {
+   "id": 58713,
+   "type": "message",
+   "date": "2024-04-10T09:34:47",
+   "date_unixtime": "1712716487",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "I'm asian btw",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm asian btw"
+    }
+   ]
+  },
+  {
+   "id": 58714,
+   "type": "message",
+   "date": "2024-04-10T09:34:47",
+   "date_unixtime": "1712716487",
+   "from": "LM DAO",
+   "from_id": "user5595586152",
+   "reply_to_message_id": 58710,
+   "text": "Prediction Market and it is global 😀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Prediction Market and it is global 😀"
+    }
+   ]
+  },
+  {
+   "id": 58715,
+   "type": "message",
+   "date": "2024-04-10T09:34:58",
+   "date_unixtime": "1712716498",
+   "from": "LM DAO",
+   "from_id": "user5595586152",
+   "text": "I think me3 is global",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think me3 is global"
+    }
+   ]
+  },
+  {
+   "id": 58716,
+   "type": "message",
+   "date": "2024-04-10T09:36:09",
+   "date_unixtime": "1712716569",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Thought there will be some specific region",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thought there will be some specific region"
+    }
+   ]
+  },
+  {
+   "id": 58717,
+   "type": "message",
+   "date": "2024-04-10T09:36:15",
+   "date_unixtime": "1712716575",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "At least at the start",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "At least at the start"
+    }
+   ]
+  },
+  {
+   "id": 58718,
+   "type": "message",
+   "date": "2024-04-10T09:40:55",
+   "date_unixtime": "1712716855",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "reply_to_message_id": 58715,
+   "text": "Me too",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Me too"
+    }
+   ]
+  },
+  {
+   "id": 58719,
+   "type": "message",
+   "date": "2024-04-10T09:42:24",
+   "date_unixtime": "1712716944",
+   "edited": "2024-04-10T09:46:40",
+   "edited_unixtime": "1712717200",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58710,
+   "text": "we've aimed at a global market, especially Asian and Europe",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "we've aimed at a global market, especially Asian and Europe"
+    }
+   ]
+  },
+  {
+   "id": 58720,
+   "type": "message",
+   "date": "2024-04-10T09:46:07",
+   "date_unixtime": "1712717167",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "reply_to_message_id": 58719,
+   "text": "Sounds good",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sounds good"
+    }
+   ]
+  },
+  {
+   "id": 58721,
+   "type": "message",
+   "date": "2024-04-10T09:46:30",
+   "date_unixtime": "1712717190",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "text": "Both are the safest zones for crypto 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Both are the safest zones for crypto 😁"
+    }
+   ]
+  },
+  {
+   "id": 58722,
+   "type": "message",
+   "date": "2024-04-10T09:47:24",
+   "date_unixtime": "1712717244",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58721,
+   "text": "ahahaha if we want to accommodate American markets, then the safest route would be South America and Middle American Archipelago",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahahaha if we want to accommodate American markets, then the safest route would be South America and Middle American Archipelago"
+    }
+   ]
+  },
+  {
+   "id": 58723,
+   "type": "message",
+   "date": "2024-04-10T09:48:23",
+   "date_unixtime": "1712717303",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "need lots work to be done before we could accommodating North American",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "need lots work to be done before we could accommodating North American"
+    }
+   ]
+  },
+  {
+   "id": 58724,
+   "type": "message",
+   "date": "2024-04-10T09:48:57",
+   "date_unixtime": "1712717337",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "especially in term of Legal Paper Work",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "especially in term of Legal Paper Work"
+    }
+   ]
+  },
+  {
+   "id": 58725,
+   "type": "message",
+   "date": "2024-04-10T09:53:16",
+   "date_unixtime": "1712717596",
+   "from": "AHMAD ADIB OMAR",
+   "from_id": "user5606167232",
+   "reply_to_message_id": 58722,
+   "text": "South America is crypto ready hub, indeed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "South America is crypto ready hub, indeed 👍"
+    }
+   ]
+  },
+  {
+   "id": 58726,
+   "type": "message",
+   "date": "2024-04-10T10:00:16",
+   "date_unixtime": "1712718016",
+   "from": "Meela",
+   "from_id": "user6772818072",
+   "text": [
+    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    "\n\n‼️  Stay alert, Stay vigilant ‼️"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
+    }
+   ]
+  },
+  {
+   "id": 58727,
+   "type": "message",
+   "date": "2024-04-10T10:00:21",
+   "date_unixtime": "1712718021",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "reply_to_message_id": 58238,
+   "text": "I haven't seen any official announcement about this on ME3 website. Maybe it would be best to have the official announcement posted on the ME3 website so that visitors can easily access important information like this",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I haven't seen any official announcement about this on ME3 website. Maybe it would be best to have the official announcement posted on the ME3 website so that visitors can easily access important information like this"
+    }
+   ]
+  },
+  {
+   "id": 58728,
+   "type": "message",
+   "date": "2024-04-10T10:00:58",
+   "date_unixtime": "1712718058",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "text": "For instance, this could be presented as pop up or running text",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "For instance, this could be presented as pop up or running text"
+    }
+   ]
+  },
+  {
+   "id": 58729,
+   "type": "message",
+   "date": "2024-04-10T10:01:14",
+   "date_unixtime": "1712718074",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "text": "Or maybe a blog post (news page)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Or maybe a blog post (news page)"
+    }
+   ]
+  },
+  {
+   "id": 58730,
+   "type": "message",
+   "date": "2024-04-10T10:01:37",
+   "date_unixtime": "1712718097",
+   "from": "Boran",
+   "from_id": "user1831157739",
+   "text": "Just a suggestion ✌️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Just a suggestion ✌️"
+    }
+   ]
+  },
+  {
+   "id": 58731,
+   "type": "message",
+   "date": "2024-04-10T10:02:38",
+   "date_unixtime": "1712718158",
+   "edited": "2024-04-10T10:05:30",
+   "edited_unixtime": "1712718330",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58730,
+   "text": "Good Suggestions! and well received",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good Suggestions! and well received"
     }
    ]
   }
