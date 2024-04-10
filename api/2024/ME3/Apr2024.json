@@ -33082,36 +33082,6 @@
    ]
   },
   {
-   "id": 58726,
-   "type": "message",
-   "date": "2024-04-10T10:00:16",
-   "date_unixtime": "1712718016",
-   "from": "Meela",
-   "from_id": "user6772818072",
-   "text": [
-    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at ",
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    "\n\n‼️  Stay alert, Stay vigilant ‼️"
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at "
-    },
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
-    }
-   ]
-  },
-  {
    "id": 58727,
    "type": "message",
    "date": "2024-04-10T10:00:21",
@@ -33187,6 +33157,1145 @@
     {
      "type": "plain",
      "text": "Good Suggestions! and well received"
+    }
+   ]
+  },
+  {
+   "id": 58732,
+   "type": "message",
+   "date": "2024-04-10T10:07:25",
+   "date_unixtime": "1712718445",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": [
+    "in the meantime please bear with information of our latest development and Milestone Achievements through our ",
+    {
+     "type": "text_link",
+     "text": "X Account",
+     "href": "https://twitter.com/Me3wallet?s=09"
+    },
+    " and ",
+    {
+     "type": "text_link",
+     "text": "Telegram Announcement",
+     "href": "https://t.me/Me3OfficialAnnouncement"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "in the meantime please bear with information of our latest development and Milestone Achievements through our "
+    },
+    {
+     "type": "text_link",
+     "text": "X Account",
+     "href": "https://twitter.com/Me3wallet?s=09"
+    },
+    {
+     "type": "plain",
+     "text": " and "
+    },
+    {
+     "type": "text_link",
+     "text": "Telegram Announcement",
+     "href": "https://t.me/Me3OfficialAnnouncement"
+    }
+   ]
+  },
+  {
+   "id": 58733,
+   "type": "message",
+   "date": "2024-04-10T10:13:00",
+   "date_unixtime": "1712718780",
+   "from": "Lemaro",
+   "from_id": "user1941451999",
+   "text": "any airdrop? where do i start? coming from YA btw",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "any airdrop? where do i start? coming from YA btw"
+    }
+   ]
+  },
+  {
+   "id": 58734,
+   "type": "message",
+   "date": "2024-04-10T10:21:24",
+   "date_unixtime": "1712719284",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58733,
+   "text": "we aren't conducting upfront airdrop events",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "we aren't conducting upfront airdrop events"
+    }
+   ]
+  },
+  {
+   "id": 58735,
+   "type": "message",
+   "date": "2024-04-10T10:22:24",
+   "date_unixtime": "1712719344",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": [
+    "but we will conduct ",
+    {
+     "type": "bold",
+     "text": "Me3 Season 1 Incentives"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but we will conduct "
+    },
+    {
+     "type": "bold",
+     "text": "Me3 Season 1 Incentives"
+    }
+   ]
+  },
+  {
+   "id": 58736,
+   "type": "message",
+   "date": "2024-04-10T10:22:56",
+   "date_unixtime": "1712719376",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "how to get?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "how to get?"
+    }
+   ]
+  },
+  {
+   "id": 58737,
+   "type": "message",
+   "date": "2024-04-10T10:23:13",
+   "date_unixtime": "1712719393",
+   "edited": "2024-04-10T10:23:29",
+   "edited_unixtime": "1712719409",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "Contributions to the Hype Pool will gives access and points to redeem for Me3 Season 1 Incentives.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Contributions to the Hype Pool will gives access and points to redeem for Me3 Season 1 Incentives."
+    }
+   ]
+  },
+  {
+   "id": 58738,
+   "type": "message",
+   "date": "2024-04-10T10:28:24",
+   "date_unixtime": "1712719704",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "we're working on the new website,that will be launched together with Hype Pool Launch",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "we're working on the new website,that will be launched together with Hype Pool Launch"
+    }
+   ]
+  },
+  {
+   "id": 58739,
+   "type": "message",
+   "date": "2024-04-10T10:29:00",
+   "date_unixtime": "1712719740",
+   "from": "Kim Jibudan",
+   "from_id": "user1945572719",
+   "reply_to_message_id": 58591,
+   "text": "we want the yieldapp button to be turned on!!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "we want the yieldapp button to be turned on!!"
+    }
+   ]
+  },
+  {
+   "id": 58740,
+   "type": "message",
+   "date": "2024-04-10T10:48:57",
+   "date_unixtime": "1712720937",
+   "from": "Owen Michael",
+   "from_id": "user5570418572",
+   "text": "Morning me3",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning me3"
+    }
+   ]
+  },
+  {
+   "id": 58741,
+   "type": "message",
+   "date": "2024-04-10T10:59:00",
+   "date_unixtime": "1712721540",
+   "from": "Mark sandra",
+   "from_id": "user2030645346",
+   "text": "Can you guys give us a hint about the kind of partnership with Haven1? With Yield App and TrustSwap, feels like 2020 all over again.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can you guys give us a hint about the kind of partnership with Haven1? With Yield App and TrustSwap, feels like 2020 all over again."
+    }
+   ]
+  },
+  {
+   "id": 58743,
+   "type": "message",
+   "date": "2024-04-10T11:11:00",
+   "date_unixtime": "1712722260",
+   "from": "Kamness",
+   "from_id": "user1951520661",
+   "text": "First listing at Yield App? Kucoin? Bybit?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "First listing at Yield App? Kucoin? Bybit?"
+    }
+   ]
+  },
+  {
+   "id": 58744,
+   "type": "message",
+   "date": "2024-04-10T11:13:33",
+   "date_unixtime": "1712722413",
+   "from": "WANNY",
+   "from_id": "user5718347219",
+   "text": "Kucoin is the sweep spot bro",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kucoin is the sweep spot bro"
+    }
+   ]
+  },
+  {
+   "id": 58745,
+   "type": "message",
+   "date": "2024-04-10T11:33:42",
+   "date_unixtime": "1712723622",
+   "from": "WANNY",
+   "from_id": "user5718347219",
+   "text": "If there's gonna be major launchpad after TrustSwap and Yield App, then it's fire guys. Get Me3 as soon as you can!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If there's gonna be major launchpad after TrustSwap and Yield App, then it's fire guys. Get Me3 as soon as you can!"
+    }
+   ]
+  },
+  {
+   "id": 58746,
+   "type": "message",
+   "date": "2024-04-10T11:35:47",
+   "date_unixtime": "1712723747",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "reply_to_message_id": 58745,
+   "text": "Yeah waiting eagerly 😎",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah waiting eagerly 😎"
+    }
+   ]
+  },
+  {
+   "id": 58747,
+   "type": "message",
+   "date": "2024-04-10T11:44:26",
+   "date_unixtime": "1712724266",
+   "from": "Albert",
+   "from_id": "user6533989990",
+   "text": "What is today's planning team 👏\nGive some leakes 😺",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is today's planning team 👏\nGive some leakes 😺"
+    }
+   ]
+  },
+  {
+   "id": 58748,
+   "type": "message",
+   "date": "2024-04-10T11:45:08",
+   "date_unixtime": "1712724308",
+   "from": "LM DAO",
+   "from_id": "user5595586152",
+   "reply_to_message_id": 58747,
+   "text": "Team might be busy on the preparation of hype launch",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Team might be busy on the preparation of hype launch"
+    }
+   ]
+  },
+  {
+   "id": 58749,
+   "type": "message",
+   "date": "2024-04-10T11:45:14",
+   "date_unixtime": "1712724314",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58741,
+   "text": "We will be announcing further collaborations with Haven1 including using of their services for the Stake to Win Platform launch.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We will be announcing further collaborations with Haven1 including using of their services for the Stake to Win Platform launch."
+    }
+   ]
+  },
+  {
+   "id": 58750,
+   "type": "message",
+   "date": "2024-04-10T11:45:42",
+   "date_unixtime": "1712724342",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "reply_to_message_id": 58748,
+   "text": "I am just hoping we do not face any inconvenience due to heavy traffic",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I am just hoping we do not face any inconvenience due to heavy traffic"
+    }
+   ]
+  },
+  {
+   "id": 58751,
+   "type": "message",
+   "date": "2024-04-10T11:45:56",
+   "date_unixtime": "1712724356",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58743,
+   "text": "we're pushing for Me3 token to be listed on T1 Cex for sure, more details will be revealed around TGE",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "we're pushing for Me3 token to be listed on T1 Cex for sure, more details will be revealed around TGE"
+    }
+   ]
+  },
+  {
+   "id": 58752,
+   "type": "message",
+   "date": "2024-04-10T11:46:34",
+   "date_unixtime": "1712724394",
+   "edited": "2024-04-10T11:47:17",
+   "edited_unixtime": "1712724437",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58750,
+   "text": "ahahaha rest assured, we already prepare some measures for large traffic surge",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahahaha rest assured, we already prepare some measures for large traffic surge"
+    }
+   ]
+  },
+  {
+   "id": 58753,
+   "type": "message",
+   "date": "2024-04-10T11:46:52",
+   "date_unixtime": "1712724412",
+   "from": "Alvaro Tenorio",
+   "from_id": "user6124832158",
+   "reply_to_message_id": 58750,
+   "text": "That's why team is taking time , to make sure that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "That's why team is taking time , to make sure that"
+    }
+   ]
+  },
+  {
+   "id": 58754,
+   "type": "message",
+   "date": "2024-04-10T11:47:01",
+   "date_unixtime": "1712724421",
+   "from": "Alvaro Tenorio",
+   "from_id": "user6124832158",
+   "reply_to_message_id": 58752,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😘",
+   "width": 471,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58755,
+   "type": "message",
+   "date": "2024-04-10T11:47:30",
+   "date_unixtime": "1712724450",
+   "from": "𝗜𝗡𝗗𝗞𝗥𝗜𝗦𝗛𝗡𝗔",
+   "from_id": "user6101897152",
+   "reply_to_message_id": 58752,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😍",
+   "width": 506,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58756,
+   "type": "message",
+   "date": "2024-04-10T11:52:11",
+   "date_unixtime": "1712724731",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58747,
+   "text": [
+    "well, we already gave you more than sneak a peek ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/58539"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "well, we already gave you more than sneak a peek "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/58539"
+    }
+   ]
+  },
+  {
+   "id": 58758,
+   "type": "message",
+   "date": "2024-04-10T12:27:06",
+   "date_unixtime": "1712726826",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58750,
+   "text": "Don't worry — we're taking care of each and every measure so our users won't face any inconveniences.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Don't worry — we're taking care of each and every measure so our users won't face any inconveniences."
+    }
+   ]
+  },
+  {
+   "id": 58759,
+   "type": "message",
+   "date": "2024-04-10T12:28:09",
+   "date_unixtime": "1712726889",
+   "from": "LM DAO",
+   "from_id": "user5595586152",
+   "reply_to_message_id": 58750,
+   "text": "Trust the process 😎\nBut yup there will be good traffic make sure to switch on good networks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Trust the process 😎\nBut yup there will be good traffic make sure to switch on good networks"
+    }
+   ]
+  },
+  {
+   "id": 58760,
+   "type": "message",
+   "date": "2024-04-10T12:30:43",
+   "date_unixtime": "1712727043",
+   "from": "Alex",
+   "from_id": "user5298095788",
+   "text": "Morning folks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Morning folks"
+    }
+   ]
+  },
+  {
+   "id": 58761,
+   "type": "message",
+   "date": "2024-04-10T12:31:38",
+   "date_unixtime": "1712727098",
+   "from": "Alex",
+   "from_id": "user5298095788",
+   "text": "Are there certain conditions to be able to participate in the launchpad later?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Are there certain conditions to be able to participate in the launchpad later?"
+    }
+   ]
+  },
+  {
+   "id": 58762,
+   "type": "message",
+   "date": "2024-04-10T12:31:59",
+   "date_unixtime": "1712727119",
+   "from": "Alex",
+   "from_id": "user5298095788",
+   "text": "Or will that be determined by Yield app?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Or will that be determined by Yield app?"
+    }
+   ]
+  },
+  {
+   "id": 58763,
+   "type": "message",
+   "date": "2024-04-10T12:32:05",
+   "date_unixtime": "1712727125",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58761,
+   "text": "We'll make an announcement. Please stay tuned.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We'll make an announcement. Please stay tuned."
+    }
+   ]
+  },
+  {
+   "id": 58764,
+   "type": "message",
+   "date": "2024-04-10T12:34:00",
+   "date_unixtime": "1712727240",
+   "from": "Lemaro",
+   "from_id": "user1941451999",
+   "text": "the token sale at yield aop is today right???",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the token sale at yield aop is today right???"
+    }
+   ]
+  },
+  {
+   "id": 58765,
+   "type": "message",
+   "date": "2024-04-10T12:36:02",
+   "date_unixtime": "1712727362",
+   "from": "Alex",
+   "from_id": "user5298095788",
+   "reply_to_message_id": 58763,
+   "text": "Ok, but maybe this week?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok, but maybe this week?"
+    }
+   ]
+  },
+  {
+   "id": 58766,
+   "type": "message",
+   "date": "2024-04-10T12:37:50",
+   "date_unixtime": "1712727470",
+   "from": "Conan Fern",
+   "from_id": "user6196976043",
+   "reply_to_message_id": 58764,
+   "text": "Is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is it?"
+    }
+   ]
+  },
+  {
+   "id": 58767,
+   "type": "message",
+   "date": "2024-04-10T12:38:05",
+   "date_unixtime": "1712727485",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58764,
+   "text": "The Specific date for our sale has not announced yet. Please stick to our twitter and Announcement channel for more latest updates.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The Specific date for our sale has not announced yet. Please stick to our twitter and Announcement channel for more latest updates."
+    }
+   ]
+  },
+  {
+   "id": 58768,
+   "type": "message",
+   "date": "2024-04-10T12:38:19",
+   "date_unixtime": "1712727499",
+   "edited": "2024-04-10T12:38:26",
+   "edited_unixtime": "1712727506",
+   "from": "Conan Fern",
+   "from_id": "user6196976043",
+   "reply_to_message_id": 58767,
+   "text": "Ok👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok👍"
+    }
+   ]
+  },
+  {
+   "id": 58769,
+   "type": "message",
+   "date": "2024-04-10T12:41:23",
+   "date_unixtime": "1712727683",
+   "from": "Andreas",
+   "from_id": "user1796320133",
+   "text": "After yield app launchpad, will there be another token sales?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "After yield app launchpad, will there be another token sales?"
+    }
+   ]
+  },
+  {
+   "id": 58770,
+   "type": "message",
+   "date": "2024-04-10T12:42:11",
+   "date_unixtime": "1712727731",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58761,
+   "text": "The conditions for the Yield App private sale will be displayed on their launch page once its available.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The conditions for the Yield App private sale will be displayed on their launch page once its available."
+    }
+   ]
+  },
+  {
+   "id": 58771,
+   "type": "message",
+   "date": "2024-04-10T12:43:23",
+   "date_unixtime": "1712727803",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58769,
+   "text": "Yes, correct.We will be making a major launchpad announcement this week. Following that, we will proceed with our TGE and Hype pool launch, expected next week.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, correct.We will be making a major launchpad announcement this week. Following that, we will proceed with our TGE and Hype pool launch, expected next week."
+    }
+   ]
+  },
+  {
+   "id": 58772,
+   "type": "message",
+   "date": "2024-04-10T12:47:47",
+   "date_unixtime": "1712728067",
+   "from": "Andreas",
+   "from_id": "user1796320133",
+   "reply_to_message_id": 58771,
+   "text": "When do you think we can actually use this hype pool?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When do you think we can actually use this hype pool?"
+    }
+   ]
+  },
+  {
+   "id": 58773,
+   "type": "message",
+   "date": "2024-04-10T12:49:38",
+   "date_unixtime": "1712728178",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58772,
+   "text": [
+    "Hype Pool is finally set to be officially launched next week\n\nPlease read our latest announcement on hype pool for more info ",
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/58539"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hype Pool is finally set to be officially launched next week\n\nPlease read our latest announcement on hype pool for more info "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/58539"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 58774,
+   "type": "message",
+   "date": "2024-04-10T12:52:21",
+   "date_unixtime": "1712728341",
+   "from": "Andreas",
+   "from_id": "user1796320133",
+   "reply_to_message_id": 58773,
+   "text": "Alright, so we can start using it next week?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Alright, so we can start using it next week?"
+    }
+   ]
+  },
+  {
+   "id": 58775,
+   "type": "message",
+   "date": "2024-04-10T12:52:30",
+   "date_unixtime": "1712728350",
+   "from": "Andreas",
+   "from_id": "user1796320133",
+   "text": "Just want to double check",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Just want to double check"
+    }
+   ]
+  },
+  {
+   "id": 58776,
+   "type": "message",
+   "date": "2024-04-10T12:53:52",
+   "date_unixtime": "1712728432",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58774,
+   "text": "Yes, correct.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes, correct."
+    }
+   ]
+  },
+  {
+   "id": 58777,
+   "type": "message",
+   "date": "2024-04-10T12:54:31",
+   "date_unixtime": "1712728471",
+   "from": "Andreas",
+   "from_id": "user1796320133",
+   "reply_to_message_id": 58776,
+   "text": "Ok thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok thanks"
+    }
+   ]
+  },
+  {
+   "id": 58778,
+   "type": "message",
+   "date": "2024-04-10T12:54:43",
+   "date_unixtime": "1712728483",
+   "from": "Andreas",
+   "from_id": "user1796320133",
+   "text": "Keep it up, team",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Keep it up, team"
+    }
+   ]
+  },
+  {
+   "id": 58779,
+   "type": "message",
+   "date": "2024-04-10T12:54:58",
+   "date_unixtime": "1712728498",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58777,
+   "file": "video_files/animation (1).gif.mp4",
+   "thumbnail": "video_files/animation (1).gif.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 220,
+   "height": 164,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58780,
+   "type": "message",
+   "date": "2024-04-10T12:55:28",
+   "date_unixtime": "1712728528",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58778,
+   "text": "If you require any further assistance, please feel free to ask.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If you require any further assistance, please feel free to ask."
+    }
+   ]
+  },
+  {
+   "id": 58781,
+   "type": "message",
+   "date": "2024-04-10T13:00:14",
+   "date_unixtime": "1712728814",
+   "from": "Meela",
+   "from_id": "user6772818072",
+   "text": [
+    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    "\n\n‼️  Stay alert, Stay vigilant ‼️"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to Creo Engine Official Announcement at "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
+    }
+   ]
+  },
+  {
+   "id": 58782,
+   "type": "message",
+   "date": "2024-04-10T13:05:08",
+   "date_unixtime": "1712729108",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "reply_to_message_id": 58773,
+   "text": "What should be prepared to participate in the hype pool?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What should be prepared to participate in the hype pool?"
+    }
+   ]
+  },
+  {
+   "id": 58783,
+   "type": "message",
+   "date": "2024-04-10T13:06:20",
+   "date_unixtime": "1712729180",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "I mean, this is about the battle of supporters on social media, right?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I mean, this is about the battle of supporters on social media, right?"
+    }
+   ]
+  },
+  {
+   "id": 58784,
+   "type": "message",
+   "date": "2024-04-10T13:07:26",
+   "date_unixtime": "1712729246",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "Do we require a social media account that meets specific criteria, such as a minimum number of followers, etc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Do we require a social media account that meets specific criteria, such as a minimum number of followers, etc"
+    }
+   ]
+  },
+  {
+   "id": 58785,
+   "type": "message",
+   "date": "2024-04-10T13:07:52",
+   "date_unixtime": "1712729272",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58782,
+   "text": [
+    "Stake your $Me3 tokens in any of the available 20+ pools and show your support for your favorite teams and players in an Epic Showdown Of Dedication & Strategy.\n\n\nyou can watch our episode and learn how the Hype Pool works.\n\nEpisodes ",
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    "\n1. ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/55609"
+    },
+    "\n2. ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/55846"
+    },
+    "\n3. ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/55938"
+    },
+    "\n4. ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/56049"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Stake your $Me3 tokens in any of the available 20+ pools and show your support for your favorite teams and players in an Epic Showdown Of Dedication & Strategy.\n\n\nyou can watch our episode and learn how the Hype Pool works.\n\nEpisodes "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": "\n1. "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/55609"
+    },
+    {
+     "type": "plain",
+     "text": "\n2. "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/55846"
+    },
+    {
+     "type": "plain",
+     "text": "\n3. "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/55938"
+    },
+    {
+     "type": "plain",
+     "text": "\n4. "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/56049"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 58786,
+   "type": "message",
+   "date": "2024-04-10T13:08:48",
+   "date_unixtime": "1712729328",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "reply_to_message_id": 58785,
+   "text": "I'll check it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'll check it"
+    }
+   ]
+  },
+  {
+   "id": 58787,
+   "type": "message",
+   "date": "2024-04-10T13:08:56",
+   "date_unixtime": "1712729336",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "Big thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Big thanks"
+    }
+   ]
+  },
+  {
+   "id": 58788,
+   "type": "message",
+   "date": "2024-04-10T13:09:00",
+   "date_unixtime": "1712729340",
+   "from": "Mark Emachy",
+   "from_id": "user6261418772",
+   "text": "Any airdrop chance for yield app angels?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Any airdrop chance for yield app angels?"
+    }
+   ]
+  },
+  {
+   "id": 58789,
+   "type": "message",
+   "date": "2024-04-10T13:09:13",
+   "date_unixtime": "1712729353",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58784,
+   "text": "Success in the Hype Pool is measured by a comprehensive set of criteria designed to capture the essence of community engagement and commitment:\n\n-The total amount raised in support of each team.\n-The number of unique user wallet addresses contributing, with a minimum commitment set at $10 USD equivalent, showcasing widespread community backing.\n-Social media engagement metrics, including new Twitter followers, Telegram channel joiners, and Discord server participants, all tracked from the point of registration.\n-The virality of the campaign, assessed through reposts of official tweets by registered accounts.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Success in the Hype Pool is measured by a comprehensive set of criteria designed to capture the essence of community engagement and commitment:\n\n-The total amount raised in support of each team.\n-The number of unique user wallet addresses contributing, with a minimum commitment set at $10 USD equivalent, showcasing widespread community backing.\n-Social media engagement metrics, including new Twitter followers, Telegram channel joiners, and Discord server participants, all tracked from the point of registration.\n-The virality of the campaign, assessed through reposts of official tweets by registered accounts."
+    }
+   ]
+  },
+  {
+   "id": 58791,
+   "type": "message",
+   "date": "2024-04-10T13:10:12",
+   "date_unixtime": "1712729412",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58788,
+   "text": [
+    "We'll make an announcement if there's any. Please stay tuned and keep your eyes peeled on our announcement channel.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We'll make an announcement if there's any. Please stay tuned and keep your eyes peeled on our announcement channel.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👉",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 58792,
+   "type": "message",
+   "date": "2024-04-10T13:10:19",
+   "date_unixtime": "1712729419",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 58787,
+   "file": "video_files/animation (1).gif.mp4",
+   "thumbnail": "video_files/animation (1).gif.mp4_thumb.jpg",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 220,
+   "height": 164,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 58793,
+   "type": "message",
+   "date": "2024-04-10T13:18:46",
+   "date_unixtime": "1712729926",
+   "from": "Mark sandra",
+   "from_id": "user2030645346",
+   "reply_to_message_id": 58517,
+   "text": "Wondering why...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Wondering why..."
+    }
+   ]
+  },
+  {
+   "id": 58794,
+   "type": "message",
+   "date": "2024-04-10T13:19:40",
+   "date_unixtime": "1712729980",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 58793,
+   "text": "no specific reasoning for this, since both have a comparable Allocation Size",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "no specific reasoning for this, since both have a comparable Allocation Size"
     }
    ]
   }
