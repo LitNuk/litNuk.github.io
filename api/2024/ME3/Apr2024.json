@@ -57260,36 +57260,6 @@
    ]
   },
   {
-   "id": 60165,
-   "type": "message",
-   "date": "2024-04-12T23:00:23",
-   "date_unixtime": "1712937623",
-   "from": "Meela",
-   "from_id": "user6772818072",
-   "text": [
-    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at ",
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    "\n\n‼️  Stay alert, Stay vigilant ‼️"
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at "
-    },
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
-    }
-   ]
-  },
-  {
    "id": 60166,
    "type": "message",
    "date": "2024-04-12T23:09:15",
@@ -57332,6 +57302,310 @@
     {
      "type": "plain",
      "text": "Not yet, I guess"
+    }
+   ]
+  },
+  {
+   "id": 60169,
+   "type": "message",
+   "date": "2024-04-12T23:18:58",
+   "date_unixtime": "1712938738",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 60166,
+   "text": "Hey Ahista \n10% of unlock at TGE then 10 months vesting.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey Ahista \n10% of unlock at TGE then 10 months vesting."
+    }
+   ]
+  },
+  {
+   "id": 60170,
+   "type": "message",
+   "date": "2024-04-12T23:19:10",
+   "date_unixtime": "1712938750",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 60164,
+   "text": "Responded ✅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Responded ✅"
+    }
+   ]
+  },
+  {
+   "id": 60171,
+   "type": "message",
+   "date": "2024-04-12T23:23:16",
+   "date_unixtime": "1712938996",
+   "from": "Ahista",
+   "from_id": "user1939743592",
+   "reply_to_message_id": 60169,
+   "text": "The rest will be unlocked within 10 months?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The rest will be unlocked within 10 months?"
+    }
+   ]
+  },
+  {
+   "id": 60172,
+   "type": "message",
+   "date": "2024-04-12T23:23:43",
+   "date_unixtime": "1712939023",
+   "from": "Ahista",
+   "from_id": "user1939743592",
+   "text": "Every month or once in the 10th month?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Every month or once in the 10th month?"
+    }
+   ]
+  },
+  {
+   "id": 60173,
+   "type": "message",
+   "date": "2024-04-12T23:23:59",
+   "date_unixtime": "1712939039",
+   "from": "Dove",
+   "from_id": "user1367914496",
+   "reply_to_message_id": 60168,
+   "text": "Approximate date?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Approximate date?"
+    }
+   ]
+  },
+  {
+   "id": 60174,
+   "type": "message",
+   "date": "2024-04-12T23:25:09",
+   "date_unixtime": "1712939109",
+   "from": "Ahista",
+   "from_id": "user1939743592",
+   "reply_to_message_id": 60173,
+   "text": "Admin knows better",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Admin knows better"
+    }
+   ]
+  },
+  {
+   "id": 60175,
+   "type": "message",
+   "date": "2024-04-12T23:38:49",
+   "date_unixtime": "1712939929",
+   "from": "Altcoin Blitz",
+   "from_id": "user954044185",
+   "reply_to_message_id": 60172,
+   "text": "I believe it's linear. Daily drip.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I believe it's linear. Daily drip."
+    }
+   ]
+  },
+  {
+   "id": 60176,
+   "type": "message",
+   "date": "2024-04-12T23:39:35",
+   "date_unixtime": "1712939975",
+   "edited": "2024-04-12T23:39:48",
+   "edited_unixtime": "1712939988",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 60172,
+   "text": "It's every month.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It's every month."
+    }
+   ]
+  },
+  {
+   "id": 60177,
+   "type": "message",
+   "date": "2024-04-12T23:39:55",
+   "date_unixtime": "1712939995",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 60173,
+   "text": "We will be doing our public sale and TGE in next few weeks.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We will be doing our public sale and TGE in next few weeks."
+    }
+   ]
+  },
+  {
+   "id": 60178,
+   "type": "message",
+   "date": "2024-04-12T23:40:16",
+   "date_unixtime": "1712940016",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "and Next week is scheduled for Hype Pool Launch",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "and Next week is scheduled for Hype Pool Launch"
+    }
+   ]
+  },
+  {
+   "id": 60179,
+   "type": "message",
+   "date": "2024-04-12T23:40:22",
+   "date_unixtime": "1712940022",
+   "from": "Ahista",
+   "from_id": "user1939743592",
+   "text": "Ok thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok thanks"
+    }
+   ]
+  },
+  {
+   "id": 60180,
+   "type": "message",
+   "date": "2024-04-12T23:47:22",
+   "date_unixtime": "1712940442",
+   "from": "camello",
+   "from_id": "user1899873922",
+   "reply_to_message_id": 60132,
+   "text": "date locked 🔐",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "date locked 🔐"
+    }
+   ]
+  },
+  {
+   "id": 60181,
+   "type": "message",
+   "date": "2024-04-12T23:53:25",
+   "date_unixtime": "1712940805",
+   "from": "Adeina Mendela™️⚡",
+   "from_id": "user5511697282",
+   "reply_to_message_id": 60116,
+   "text": "When AMA winner list published?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "When AMA winner list published?"
+    }
+   ]
+  },
+  {
+   "id": 60182,
+   "type": "message",
+   "date": "2024-04-12T23:54:53",
+   "date_unixtime": "1712940893",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 60181,
+   "text": "Hey Adeina \nThe winners will be announced by tommorow. And the reward will be distributed in 14 working days.\nPlease have some patience. Thanks",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey Adeina \nThe winners will be announced by tommorow. And the reward will be distributed in 14 working days.\nPlease have some patience. Thanks"
+    }
+   ]
+  },
+  {
+   "id": 60184,
+   "type": "message",
+   "date": "2024-04-13T01:00:35",
+   "date_unixtime": "1712944835",
+   "from": "Meela",
+   "from_id": "user6772818072",
+   "text": [
+    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    "\n\n‼️  Stay alert, Stay vigilant ‼️"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
+    }
+   ]
+  },
+  {
+   "id": 60185,
+   "type": "message",
+   "date": "2024-04-13T01:12:01",
+   "date_unixtime": "1712945521",
+   "from": "ابو الياس",
+   "from_id": "user5749940638",
+   "text": "Hello friends",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello friends"
+    }
+   ]
+  },
+  {
+   "id": 60186,
+   "type": "message",
+   "date": "2024-04-13T01:13:17",
+   "date_unixtime": "1712945597",
+   "from": "ابو الياس",
+   "from_id": "user5749940638",
+   "text": "What are the instructions to obtain the gift and reward?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What are the instructions to obtain the gift and reward?"
+    }
+   ]
+  },
+  {
+   "id": 60187,
+   "type": "message",
+   "date": "2024-04-13T01:14:57",
+   "date_unixtime": "1712945697",
+   "from": "Blockchain Ravi [ Will Never DM First ]",
+   "from_id": "user901528102",
+   "reply_to_message_id": 60186,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/59685"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/Me3Official/59685"
     }
    ]
   }
