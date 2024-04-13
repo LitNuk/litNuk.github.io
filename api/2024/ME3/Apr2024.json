@@ -59043,36 +59043,6 @@
    ]
   },
   {
-   "id": 60285,
-   "type": "message",
-   "date": "2024-04-13T05:00:15",
-   "date_unixtime": "1712959215",
-   "from": "Meela",
-   "from_id": "user6772818072",
-   "text": [
-    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at ",
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    "\n\n‼️  Stay alert, Stay vigilant ‼️"
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at "
-    },
-    {
-     "type": "link",
-     "text": "https://t.me/Me3OfficialAnnouncement"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
-    }
-   ]
-  },
-  {
    "id": 60286,
    "type": "message",
    "date": "2024-04-13T05:08:29",
@@ -59131,6 +59101,344 @@
     {
      "type": "plain",
      "text": "When is the ido slated?"
+    }
+   ]
+  },
+  {
+   "id": 60290,
+   "type": "message",
+   "date": "2024-04-13T05:19:18",
+   "date_unixtime": "1712960358",
+   "from": "Elvish Yadav",
+   "from_id": "user5909478700",
+   "reply_to_message_id": 60284,
+   "text": "Yeah",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah"
+    }
+   ]
+  },
+  {
+   "id": 60291,
+   "type": "message",
+   "date": "2024-04-13T05:19:23",
+   "date_unixtime": "1712960363",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "Preseason:\nSelect invite code holders can register and join for a free 300 $Me3 stake to put towards their favorite team. (April 12 - 26)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Preseason:\nSelect invite code holders can register and join for a free 300 $Me3 stake to put towards their favorite team. (April 12 - 26)"
+    }
+   ]
+  },
+  {
+   "id": 60292,
+   "type": "message",
+   "date": "2024-04-13T05:19:40",
+   "date_unixtime": "1712960380",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "Has it started yet? or what?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Has it started yet? or what?"
+    }
+   ]
+  },
+  {
+   "id": 60293,
+   "type": "message",
+   "date": "2024-04-13T05:19:54",
+   "date_unixtime": "1712960394",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "What is this preseason about?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is this preseason about?"
+    }
+   ]
+  },
+  {
+   "id": 60294,
+   "type": "message",
+   "date": "2024-04-13T05:21:39",
+   "date_unixtime": "1712960499",
+   "from": "Fabrie",
+   "from_id": "user1924903129",
+   "text": "Could this be a private event? 🤔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Could this be a private event? 🤔"
+    }
+   ]
+  },
+  {
+   "id": 60295,
+   "type": "message",
+   "date": "2024-04-13T05:59:20",
+   "date_unixtime": "1712962760",
+   "from": "Abhishek",
+   "from_id": "user5969280126",
+   "reply_to_message_id": 60288,
+   "text": "Yes sure. The governance utilities would give more power to community to make decisions on project traction",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes sure. The governance utilities would give more power to community to make decisions on project traction"
+    }
+   ]
+  },
+  {
+   "id": 60297,
+   "type": "message",
+   "date": "2024-04-13T07:00:12",
+   "date_unixtime": "1712966412",
+   "from": "Meela",
+   "from_id": "user6772818072",
+   "text": [
+    "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at ",
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    "\n\n‼️  Stay alert, Stay vigilant ‼️"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "⚠️⚠️ Beware of scammers ⚠️⚠️\nADMIN WILL NEVER DM YOU FIRST\n\nOnly refer to ME3 Official Announcement at "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/Me3OfficialAnnouncement"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n‼️  Stay alert, Stay vigilant ‼️"
+    }
+   ]
+  },
+  {
+   "id": 60298,
+   "type": "message",
+   "date": "2024-04-13T07:03:59",
+   "date_unixtime": "1712966639",
+   "from": "Jitendra Gupta",
+   "from_id": "user6097637818",
+   "reply_to_message_id": 60295,
+   "text": "True.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "True."
+    }
+   ]
+  },
+  {
+   "id": 60299,
+   "type": "message",
+   "date": "2024-04-13T07:04:28",
+   "date_unixtime": "1712966668",
+   "edited": "2024-04-13T07:04:51",
+   "edited_unixtime": "1712966691",
+   "from": "Jitendra Gupta",
+   "from_id": "user6097637818",
+   "text": "We can't expect less. Putting governance as token functionality would help in project traction",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "We can't expect less. Putting governance as token functionality would help in project traction"
+    }
+   ]
+  },
+  {
+   "id": 60300,
+   "type": "message",
+   "date": "2024-04-13T07:04:41",
+   "date_unixtime": "1712966681",
+   "from": "Jitendra Gupta",
+   "from_id": "user6097637818",
+   "text": "Have you considered the utilities itself?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Have you considered the utilities itself?"
+    }
+   ]
+  },
+  {
+   "id": 60301,
+   "type": "message",
+   "date": "2024-04-13T07:05:03",
+   "date_unixtime": "1712966703",
+   "from": "Abhishek",
+   "from_id": "user5969280126",
+   "reply_to_message_id": 60300,
+   "text": "Yeah sure I did that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yeah sure I did that"
+    }
+   ]
+  },
+  {
+   "id": 60302,
+   "type": "message",
+   "date": "2024-04-13T07:06:33",
+   "date_unixtime": "1712966793",
+   "from": "Elvish Yadav",
+   "from_id": "user5909478700",
+   "reply_to_message_id": 60300,
+   "text": "They would basically serve as fuel for the Me3 ecosystem",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "They would basically serve as fuel for the Me3 ecosystem"
+    }
+   ]
+  },
+  {
+   "id": 60303,
+   "type": "message",
+   "date": "2024-04-13T07:06:46",
+   "date_unixtime": "1712966806",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "text": "Good Morning Me3 Gangs!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good Morning Me3 Gangs!"
+    }
+   ]
+  },
+  {
+   "id": 60304,
+   "type": "message",
+   "date": "2024-04-13T07:07:55",
+   "date_unixtime": "1712966875",
+   "from": "GIXUE EVERYWHERE",
+   "from_id": "user5006280927",
+   "reply_to_message_id": 60282,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/gitbook"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/gitbook"
+    }
+   ]
+  },
+  {
+   "id": 60305,
+   "type": "message",
+   "date": "2024-04-13T07:07:56",
+   "date_unixtime": "1712966876",
+   "from": "Meela",
+   "from_id": "user6772818072",
+   "reply_to_message_id": 60282,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://me3wallet.gitbook.io/docs"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://me3wallet.gitbook.io/docs"
+    }
+   ]
+  },
+  {
+   "id": 60306,
+   "type": "message",
+   "date": "2024-04-13T07:12:47",
+   "date_unixtime": "1712967167",
+   "from": "Jitendra Gupta",
+   "from_id": "user6097637818",
+   "reply_to_message_id": 60303,
+   "text": "Good morning admin",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning admin"
+    }
+   ]
+  },
+  {
+   "id": 60307,
+   "type": "message",
+   "date": "2024-04-13T07:13:03",
+   "date_unixtime": "1712967183",
+   "from": "Elvish Yadav",
+   "from_id": "user5909478700",
+   "reply_to_message_id": 60303,
+   "text": "Top of the morning to you 🌻",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Top of the morning to you 🌻"
+    }
+   ]
+  },
+  {
+   "id": 60308,
+   "type": "message",
+   "date": "2024-04-13T07:23:11",
+   "date_unixtime": "1712967791",
+   "from": "Jitendra Gupta",
+   "from_id": "user6097637818",
+   "reply_to_message_id": 60302,
+   "text": "Yes sure I believe all incentives would be paid using the tokens 🚀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes sure I believe all incentives would be paid using the tokens 🚀"
+    }
+   ]
+  },
+  {
+   "id": 60309,
+   "type": "message",
+   "date": "2024-04-13T07:23:17",
+   "date_unixtime": "1712967797",
+   "from": "Jitendra Gupta",
+   "from_id": "user6097637818",
+   "text": "Can't wait for launch.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can't wait for launch."
+    }
+   ]
+  },
+  {
+   "id": 60310,
+   "type": "message",
+   "date": "2024-04-13T07:38:00",
+   "date_unixtime": "1712968680",
+   "from": "Abhishek",
+   "from_id": "user5969280126",
+   "reply_to_message_id": 60308,
+   "text": "Yes that would add more value to the tokens hence a good investment opportunity",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes that would add more value to the tokens hence a good investment opportunity"
     }
    ]
   }
